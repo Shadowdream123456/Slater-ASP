@@ -1,0 +1,11 @@
+ver_order(I,J) :- ver(I),ver(J),not conflict(I,J).
+conflict(I,J) :- I=K,J!=M,ver_order(K,M),ver(I),ver(J),ver(K),ver(M).
+conflict(I,J) :- I!=K,J=M,ver_order(K,M),ver(I),ver(J),ver(K),ver(M).
+arc_order(A,C) :- ver_order(A,B),ver_order(C,D),A!=C,B!=D,B>D.
+arc_order(C,A) :- ver_order(A,B),ver_order(C,D),A!=C,B!=D,B<D.
+winner(W) :- ver_order(W,N),ver_num(N),not arc_order(A,W),ver(A).
+diff(X,Y) :- arc(X,Y),arc_order(Y,X).
+#minimize{diff(X,Y)}.
+#hide.
+#show winner/1.
+

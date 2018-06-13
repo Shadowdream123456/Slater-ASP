@@ -1,0 +1,35 @@
+voteNum(A,B,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(A,C,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(A,D,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(A,E,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(A,F,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(B,C,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(B,D,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(B,E,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(B,F,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(C,D,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(C,E,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(C,F,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(D,E,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(D,F,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNum(E,F,G,H) :- lineWeight(A,B,C,D,E,F,G,H).
+voteNums(A,B,X) :- X = #sum{I,H:voteNum(A,B,I,H)},voteNum(A,B,_,_).
+arc(A,B,C) :- voteNums(A,B,D),voteNums(B,A,E),D!=E,D>E,C=D-E.
+arc(B,A,C) :- voteNums(A,B,D),voteNums(B,A,E),D!=E,D<E,C=E-D.
+arc(A,B,C) :- voteNums(A,B,C),vote(C).
+
+
+ver_order(I,J) :- ver(I),rank(J),not conflict(I,J).
+conflict(I,J) :- I=K,J!=M,ver_order(K,M),ver(I),rank(J),ver(K),rank(M).
+conflict(I,J) :- I!=K,J=M,ver_order(K,M),ver(I),rank(J),ver(K),rank(M).
+arc_slater(A,C) :- ver_order(A,B),ver_order(C,D),A!=C,B!=D,B>D.
+arc_slater(C,A) :- ver_order(A,B),ver_order(C,D),A!=C,B!=D,B<D.
+winner(W) :- ver_order(W,N),ver_num(N),not arc_slater(A,W),rank(A).
+diff(X,Y,Z) :- arc(X,Y,Z),arc_slater(Y,X),ver(X;Y).
+diffSum(Z) :- Z=#sum{G,X,Y:diff(X,Y,G)}.
+#minimize{Z:diffSum(Z)}.
+
+%#hide.
+#show winner/1.
+#show arc_slater/2.
+

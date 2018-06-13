@@ -1,0 +1,4819 @@
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 15
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(3)
+Optimization: 8
+Answer: 5
+winner(7)
+Optimization: 7
+Answer: 6
+winner(4)
+Optimization: 6
+Answer: 7
+winner(6)
+Optimization: 5
+Answer: 1
+winner(6)
+Optimization: 5
+Answer: 2
+winner(6)
+Optimization: 5
+Answer: 3
+winner(2)
+Optimization: 5
+Answer: 4
+winner(4)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+  Optimal    : 4
+Optimization : 5
+Calls        : 1
+Time         : 1.223s (Solving: 1.21s 1st Model: 0.00s Unsat: 0.04s)
+CPU Time     : 1.210s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 12
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(3)
+Optimization: 10
+Answer: 4
+winner(2)
+Optimization: 9
+Answer: 5
+winner(5)
+Optimization: 8
+Answer: 6
+winner(5)
+Optimization: 7
+Answer: 1
+winner(5)
+Optimization: 7
+Answer: 2
+winner(5)
+Optimization: 7
+Answer: 3
+winner(5)
+Optimization: 7
+Answer: 4
+winner(5)
+Optimization: 7
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+  Optimal    : 4
+Optimization : 7
+Calls        : 1
+Time         : 2.479s (Solving: 2.47s 1st Model: 0.00s Unsat: 0.20s)
+CPU Time     : 2.470s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 12
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(8)
+Optimization: 9
+Answer: 5
+winner(6)
+Optimization: 8
+Answer: 6
+winner(4)
+Optimization: 7
+Answer: 7
+winner(4)
+Optimization: 6
+Answer: 8
+winner(4)
+Optimization: 5
+Answer: 1
+winner(4)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.034s (Solving: 1.03s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 1.020s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(8)
+Optimization: 13
+Answer: 5
+winner(8)
+Optimization: 12
+Answer: 6
+winner(6)
+Optimization: 11
+Answer: 7
+winner(3)
+Optimization: 9
+Answer: 8
+winner(3)
+Optimization: 8
+Answer: 9
+winner(2)
+Optimization: 7
+Answer: 10
+winner(2)
+Optimization: 6
+Answer: 1
+winner(2)
+Optimization: 6
+Answer: 2
+winner(2)
+Optimization: 6
+Answer: 3
+winner(2)
+Optimization: 6
+Answer: 4
+winner(2)
+Optimization: 6
+Answer: 5
+winner(2)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 15    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 6
+Calls        : 1
+Time         : 1.809s (Solving: 1.80s 1st Model: 0.00s Unsat: 0.66s)
+CPU Time     : 1.800s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 15
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(3)
+Optimization: 11
+Answer: 5
+winner(3)
+Optimization: 10
+Answer: 6
+winner(3)
+Optimization: 9
+Answer: 7
+winner(4)
+Optimization: 8
+Answer: 8
+winner(3)
+Optimization: 7
+Answer: 9
+winner(7)
+Optimization: 6
+Answer: 10
+winner(7)
+Optimization: 5
+Answer: 11
+winner(3)
+Optimization: 4
+Answer: 1
+winner(3)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+Optimization : 4
+Calls        : 1
+Time         : 0.705s (Solving: 0.70s 1st Model: 0.00s Unsat: 0.13s)
+CPU Time     : 0.700s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 9
+Answer: 2
+winner(8)
+Optimization: 8
+Answer: 3
+winner(8)
+Optimization: 7
+Answer: 4
+winner(1)
+Optimization: 6
+Answer: 5
+winner(1)
+Optimization: 5
+Answer: 6
+winner(1)
+Optimization: 4
+Answer: 7
+winner(1)
+Optimization: 3
+Answer: 1
+winner(1)
+Optimization: 3
+Answer: 2
+winner(1)
+Optimization: 3
+Answer: 3
+winner(1)
+Optimization: 3
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 3
+Calls        : 1
+Time         : 0.308s (Solving: 0.30s 1st Model: 0.00s Unsat: 0.03s)
+CPU Time     : 0.300s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 14
+Answer: 2
+winner(8)
+Optimization: 13
+Answer: 3
+winner(8)
+Optimization: 12
+Answer: 4
+winner(8)
+Optimization: 11
+Answer: 5
+winner(7)
+Optimization: 10
+Answer: 6
+winner(7)
+Optimization: 9
+Answer: 7
+winner(7)
+Optimization: 7
+Answer: 8
+winner(7)
+Optimization: 6
+Answer: 9
+winner(7)
+Optimization: 5
+Answer: 1
+winner(7)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.319s (Solving: 1.31s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 1.310s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 11
+Answer: 2
+winner(8)
+Optimization: 10
+Answer: 3
+winner(8)
+Optimization: 9
+Answer: 4
+winner(8)
+Optimization: 8
+Answer: 5
+winner(8)
+Optimization: 7
+Answer: 6
+winner(7)
+Optimization: 6
+Answer: 7
+winner(7)
+Optimization: 5
+Answer: 1
+winner(7)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 8     
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.373s (Solving: 1.36s 1st Model: 0.00s Unsat: 0.25s)
+CPU Time     : 1.360s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 11
+Answer: 2
+winner(8)
+Optimization: 10
+Answer: 3
+winner(8)
+Optimization: 9
+Answer: 4
+winner(8)
+Optimization: 8
+Answer: 5
+winner(5)
+Optimization: 7
+Answer: 6
+winner(1)
+Optimization: 6
+Answer: 7
+winner(1)
+Optimization: 5
+Answer: 8
+winner(1)
+Optimization: 4
+Answer: 9
+winner(1)
+Optimization: 3
+Answer: 1
+winner(1)
+Optimization: 3
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+Optimization : 3
+Calls        : 1
+Time         : 0.385s (Solving: 0.38s 1st Model: 0.00s Unsat: 0.10s)
+CPU Time     : 0.370s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 14
+Answer: 2
+winner(4)
+Optimization: 12
+Answer: 3
+winner(6)
+Optimization: 11
+Answer: 4
+winner(6)
+Optimization: 9
+Answer: 5
+winner(5)
+Optimization: 8
+Answer: 6
+winner(4)
+Optimization: 7
+Answer: 7
+winner(5)
+Optimization: 6
+Answer: 1
+winner(5)
+Optimization: 6
+Answer: 2
+winner(5)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 6
+Calls        : 1
+Time         : 1.747s (Solving: 1.74s 1st Model: 0.00s Unsat: 0.32s)
+CPU Time     : 1.740s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 9
+Answer: 2
+winner(8)
+Optimization: 8
+Answer: 3
+winner(8)
+Optimization: 7
+Answer: 4
+winner(8)
+Optimization: 6
+Answer: 5
+winner(4)
+Optimization: 5
+Answer: 1
+winner(4)
+Optimization: 5
+Answer: 2
+winner(8)
+Optimization: 5
+Answer: 3
+winner(6)
+Optimization: 5
+Answer: 4
+winner(6)
+Optimization: 5
+Answer: 5
+winner(4)
+Optimization: 5
+Answer: 6
+winner(6)
+Optimization: 5
+Answer: 7
+winner(6)
+Optimization: 5
+Answer: 8
+winner(6)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+  Optimal    : 8
+Optimization : 5
+Calls        : 1
+Time         : 1.235s (Solving: 1.23s 1st Model: 0.00s Unsat: 0.15s)
+CPU Time     : 1.230s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 12
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(7)
+Optimization: 10
+Answer: 4
+winner(3)
+Optimization: 9
+Answer: 5
+winner(7)
+Optimization: 8
+Answer: 6
+winner(6)
+Optimization: 7
+Answer: 7
+winner(6)
+Optimization: 6
+Answer: 1
+winner(6)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 8     
+  Optimum    : yes
+Optimization : 6
+Calls        : 1
+Time         : 1.422s (Solving: 1.41s 1st Model: 0.00s Unsat: 0.02s)
+CPU Time     : 1.410s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 17
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(3)
+Optimization: 9
+Answer: 5
+winner(2)
+Optimization: 8
+Answer: 6
+winner(2)
+Optimization: 7
+Answer: 7
+winner(6)
+Optimization: 6
+Answer: 1
+winner(6)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 8     
+  Optimum    : yes
+Optimization : 6
+Calls        : 1
+Time         : 1.508s (Solving: 1.50s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 1.500s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(8)
+Optimization: 9
+Answer: 5
+winner(8)
+Optimization: 8
+Answer: 6
+winner(8)
+Optimization: 7
+Answer: 1
+winner(3)
+Optimization: 7
+Answer: 2
+winner(3)
+Optimization: 7
+Answer: 3
+winner(3)
+Optimization: 7
+Answer: 4
+winner(3)
+Optimization: 7
+Answer: 5
+winner(3)
+Optimization: 7
+Answer: 6
+winner(2)
+Optimization: 7
+Answer: 7
+winner(2)
+Optimization: 7
+Answer: 8
+winner(8)
+Optimization: 7
+Answer: 9
+winner(8)
+Optimization: 7
+OPTIMUM FOUND
+
+Models       : 15    
+  Optimum    : yes
+  Optimal    : 9
+Optimization : 7
+Calls        : 1
+Time         : 2.553s (Solving: 2.54s 1st Model: 0.00s Unsat: 0.34s)
+CPU Time     : 2.550s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 17
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(7)
+Optimization: 10
+Answer: 5
+winner(7)
+Optimization: 8
+Answer: 6
+winner(8)
+Optimization: 7
+Answer: 7
+winner(7)
+Optimization: 6
+Answer: 8
+winner(7)
+Optimization: 5
+Answer: 1
+winner(7)
+Optimization: 5
+Answer: 2
+winner(8)
+Optimization: 5
+Answer: 3
+winner(8)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 5
+Calls        : 1
+Time         : 1.165s (Solving: 1.16s 1st Model: 0.00s Unsat: 0.13s)
+CPU Time     : 1.160s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(5)
+Optimization: 12
+Answer: 3
+winner(5)
+Optimization: 10
+Answer: 4
+winner(4)
+Optimization: 9
+Answer: 5
+winner(1)
+Optimization: 8
+Answer: 6
+winner(6)
+Optimization: 7
+Answer: 7
+winner(6)
+Optimization: 6
+Answer: 1
+winner(6)
+Optimization: 6
+Answer: 2
+winner(6)
+Optimization: 6
+Answer: 3
+winner(6)
+Optimization: 6
+Answer: 4
+winner(6)
+Optimization: 6
+Answer: 5
+winner(6)
+Optimization: 6
+Answer: 6
+winner(6)
+Optimization: 6
+Answer: 7
+winner(6)
+Optimization: 6
+Answer: 8
+winner(6)
+Optimization: 6
+Answer: 9
+winner(6)
+Optimization: 6
+Answer: 10
+winner(6)
+Optimization: 6
+Answer: 11
+winner(6)
+Optimization: 6
+Answer: 12
+winner(6)
+Optimization: 6
+Answer: 13
+winner(6)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 20    
+  Optimum    : yes
+  Optimal    : 13
+Optimization : 6
+Calls        : 1
+Time         : 2.098s (Solving: 2.09s 1st Model: 0.00s Unsat: 0.03s)
+CPU Time     : 2.090s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(2)
+Optimization: 9
+Answer: 6
+winner(8)
+Optimization: 8
+Answer: 7
+winner(6)
+Optimization: 7
+Answer: 8
+winner(6)
+Optimization: 6
+Answer: 1
+winner(6)
+Optimization: 6
+Answer: 2
+winner(6)
+Optimization: 6
+Answer: 3
+winner(6)
+Optimization: 6
+Answer: 4
+winner(3)
+Optimization: 6
+Answer: 5
+winner(8)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 6
+Calls        : 1
+Time         : 2.230s (Solving: 2.22s 1st Model: 0.00s Unsat: 0.53s)
+CPU Time     : 2.220s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 10
+Answer: 2
+winner(7)
+Optimization: 9
+Answer: 3
+winner(1)
+Optimization: 8
+Answer: 4
+winner(1)
+Optimization: 7
+Answer: 5
+winner(3)
+Optimization: 6
+Answer: 1
+winner(1)
+Optimization: 6
+Answer: 2
+winner(1)
+Optimization: 6
+Answer: 3
+winner(1)
+Optimization: 6
+Answer: 4
+winner(1)
+Optimization: 6
+Answer: 5
+winner(6)
+Optimization: 6
+Answer: 6
+winner(6)
+Optimization: 6
+Answer: 7
+winner(6)
+Optimization: 6
+Answer: 8
+winner(8)
+Optimization: 6
+Answer: 9
+winner(6)
+Optimization: 6
+Answer: 10
+winner(3)
+Optimization: 6
+Answer: 11
+winner(8)
+Optimization: 6
+Answer: 12
+winner(5)
+Optimization: 6
+Answer: 13
+winner(6)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 18    
+  Optimum    : yes
+  Optimal    : 13
+Optimization : 6
+Calls        : 1
+Time         : 2.008s (Solving: 2.00s 1st Model: 0.00s Unsat: 0.21s)
+CPU Time     : 2.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 11
+Answer: 2
+winner(8)
+Optimization: 10
+Answer: 3
+winner(8)
+Optimization: 7
+Answer: 4
+winner(6)
+Optimization: 6
+Answer: 1
+winner(6)
+Optimization: 6
+Answer: 2
+winner(8)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 6     
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 6
+Calls        : 1
+Time         : 1.923s (Solving: 1.91s 1st Model: 0.00s Unsat: 0.54s)
+CPU Time     : 1.910s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 10
+Answer: 2
+winner(8)
+Optimization: 9
+Answer: 3
+winner(8)
+Optimization: 8
+Answer: 4
+winner(8)
+Optimization: 7
+Answer: 5
+winner(8)
+Optimization: 6
+Answer: 6
+winner(8)
+Optimization: 5
+Answer: 7
+winner(3)
+Optimization: 4
+Answer: 8
+winner(8)
+Optimization: 3
+Answer: 9
+winner(8)
+Optimization: 2
+Answer: 10
+winner(8)
+Optimization: 1
+Answer: 1
+winner(8)
+Optimization: 1
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+Optimization : 1
+Calls        : 1
+Time         : 0.095s (Solving: 0.09s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.080s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 13
+Answer: 3
+winner(8)
+Optimization: 12
+Answer: 4
+winner(8)
+Optimization: 11
+Answer: 5
+winner(5)
+Optimization: 10
+Answer: 6
+winner(2)
+Optimization: 9
+Answer: 7
+winner(2)
+Optimization: 7
+Answer: 8
+winner(4)
+Optimization: 6
+Answer: 9
+winner(4)
+Optimization: 5
+Answer: 10
+winner(4)
+Optimization: 4
+Answer: 1
+winner(4)
+Optimization: 4
+Answer: 2
+winner(5)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 4
+Calls        : 1
+Time         : 0.768s (Solving: 0.76s 1st Model: 0.00s Unsat: 0.09s)
+CPU Time     : 0.760s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 19
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(4)
+Optimization: 11
+Answer: 4
+winner(2)
+Optimization: 10
+Answer: 5
+winner(2)
+Optimization: 9
+Answer: 6
+winner(2)
+Optimization: 8
+Answer: 7
+winner(2)
+Optimization: 7
+Answer: 8
+winner(2)
+Optimization: 6
+Answer: 9
+winner(2)
+Optimization: 5
+Answer: 1
+winner(2)
+Optimization: 5
+Answer: 2
+winner(2)
+Optimization: 5
+Answer: 3
+winner(2)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 5
+Calls        : 1
+Time         : 1.386s (Solving: 1.38s 1st Model: 0.00s Unsat: 0.31s)
+CPU Time     : 1.380s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 14
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(2)
+Optimization: 9
+Answer: 5
+winner(2)
+Optimization: 8
+Answer: 6
+winner(2)
+Optimization: 7
+Answer: 7
+winner(5)
+Optimization: 6
+Answer: 8
+winner(5)
+Optimization: 5
+Answer: 9
+winner(5)
+Optimization: 4
+Answer: 1
+winner(5)
+Optimization: 4
+Answer: 2
+winner(5)
+Optimization: 4
+Answer: 3
+winner(5)
+Optimization: 4
+Answer: 4
+winner(5)
+Optimization: 4
+Answer: 5
+winner(5)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 14    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 4
+Calls        : 1
+Time         : 0.750s (Solving: 0.74s 1st Model: 0.00s Unsat: 0.18s)
+CPU Time     : 0.740s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(7)
+Optimization: 9
+Answer: 6
+winner(8)
+Optimization: 8
+Answer: 7
+winner(8)
+Optimization: 7
+Answer: 8
+winner(8)
+Optimization: 6
+Answer: 1
+winner(8)
+Optimization: 6
+Answer: 2
+winner(8)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 6
+Calls        : 1
+Time         : 1.599s (Solving: 1.59s 1st Model: 0.00s Unsat: 0.09s)
+CPU Time     : 1.590s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 12
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(7)
+Optimization: 7
+Answer: 5
+winner(7)
+Optimization: 6
+Answer: 6
+winner(7)
+Optimization: 5
+Answer: 1
+winner(7)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 7     
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.345s (Solving: 1.34s 1st Model: 0.00s Unsat: 0.34s)
+CPU Time     : 1.340s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(8)
+Optimization: 13
+Answer: 5
+winner(8)
+Optimization: 12
+Answer: 6
+winner(8)
+Optimization: 11
+Answer: 7
+winner(3)
+Optimization: 10
+Answer: 8
+winner(7)
+Optimization: 8
+Answer: 9
+winner(3)
+Optimization: 7
+Answer: 10
+winner(3)
+Optimization: 6
+Answer: 11
+winner(8)
+Optimization: 5
+Answer: 1
+winner(8)
+Optimization: 5
+Answer: 2
+winner(8)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 5
+Calls        : 1
+Time         : 1.111s (Solving: 1.10s 1st Model: 0.00s Unsat: 0.13s)
+CPU Time     : 1.100s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(3)
+Optimization: 12
+Answer: 3
+winner(7)
+Optimization: 11
+Answer: 4
+winner(7)
+Optimization: 10
+Answer: 5
+winner(6)
+Optimization: 9
+Answer: 6
+winner(6)
+Optimization: 8
+Answer: 7
+winner(3)
+Optimization: 7
+Answer: 8
+winner(3)
+Optimization: 6
+Answer: 1
+winner(3)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+Optimization : 6
+Calls        : 1
+Time         : 2.051s (Solving: 2.04s 1st Model: 0.00s Unsat: 0.32s)
+CPU Time     : 2.040s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 13
+Answer: 3
+winner(8)
+Optimization: 12
+Answer: 4
+winner(3)
+Optimization: 11
+Answer: 5
+winner(3)
+Optimization: 10
+Answer: 6
+winner(6)
+Optimization: 9
+Answer: 7
+winner(3)
+Optimization: 8
+Answer: 8
+winner(6)
+Optimization: 7
+Answer: 9
+winner(1)
+Optimization: 6
+Answer: 10
+winner(1)
+Optimization: 5
+Answer: 11
+winner(1)
+Optimization: 4
+Answer: 1
+winner(1)
+Optimization: 4
+Answer: 2
+winner(1)
+Optimization: 4
+Answer: 3
+winner(1)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 14    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 4
+Calls        : 1
+Time         : 0.717s (Solving: 0.71s 1st Model: 0.00s Unsat: 0.14s)
+CPU Time     : 0.710s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 14
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(8)
+Optimization: 9
+Answer: 5
+winner(7)
+Optimization: 8
+Answer: 6
+winner(7)
+Optimization: 7
+Answer: 7
+winner(7)
+Optimization: 6
+Answer: 1
+winner(7)
+Optimization: 6
+Answer: 2
+winner(6)
+Optimization: 6
+Answer: 3
+winner(8)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 6
+Calls        : 1
+Time         : 2.069s (Solving: 2.06s 1st Model: 0.00s Unsat: 0.28s)
+CPU Time     : 2.060s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 19
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(3)
+Optimization: 12
+Answer: 5
+winner(4)
+Optimization: 11
+Answer: 6
+winner(6)
+Optimization: 10
+Answer: 7
+winner(6)
+Optimization: 9
+Answer: 8
+winner(2)
+Optimization: 8
+Answer: 9
+winner(1)
+Optimization: 7
+Answer: 1
+winner(2)
+Optimization: 7
+Answer: 2
+winner(2)
+Optimization: 7
+Answer: 3
+winner(2)
+Optimization: 7
+Answer: 4
+winner(2)
+Optimization: 7
+Answer: 5
+winner(2)
+Optimization: 7
+Answer: 6
+winner(2)
+Optimization: 7
+Answer: 7
+winner(1)
+Optimization: 7
+Answer: 8
+winner(6)
+Optimization: 7
+Answer: 9
+winner(6)
+Optimization: 7
+Answer: 10
+winner(2)
+Optimization: 7
+OPTIMUM FOUND
+
+Models       : 19    
+  Optimum    : yes
+  Optimal    : 10
+Optimization : 7
+Calls        : 1
+Time         : 2.425s (Solving: 2.42s 1st Model: 0.00s Unsat: 0.68s)
+CPU Time     : 2.420s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 10
+Answer: 2
+winner(8)
+Optimization: 9
+Answer: 3
+winner(2)
+Optimization: 8
+Answer: 4
+winner(6)
+Optimization: 7
+Answer: 5
+winner(1)
+Optimization: 6
+Answer: 1
+winner(1)
+Optimization: 6
+Answer: 2
+winner(6)
+Optimization: 6
+Answer: 3
+winner(6)
+Optimization: 6
+Answer: 4
+winner(6)
+Optimization: 6
+Answer: 5
+winner(6)
+Optimization: 6
+Answer: 6
+winner(6)
+Optimization: 6
+Answer: 7
+winner(2)
+Optimization: 6
+Answer: 8
+winner(2)
+Optimization: 6
+Answer: 9
+winner(1)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 14    
+  Optimum    : yes
+  Optimal    : 9
+Optimization : 6
+Calls        : 1
+Time         : 1.943s (Solving: 1.93s 1st Model: 0.00s Unsat: 0.10s)
+CPU Time     : 1.930s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 10
+Answer: 2
+winner(8)
+Optimization: 9
+Answer: 3
+winner(6)
+Optimization: 8
+Answer: 4
+winner(6)
+Optimization: 7
+Answer: 5
+winner(6)
+Optimization: 6
+Answer: 6
+winner(8)
+Optimization: 5
+Answer: 1
+winner(8)
+Optimization: 5
+Answer: 2
+winner(8)
+Optimization: 5
+Answer: 3
+winner(8)
+Optimization: 5
+Answer: 4
+winner(8)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+  Optimal    : 4
+Optimization : 5
+Calls        : 1
+Time         : 1.626s (Solving: 1.62s 1st Model: 0.00s Unsat: 0.32s)
+CPU Time     : 1.620s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 12
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(3)
+Optimization: 7
+Answer: 4
+winner(5)
+Optimization: 6
+Answer: 5
+winner(2)
+Optimization: 5
+Answer: 1
+winner(2)
+Optimization: 5
+Answer: 2
+winner(3)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 7     
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 5
+Calls        : 1
+Time         : 1.097s (Solving: 1.09s 1st Model: 0.00s Unsat: 0.06s)
+CPU Time     : 1.090s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(8)
+Optimization: 13
+Answer: 5
+winner(3)
+Optimization: 11
+Answer: 6
+winner(5)
+Optimization: 10
+Answer: 7
+winner(5)
+Optimization: 9
+Answer: 8
+winner(5)
+Optimization: 8
+Answer: 9
+winner(3)
+Optimization: 7
+Answer: 10
+winner(7)
+Optimization: 6
+Answer: 11
+winner(5)
+Optimization: 5
+Answer: 12
+winner(5)
+Optimization: 4
+Answer: 13
+winner(5)
+Optimization: 3
+Answer: 1
+winner(5)
+Optimization: 3
+OPTIMUM FOUND
+
+Models       : 14    
+  Optimum    : yes
+Optimization : 3
+Calls        : 1
+Time         : 0.454s (Solving: 0.44s 1st Model: 0.00s Unsat: 0.13s)
+CPU Time     : 0.440s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(8)
+Optimization: 9
+Answer: 6
+winner(1)
+Optimization: 8
+Answer: 7
+winner(5)
+Optimization: 7
+Answer: 8
+winner(5)
+Optimization: 6
+Answer: 1
+winner(5)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+Optimization : 6
+Calls        : 1
+Time         : 1.504s (Solving: 1.50s 1st Model: 0.00s Unsat: 0.27s)
+CPU Time     : 1.500s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 15
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(8)
+Optimization: 12
+Answer: 5
+winner(5)
+Optimization: 11
+Answer: 6
+winner(5)
+Optimization: 10
+Answer: 7
+winner(6)
+Optimization: 9
+Answer: 8
+winner(2)
+Optimization: 8
+Answer: 9
+winner(6)
+Optimization: 7
+Answer: 10
+winner(2)
+Optimization: 6
+Answer: 1
+winner(6)
+Optimization: 6
+Answer: 2
+winner(2)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 6
+Calls        : 1
+Time         : 2.044s (Solving: 2.04s 1st Model: 0.00s Unsat: 0.21s)
+CPU Time     : 2.030s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(8)
+Optimization: 9
+Answer: 6
+winner(7)
+Optimization: 8
+Answer: 7
+winner(5)
+Optimization: 7
+Answer: 8
+winner(5)
+Optimization: 6
+Answer: 1
+winner(5)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+Optimization : 6
+Calls        : 1
+Time         : 2.215s (Solving: 2.21s 1st Model: 0.00s Unsat: 1.00s)
+CPU Time     : 2.210s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(3)
+Optimization: 11
+Answer: 4
+winner(7)
+Optimization: 9
+Answer: 5
+winner(3)
+Optimization: 8
+Answer: 6
+winner(7)
+Optimization: 7
+Answer: 7
+winner(3)
+Optimization: 6
+Answer: 8
+winner(3)
+Optimization: 5
+Answer: 1
+winner(1)
+Optimization: 5
+Answer: 2
+winner(3)
+Optimization: 5
+Answer: 3
+winner(3)
+Optimization: 5
+Answer: 4
+winner(3)
+Optimization: 5
+Answer: 5
+winner(3)
+Optimization: 5
+Answer: 6
+winner(3)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 14    
+  Optimum    : yes
+  Optimal    : 6
+Optimization : 5
+Calls        : 1
+Time         : 1.480s (Solving: 1.47s 1st Model: 0.00s Unsat: 0.03s)
+CPU Time     : 1.470s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 15
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(8)
+Optimization: 12
+Answer: 5
+winner(8)
+Optimization: 11
+Answer: 6
+winner(3)
+Optimization: 10
+Answer: 7
+winner(4)
+Optimization: 9
+Answer: 8
+winner(4)
+Optimization: 8
+Answer: 9
+winner(4)
+Optimization: 6
+Answer: 10
+winner(4)
+Optimization: 5
+Answer: 1
+winner(6)
+Optimization: 5
+Answer: 2
+winner(4)
+Optimization: 5
+Answer: 3
+winner(5)
+Optimization: 5
+Answer: 4
+winner(5)
+Optimization: 5
+Answer: 5
+winner(5)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 15    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 5
+Calls        : 1
+Time         : 1.206s (Solving: 1.20s 1st Model: 0.00s Unsat: 0.02s)
+CPU Time     : 1.190s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 14
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(8)
+Optimization: 9
+Answer: 5
+winner(8)
+Optimization: 8
+Answer: 6
+winner(7)
+Optimization: 7
+Answer: 7
+winner(2)
+Optimization: 6
+Answer: 8
+winner(7)
+Optimization: 5
+Answer: 1
+winner(7)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.295s (Solving: 1.29s 1st Model: 0.00s Unsat: 0.09s)
+CPU Time     : 1.290s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 12
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(5)
+Optimization: 9
+Answer: 5
+winner(5)
+Optimization: 8
+Answer: 6
+winner(8)
+Optimization: 7
+Answer: 1
+winner(5)
+Optimization: 7
+Answer: 2
+winner(7)
+Optimization: 7
+Answer: 3
+winner(5)
+Optimization: 7
+Answer: 4
+winner(8)
+Optimization: 7
+Answer: 5
+winner(7)
+Optimization: 7
+Answer: 6
+winner(7)
+Optimization: 7
+Answer: 7
+winner(8)
+Optimization: 7
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+  Optimal    : 7
+Optimization : 7
+Calls        : 1
+Time         : 2.407s (Solving: 2.40s 1st Model: 0.00s Unsat: 0.14s)
+CPU Time     : 2.400s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 17
+Answer: 2
+winner(8)
+Optimization: 16
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(8)
+Optimization: 12
+Answer: 5
+winner(8)
+Optimization: 11
+Answer: 6
+winner(5)
+Optimization: 10
+Answer: 7
+winner(4)
+Optimization: 9
+Answer: 8
+winner(4)
+Optimization: 8
+Answer: 9
+winner(4)
+Optimization: 7
+Answer: 10
+winner(5)
+Optimization: 6
+Answer: 11
+winner(5)
+Optimization: 5
+Answer: 1
+winner(5)
+Optimization: 5
+Answer: 2
+winner(4)
+Optimization: 5
+Answer: 3
+winner(4)
+Optimization: 5
+Answer: 4
+winner(4)
+Optimization: 5
+Answer: 5
+winner(4)
+Optimization: 5
+Answer: 6
+winner(4)
+Optimization: 5
+Answer: 7
+winner(8)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 18    
+  Optimum    : yes
+  Optimal    : 7
+Optimization : 5
+Calls        : 1
+Time         : 1.502s (Solving: 1.49s 1st Model: 0.00s Unsat: 0.32s)
+CPU Time     : 1.490s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 21
+Answer: 2
+winner(8)
+Optimization: 20
+Answer: 3
+winner(8)
+Optimization: 18
+Answer: 4
+winner(8)
+Optimization: 16
+Answer: 5
+winner(8)
+Optimization: 15
+Answer: 6
+winner(7)
+Optimization: 10
+Answer: 7
+winner(3)
+Optimization: 9
+Answer: 8
+winner(3)
+Optimization: 7
+Answer: 9
+winner(2)
+Optimization: 6
+Answer: 10
+winner(2)
+Optimization: 5
+Answer: 11
+winner(3)
+Optimization: 4
+Answer: 12
+winner(3)
+Optimization: 3
+Answer: 1
+winner(3)
+Optimization: 3
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+Optimization : 3
+Calls        : 1
+Time         : 0.357s (Solving: 0.35s 1st Model: 0.00s Unsat: 0.10s)
+CPU Time     : 0.350s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(7)
+Optimization: 9
+Answer: 5
+winner(4)
+Optimization: 8
+Answer: 6
+winner(7)
+Optimization: 6
+Answer: 7
+winner(7)
+Optimization: 5
+Answer: 1
+winner(7)
+Optimization: 5
+Answer: 2
+winner(7)
+Optimization: 5
+Answer: 3
+winner(7)
+Optimization: 5
+Answer: 4
+winner(7)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+  Optimal    : 4
+Optimization : 5
+Calls        : 1
+Time         : 1.524s (Solving: 1.51s 1st Model: 0.00s Unsat: 0.07s)
+CPU Time     : 1.510s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 18
+Answer: 2
+winner(8)
+Optimization: 17
+Answer: 3
+winner(8)
+Optimization: 16
+Answer: 4
+winner(8)
+Optimization: 14
+Answer: 5
+winner(3)
+Optimization: 11
+Answer: 6
+winner(3)
+Optimization: 10
+Answer: 7
+winner(2)
+Optimization: 9
+Answer: 8
+winner(3)
+Optimization: 8
+Answer: 9
+winner(2)
+Optimization: 7
+Answer: 10
+winner(2)
+Optimization: 6
+Answer: 1
+winner(3)
+Optimization: 6
+Answer: 2
+winner(2)
+Optimization: 6
+Answer: 3
+winner(5)
+Optimization: 6
+Answer: 4
+winner(2)
+Optimization: 6
+Answer: 5
+winner(3)
+Optimization: 6
+Answer: 6
+winner(2)
+Optimization: 6
+Answer: 7
+winner(2)
+Optimization: 6
+Answer: 8
+winner(2)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 18    
+  Optimum    : yes
+  Optimal    : 8
+Optimization : 6
+Calls        : 1
+Time         : 1.947s (Solving: 1.94s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 1.940s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 7
+Answer: 2
+winner(8)
+Optimization: 6
+Answer: 3
+winner(8)
+Optimization: 5
+Answer: 4
+winner(5)
+Optimization: 4
+Answer: 1
+winner(5)
+Optimization: 4
+Answer: 2
+winner(8)
+Optimization: 4
+Answer: 3
+winner(8)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 7     
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 4
+Calls        : 1
+Time         : 0.701s (Solving: 0.69s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.690s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 15
+Answer: 2
+winner(8)
+Optimization: 10
+Answer: 3
+winner(2)
+Optimization: 8
+Answer: 4
+winner(6)
+Optimization: 7
+Answer: 5
+winner(6)
+Optimization: 6
+Answer: 1
+winner(6)
+Optimization: 6
+Answer: 2
+winner(6)
+Optimization: 6
+Answer: 3
+winner(6)
+Optimization: 6
+Answer: 4
+winner(6)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+  Optimal    : 4
+Optimization : 6
+Calls        : 1
+Time         : 2.431s (Solving: 2.42s 1st Model: 0.00s Unsat: 0.24s)
+CPU Time     : 2.420s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 17
+Answer: 2
+winner(8)
+Optimization: 10
+Answer: 3
+winner(2)
+Optimization: 9
+Answer: 4
+winner(2)
+Optimization: 8
+Answer: 5
+winner(2)
+Optimization: 7
+Answer: 6
+winner(2)
+Optimization: 6
+Answer: 7
+winner(2)
+Optimization: 5
+Answer: 1
+winner(2)
+Optimization: 5
+Answer: 2
+winner(2)
+Optimization: 5
+Answer: 3
+winner(2)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 5
+Calls        : 1
+Time         : 1.327s (Solving: 1.32s 1st Model: 0.00s Unsat: 0.19s)
+CPU Time     : 1.320s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 18
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(8)
+Optimization: 13
+Answer: 5
+winner(8)
+Optimization: 10
+Answer: 6
+winner(4)
+Optimization: 9
+Answer: 7
+winner(4)
+Optimization: 7
+Answer: 8
+winner(4)
+Optimization: 6
+Answer: 9
+winner(4)
+Optimization: 5
+Answer: 1
+winner(4)
+Optimization: 5
+Answer: 2
+winner(4)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 5
+Calls        : 1
+Time         : 1.480s (Solving: 1.47s 1st Model: 0.00s Unsat: 0.45s)
+CPU Time     : 1.470s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(6)
+Optimization: 11
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(3)
+Optimization: 9
+Answer: 6
+winner(5)
+Optimization: 8
+Answer: 7
+winner(5)
+Optimization: 7
+Answer: 8
+winner(5)
+Optimization: 6
+Answer: 9
+winner(5)
+Optimization: 5
+Answer: 10
+winner(5)
+Optimization: 4
+Answer: 11
+winner(5)
+Optimization: 3
+Answer: 1
+winner(5)
+Optimization: 3
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+Optimization : 3
+Calls        : 1
+Time         : 0.362s (Solving: 0.35s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.350s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 17
+Answer: 2
+winner(8)
+Optimization: 16
+Answer: 3
+winner(8)
+Optimization: 15
+Answer: 4
+winner(8)
+Optimization: 14
+Answer: 5
+winner(8)
+Optimization: 13
+Answer: 6
+winner(2)
+Optimization: 12
+Answer: 7
+winner(2)
+Optimization: 11
+Answer: 8
+winner(4)
+Optimization: 9
+Answer: 9
+winner(5)
+Optimization: 8
+Answer: 10
+winner(2)
+Optimization: 7
+Answer: 11
+winner(2)
+Optimization: 6
+Answer: 1
+winner(2)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+Optimization : 6
+Calls        : 1
+Time         : 2.229s (Solving: 2.22s 1st Model: 0.00s Unsat: 0.80s)
+CPU Time     : 2.220s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 20
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(2)
+Optimization: 9
+Answer: 6
+winner(2)
+Optimization: 8
+Answer: 7
+winner(3)
+Optimization: 7
+Answer: 8
+winner(3)
+Optimization: 5
+Answer: 9
+winner(3)
+Optimization: 4
+Answer: 1
+winner(3)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+Optimization : 4
+Calls        : 1
+Time         : 0.829s (Solving: 0.82s 1st Model: 0.00s Unsat: 0.17s)
+CPU Time     : 0.820s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 12
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(2)
+Optimization: 8
+Answer: 4
+winner(2)
+Optimization: 6
+Answer: 5
+winner(2)
+Optimization: 5
+Answer: 1
+winner(2)
+Optimization: 5
+Answer: 2
+winner(2)
+Optimization: 5
+Answer: 3
+winner(2)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 8     
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 5
+Calls        : 1
+Time         : 1.580s (Solving: 1.57s 1st Model: 0.00s Unsat: 0.38s)
+CPU Time     : 1.570s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(8)
+Optimization: 9
+Answer: 5
+winner(1)
+Optimization: 8
+Answer: 6
+winner(1)
+Optimization: 7
+Answer: 1
+winner(1)
+Optimization: 7
+OPTIMUM FOUND
+
+Models       : 7     
+  Optimum    : yes
+Optimization : 7
+Calls        : 1
+Time         : 2.073s (Solving: 2.06s 1st Model: 0.00s Unsat: 0.39s)
+CPU Time     : 2.060s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 10
+Answer: 2
+winner(8)
+Optimization: 9
+Answer: 3
+winner(8)
+Optimization: 8
+Answer: 4
+winner(8)
+Optimization: 7
+Answer: 5
+winner(7)
+Optimization: 6
+Answer: 6
+winner(7)
+Optimization: 5
+Answer: 7
+winner(7)
+Optimization: 4
+Answer: 1
+winner(7)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 8     
+  Optimum    : yes
+Optimization : 4
+Calls        : 1
+Time         : 0.789s (Solving: 0.78s 1st Model: 0.00s Unsat: 0.22s)
+CPU Time     : 0.780s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(8)
+Optimization: 13
+Answer: 5
+winner(8)
+Optimization: 12
+Answer: 6
+winner(8)
+Optimization: 11
+Answer: 7
+winner(7)
+Optimization: 10
+Answer: 8
+winner(5)
+Optimization: 9
+Answer: 9
+winner(2)
+Optimization: 8
+Answer: 10
+winner(1)
+Optimization: 7
+Answer: 1
+winner(2)
+Optimization: 7
+Answer: 2
+winner(2)
+Optimization: 7
+Answer: 3
+winner(2)
+Optimization: 7
+Answer: 4
+winner(5)
+Optimization: 7
+Answer: 5
+winner(5)
+Optimization: 7
+Answer: 6
+winner(5)
+Optimization: 7
+Answer: 7
+winner(5)
+Optimization: 7
+Answer: 8
+winner(5)
+Optimization: 7
+Answer: 9
+winner(5)
+Optimization: 7
+Answer: 10
+winner(2)
+Optimization: 7
+Answer: 11
+winner(1)
+Optimization: 7
+Answer: 12
+winner(2)
+Optimization: 7
+Answer: 13
+winner(2)
+Optimization: 7
+Answer: 14
+winner(2)
+Optimization: 7
+Answer: 15
+winner(2)
+Optimization: 7
+Answer: 16
+winner(2)
+Optimization: 7
+Answer: 17
+winner(2)
+Optimization: 7
+Answer: 18
+winner(2)
+Optimization: 7
+Answer: 19
+winner(2)
+Optimization: 7
+Answer: 20
+winner(2)
+Optimization: 7
+Answer: 21
+winner(2)
+Optimization: 7
+Answer: 22
+winner(2)
+Optimization: 7
+Answer: 23
+winner(1)
+Optimization: 7
+Answer: 24
+winner(2)
+Optimization: 7
+OPTIMUM FOUND
+
+Models       : 34    
+  Optimum    : yes
+  Optimal    : 24
+Optimization : 7
+Calls        : 1
+Time         : 2.425s (Solving: 2.42s 1st Model: 0.00s Unsat: 0.03s)
+CPU Time     : 2.410s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 14
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(8)
+Optimization: 9
+Answer: 5
+winner(8)
+Optimization: 8
+Answer: 6
+winner(2)
+Optimization: 7
+Answer: 7
+winner(8)
+Optimization: 6
+Answer: 8
+winner(8)
+Optimization: 5
+Answer: 1
+winner(8)
+Optimization: 5
+Answer: 2
+winner(2)
+Optimization: 5
+Answer: 3
+winner(7)
+Optimization: 5
+Answer: 4
+winner(2)
+Optimization: 5
+Answer: 5
+winner(2)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 5
+Calls        : 1
+Time         : 1.398s (Solving: 1.39s 1st Model: 0.00s Unsat: 0.33s)
+CPU Time     : 1.390s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 19
+Answer: 2
+winner(8)
+Optimization: 18
+Answer: 3
+winner(8)
+Optimization: 17
+Answer: 4
+winner(8)
+Optimization: 13
+Answer: 5
+winner(8)
+Optimization: 12
+Answer: 6
+winner(3)
+Optimization: 8
+Answer: 7
+winner(2)
+Optimization: 7
+Answer: 8
+winner(2)
+Optimization: 5
+Answer: 9
+winner(3)
+Optimization: 4
+Answer: 1
+winner(3)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+Optimization : 4
+Calls        : 1
+Time         : 0.712s (Solving: 0.70s 1st Model: 0.00s Unsat: 0.14s)
+CPU Time     : 0.700s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(5)
+Optimization: 9
+Answer: 6
+winner(3)
+Optimization: 8
+Answer: 7
+winner(6)
+Optimization: 7
+Answer: 8
+winner(6)
+Optimization: 6
+Answer: 9
+winner(4)
+Optimization: 5
+Answer: 10
+winner(4)
+Optimization: 4
+Answer: 1
+winner(4)
+Optimization: 4
+Answer: 2
+winner(4)
+Optimization: 4
+Answer: 3
+winner(4)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 4
+Calls        : 1
+Time         : 0.707s (Solving: 0.70s 1st Model: 0.00s Unsat: 0.02s)
+CPU Time     : 0.700s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(3)
+Optimization: 13
+Answer: 5
+winner(3)
+Optimization: 12
+Answer: 6
+winner(3)
+Optimization: 11
+Answer: 7
+winner(7)
+Optimization: 7
+Answer: 8
+winner(6)
+Optimization: 6
+Answer: 1
+winner(6)
+Optimization: 6
+Answer: 2
+winner(6)
+Optimization: 6
+Answer: 3
+winner(6)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 6
+Calls        : 1
+Time         : 2.304s (Solving: 2.29s 1st Model: 0.00s Unsat: 0.93s)
+CPU Time     : 2.290s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 14
+Answer: 2
+winner(8)
+Optimization: 13
+Answer: 3
+winner(8)
+Optimization: 12
+Answer: 4
+winner(8)
+Optimization: 11
+Answer: 5
+winner(1)
+Optimization: 9
+Answer: 6
+winner(1)
+Optimization: 8
+Answer: 7
+winner(1)
+Optimization: 7
+Answer: 8
+winner(1)
+Optimization: 6
+Answer: 9
+winner(1)
+Optimization: 5
+Answer: 1
+winner(6)
+Optimization: 5
+Answer: 2
+winner(6)
+Optimization: 5
+Answer: 3
+winner(6)
+Optimization: 5
+Answer: 4
+winner(1)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+  Optimal    : 4
+Optimization : 5
+Calls        : 1
+Time         : 1.442s (Solving: 1.43s 1st Model: 0.00s Unsat: 0.14s)
+CPU Time     : 1.430s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 8
+Answer: 2
+winner(8)
+Optimization: 7
+Answer: 3
+winner(8)
+Optimization: 6
+Answer: 4
+winner(1)
+Optimization: 5
+Answer: 5
+winner(1)
+Optimization: 4
+Answer: 1
+winner(1)
+Optimization: 4
+Answer: 2
+winner(1)
+Optimization: 4
+Answer: 3
+winner(1)
+Optimization: 4
+Answer: 4
+winner(8)
+Optimization: 4
+Answer: 5
+winner(1)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 4
+Calls        : 1
+Time         : 0.732s (Solving: 0.72s 1st Model: 0.00s Unsat: 0.23s)
+CPU Time     : 0.720s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 9
+Answer: 2
+winner(8)
+Optimization: 8
+Answer: 3
+winner(8)
+Optimization: 7
+Answer: 4
+winner(8)
+Optimization: 6
+Answer: 5
+winner(8)
+Optimization: 5
+Answer: 1
+winner(8)
+Optimization: 5
+Answer: 2
+winner(8)
+Optimization: 5
+Answer: 3
+winner(8)
+Optimization: 5
+Answer: 4
+winner(8)
+Optimization: 5
+Answer: 5
+winner(8)
+Optimization: 5
+Answer: 6
+winner(8)
+Optimization: 5
+Answer: 7
+winner(8)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+  Optimal    : 7
+Optimization : 5
+Calls        : 1
+Time         : 1.316s (Solving: 1.31s 1st Model: 0.00s Unsat: 0.04s)
+CPU Time     : 1.310s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 8
+Answer: 3
+winner(7)
+Optimization: 7
+Answer: 4
+winner(7)
+Optimization: 6
+Answer: 5
+winner(7)
+Optimization: 5
+Answer: 1
+winner(7)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 6     
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.474s (Solving: 1.47s 1st Model: 0.00s Unsat: 0.52s)
+CPU Time     : 1.470s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(3)
+Optimization: 11
+Answer: 4
+winner(7)
+Optimization: 10
+Answer: 5
+winner(2)
+Optimization: 9
+Answer: 6
+winner(2)
+Optimization: 8
+Answer: 7
+winner(1)
+Optimization: 7
+Answer: 8
+winner(1)
+Optimization: 6
+Answer: 9
+winner(1)
+Optimization: 5
+Answer: 1
+winner(1)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.519s (Solving: 1.51s 1st Model: 0.00s Unsat: 0.03s)
+CPU Time     : 1.510s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 20
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(4)
+Optimization: 12
+Answer: 5
+winner(4)
+Optimization: 11
+Answer: 6
+winner(7)
+Optimization: 10
+Answer: 7
+winner(7)
+Optimization: 9
+Answer: 8
+winner(7)
+Optimization: 7
+Answer: 9
+winner(7)
+Optimization: 4
+Answer: 1
+winner(7)
+Optimization: 4
+Answer: 2
+winner(7)
+Optimization: 4
+Answer: 3
+winner(7)
+Optimization: 4
+Answer: 4
+winner(7)
+Optimization: 4
+Answer: 5
+winner(7)
+Optimization: 4
+Answer: 6
+winner(7)
+Optimization: 4
+Answer: 7
+winner(7)
+Optimization: 4
+Answer: 8
+winner(7)
+Optimization: 4
+Answer: 9
+winner(7)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 18    
+  Optimum    : yes
+  Optimal    : 9
+Optimization : 4
+Calls        : 1
+Time         : 0.788s (Solving: 0.78s 1st Model: 0.00s Unsat: 0.23s)
+CPU Time     : 0.780s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 18
+Answer: 2
+winner(8)
+Optimization: 17
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(8)
+Optimization: 12
+Answer: 5
+winner(5)
+Optimization: 11
+Answer: 6
+winner(5)
+Optimization: 10
+Answer: 7
+winner(5)
+Optimization: 9
+Answer: 8
+winner(3)
+Optimization: 8
+Answer: 9
+winner(3)
+Optimization: 6
+Answer: 10
+winner(3)
+Optimization: 5
+Answer: 11
+winner(3)
+Optimization: 4
+Answer: 12
+winner(3)
+Optimization: 3
+Answer: 1
+winner(3)
+Optimization: 3
+Answer: 2
+winner(3)
+Optimization: 3
+Answer: 3
+winner(3)
+Optimization: 3
+OPTIMUM FOUND
+
+Models       : 15    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 3
+Calls        : 1
+Time         : 0.289s (Solving: 0.28s 1st Model: 0.00s Unsat: 0.02s)
+CPU Time     : 0.280s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(3)
+Optimization: 9
+Answer: 6
+winner(6)
+Optimization: 8
+Answer: 1
+winner(3)
+Optimization: 8
+Answer: 2
+winner(3)
+Optimization: 8
+Answer: 3
+winner(3)
+Optimization: 8
+Answer: 4
+winner(3)
+Optimization: 8
+Answer: 5
+winner(3)
+Optimization: 8
+Answer: 6
+winner(3)
+Optimization: 8
+Answer: 7
+winner(3)
+Optimization: 8
+Answer: 8
+winner(3)
+Optimization: 8
+Answer: 9
+winner(3)
+Optimization: 8
+Answer: 10
+winner(6)
+Optimization: 8
+Answer: 11
+winner(5)
+Optimization: 8
+Answer: 12
+winner(6)
+Optimization: 8
+Answer: 13
+winner(5)
+Optimization: 8
+Answer: 14
+winner(5)
+Optimization: 8
+Answer: 15
+winner(3)
+Optimization: 8
+Answer: 16
+winner(6)
+Optimization: 8
+Answer: 17
+winner(5)
+Optimization: 8
+Answer: 18
+winner(5)
+Optimization: 8
+Answer: 19
+winner(6)
+Optimization: 8
+Answer: 20
+winner(6)
+Optimization: 8
+Answer: 21
+winner(3)
+Optimization: 8
+Answer: 22
+winner(3)
+Optimization: 8
+Answer: 23
+winner(3)
+Optimization: 8
+Answer: 24
+winner(5)
+Optimization: 8
+Answer: 25
+winner(8)
+Optimization: 8
+Answer: 26
+winner(8)
+Optimization: 8
+Answer: 27
+winner(5)
+Optimization: 8
+Answer: 28
+winner(3)
+Optimization: 8
+Answer: 29
+winner(3)
+Optimization: 8
+OPTIMUM FOUND
+
+Models       : 35    
+  Optimum    : yes
+  Optimal    : 29
+Optimization : 8
+Calls        : 1
+Time         : 3.285s (Solving: 3.28s 1st Model: 0.00s Unsat: 0.04s)
+CPU Time     : 3.280s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 17
+Answer: 2
+winner(8)
+Optimization: 16
+Answer: 3
+winner(8)
+Optimization: 15
+Answer: 4
+winner(8)
+Optimization: 14
+Answer: 5
+winner(3)
+Optimization: 12
+Answer: 6
+winner(3)
+Optimization: 11
+Answer: 7
+winner(1)
+Optimization: 10
+Answer: 8
+winner(3)
+Optimization: 9
+Answer: 9
+winner(3)
+Optimization: 8
+Answer: 10
+winner(4)
+Optimization: 7
+Answer: 11
+winner(3)
+Optimization: 6
+Answer: 1
+winner(3)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+Optimization : 6
+Calls        : 1
+Time         : 1.653s (Solving: 1.64s 1st Model: 0.00s Unsat: 0.21s)
+CPU Time     : 1.640s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(1)
+Optimization: 9
+Answer: 6
+winner(8)
+Optimization: 8
+Answer: 7
+winner(8)
+Optimization: 7
+Answer: 8
+winner(8)
+Optimization: 6
+Answer: 9
+winner(8)
+Optimization: 5
+Answer: 1
+winner(8)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.044s (Solving: 1.04s 1st Model: 0.00s Unsat: 0.06s)
+CPU Time     : 1.040s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 10
+Answer: 3
+winner(8)
+Optimization: 9
+Answer: 4
+winner(2)
+Optimization: 8
+Answer: 5
+winner(2)
+Optimization: 7
+Answer: 1
+winner(2)
+Optimization: 7
+Answer: 2
+winner(2)
+Optimization: 7
+Answer: 3
+winner(2)
+Optimization: 7
+Answer: 4
+winner(2)
+Optimization: 7
+Answer: 5
+winner(2)
+Optimization: 7
+Answer: 6
+winner(1)
+Optimization: 7
+Answer: 7
+winner(1)
+Optimization: 7
+Answer: 8
+winner(1)
+Optimization: 7
+Answer: 9
+winner(1)
+Optimization: 7
+Answer: 10
+winner(1)
+Optimization: 7
+Answer: 11
+winner(2)
+Optimization: 7
+Answer: 12
+winner(2)
+Optimization: 7
+Answer: 13
+winner(2)
+Optimization: 7
+Answer: 14
+winner(2)
+Optimization: 7
+Answer: 15
+winner(2)
+Optimization: 7
+Answer: 16
+winner(6)
+Optimization: 7
+Answer: 17
+winner(4)
+Optimization: 7
+Answer: 18
+winner(2)
+Optimization: 7
+Answer: 19
+winner(2)
+Optimization: 7
+Answer: 20
+winner(2)
+Optimization: 7
+OPTIMUM FOUND
+
+Models       : 25    
+  Optimum    : yes
+  Optimal    : 20
+Optimization : 7
+Calls        : 1
+Time         : 2.769s (Solving: 2.76s 1st Model: 0.00s Unsat: 0.02s)
+CPU Time     : 2.760s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(8)
+Optimization: 13
+Answer: 5
+winner(1)
+Optimization: 12
+Answer: 6
+winner(4)
+Optimization: 11
+Answer: 7
+winner(5)
+Optimization: 10
+Answer: 8
+winner(5)
+Optimization: 9
+Answer: 9
+winner(7)
+Optimization: 7
+Answer: 10
+winner(7)
+Optimization: 6
+Answer: 11
+winner(7)
+Optimization: 5
+Answer: 1
+winner(7)
+Optimization: 5
+Answer: 2
+winner(7)
+Optimization: 5
+Answer: 3
+winner(7)
+Optimization: 5
+Answer: 4
+winner(5)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 15    
+  Optimum    : yes
+  Optimal    : 4
+Optimization : 5
+Calls        : 1
+Time         : 1.423s (Solving: 1.41s 1st Model: 0.00s Unsat: 0.45s)
+CPU Time     : 1.410s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 10
+Answer: 2
+winner(8)
+Optimization: 9
+Answer: 3
+winner(8)
+Optimization: 8
+Answer: 4
+winner(8)
+Optimization: 7
+Answer: 5
+winner(4)
+Optimization: 6
+Answer: 6
+winner(6)
+Optimization: 5
+Answer: 7
+winner(6)
+Optimization: 4
+Answer: 8
+winner(6)
+Optimization: 3
+Answer: 1
+winner(6)
+Optimization: 3
+Answer: 2
+winner(6)
+Optimization: 3
+Answer: 3
+winner(6)
+Optimization: 3
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 3
+Calls        : 1
+Time         : 0.372s (Solving: 0.36s 1st Model: 0.00s Unsat: 0.02s)
+CPU Time     : 0.360s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 13
+Answer: 3
+winner(8)
+Optimization: 12
+Answer: 4
+winner(4)
+Optimization: 9
+Answer: 5
+winner(4)
+Optimization: 7
+Answer: 6
+winner(4)
+Optimization: 6
+Answer: 7
+winner(6)
+Optimization: 5
+Answer: 1
+winner(6)
+Optimization: 5
+Answer: 2
+winner(6)
+Optimization: 5
+Answer: 3
+winner(6)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 5
+Calls        : 1
+Time         : 1.380s (Solving: 1.37s 1st Model: 0.00s Unsat: 0.21s)
+CPU Time     : 1.370s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 17
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(3)
+Optimization: 10
+Answer: 5
+winner(3)
+Optimization: 9
+Answer: 6
+winner(3)
+Optimization: 8
+Answer: 7
+winner(6)
+Optimization: 7
+Answer: 8
+winner(6)
+Optimization: 6
+Answer: 9
+winner(6)
+Optimization: 5
+Answer: 1
+winner(6)
+Optimization: 5
+Answer: 2
+winner(6)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 5
+Calls        : 1
+Time         : 1.430s (Solving: 1.42s 1st Model: 0.00s Unsat: 0.50s)
+CPU Time     : 1.420s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 21
+Answer: 2
+winner(8)
+Optimization: 18
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(8)
+Optimization: 13
+Answer: 5
+winner(3)
+Optimization: 12
+Answer: 6
+winner(4)
+Optimization: 11
+Answer: 7
+winner(4)
+Optimization: 10
+Answer: 8
+winner(3)
+Optimization: 9
+Answer: 9
+winner(4)
+Optimization: 8
+Answer: 10
+winner(4)
+Optimization: 6
+Answer: 11
+winner(2)
+Optimization: 5
+Answer: 1
+winner(2)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.258s (Solving: 1.25s 1st Model: 0.00s Unsat: 0.13s)
+CPU Time     : 1.250s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 17
+Answer: 2
+winner(8)
+Optimization: 16
+Answer: 3
+winner(8)
+Optimization: 15
+Answer: 4
+winner(8)
+Optimization: 14
+Answer: 5
+winner(3)
+Optimization: 12
+Answer: 6
+winner(3)
+Optimization: 11
+Answer: 7
+winner(4)
+Optimization: 10
+Answer: 8
+winner(1)
+Optimization: 9
+Answer: 9
+winner(4)
+Optimization: 8
+Answer: 10
+winner(3)
+Optimization: 7
+Answer: 11
+winner(3)
+Optimization: 6
+Answer: 12
+winner(3)
+Optimization: 5
+Answer: 1
+winner(3)
+Optimization: 5
+Answer: 2
+winner(3)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 14    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 5
+Calls        : 1
+Time         : 1.322s (Solving: 1.31s 1st Model: 0.00s Unsat: 0.28s)
+CPU Time     : 1.310s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 14
+Answer: 2
+winner(8)
+Optimization: 13
+Answer: 3
+winner(8)
+Optimization: 12
+Answer: 4
+winner(8)
+Optimization: 11
+Answer: 5
+winner(8)
+Optimization: 10
+Answer: 6
+winner(8)
+Optimization: 9
+Answer: 7
+winner(3)
+Optimization: 8
+Answer: 8
+winner(3)
+Optimization: 7
+Answer: 1
+winner(3)
+Optimization: 7
+Answer: 2
+winner(7)
+Optimization: 7
+Answer: 3
+winner(1)
+Optimization: 7
+Answer: 4
+winner(3)
+Optimization: 7
+Answer: 5
+winner(1)
+Optimization: 7
+Answer: 6
+winner(1)
+Optimization: 7
+Answer: 7
+winner(2)
+Optimization: 7
+Answer: 8
+winner(1)
+Optimization: 7
+Answer: 9
+winner(3)
+Optimization: 7
+Answer: 10
+winner(8)
+Optimization: 7
+OPTIMUM FOUND
+
+Models       : 18    
+  Optimum    : yes
+  Optimal    : 10
+Optimization : 7
+Calls        : 1
+Time         : 2.468s (Solving: 2.46s 1st Model: 0.00s Unsat: 0.03s)
+CPU Time     : 2.460s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 14
+Answer: 2
+winner(8)
+Optimization: 9
+Answer: 3
+winner(8)
+Optimization: 8
+Answer: 4
+winner(8)
+Optimization: 7
+Answer: 5
+winner(6)
+Optimization: 6
+Answer: 6
+winner(8)
+Optimization: 5
+Answer: 1
+winner(6)
+Optimization: 5
+Answer: 2
+winner(8)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 8     
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 5
+Calls        : 1
+Time         : 1.203s (Solving: 1.19s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 1.190s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 14
+Answer: 2
+winner(8)
+Optimization: 13
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(6)
+Optimization: 10
+Answer: 5
+winner(6)
+Optimization: 9
+Answer: 6
+winner(4)
+Optimization: 8
+Answer: 7
+winner(8)
+Optimization: 7
+Answer: 8
+winner(8)
+Optimization: 6
+Answer: 9
+winner(4)
+Optimization: 5
+Answer: 1
+winner(4)
+Optimization: 5
+Answer: 2
+winner(4)
+Optimization: 5
+Answer: 3
+winner(4)
+Optimization: 5
+Answer: 4
+winner(4)
+Optimization: 5
+Answer: 5
+winner(4)
+Optimization: 5
+Answer: 6
+winner(3)
+Optimization: 5
+Answer: 7
+winner(6)
+Optimization: 5
+Answer: 8
+winner(8)
+Optimization: 5
+Answer: 9
+winner(8)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 18    
+  Optimum    : yes
+  Optimal    : 9
+Optimization : 5
+Calls        : 1
+Time         : 1.371s (Solving: 1.36s 1st Model: 0.00s Unsat: 0.29s)
+CPU Time     : 1.360s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 17
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(5)
+Optimization: 10
+Answer: 5
+winner(5)
+Optimization: 9
+Answer: 6
+winner(5)
+Optimization: 8
+Answer: 7
+winner(5)
+Optimization: 7
+Answer: 8
+winner(5)
+Optimization: 6
+Answer: 9
+winner(5)
+Optimization: 5
+Answer: 1
+winner(4)
+Optimization: 5
+Answer: 2
+winner(5)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 5
+Calls        : 1
+Time         : 1.419s (Solving: 1.41s 1st Model: 0.00s Unsat: 0.67s)
+CPU Time     : 1.410s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 15
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(8)
+Optimization: 12
+Answer: 5
+winner(8)
+Optimization: 11
+Answer: 6
+winner(8)
+Optimization: 10
+Answer: 7
+winner(6)
+Optimization: 9
+Answer: 8
+winner(1)
+Optimization: 8
+Answer: 9
+winner(1)
+Optimization: 7
+Answer: 10
+winner(6)
+Optimization: 6
+Answer: 11
+winner(1)
+Optimization: 5
+Answer: 1
+winner(1)
+Optimization: 5
+Answer: 2
+winner(1)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 5
+Calls        : 1
+Time         : 1.359s (Solving: 1.35s 1st Model: 0.00s Unsat: 0.43s)
+CPU Time     : 1.350s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 15
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(3)
+Optimization: 11
+Answer: 4
+winner(3)
+Optimization: 10
+Answer: 5
+winner(5)
+Optimization: 9
+Answer: 6
+winner(2)
+Optimization: 8
+Answer: 7
+winner(2)
+Optimization: 7
+Answer: 8
+winner(5)
+Optimization: 6
+Answer: 9
+winner(5)
+Optimization: 5
+Answer: 1
+winner(5)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.432s (Solving: 1.42s 1st Model: 0.00s Unsat: 0.48s)
+CPU Time     : 1.420s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 12
+Answer: 2
+winner(8)
+Optimization: 11
+Answer: 3
+winner(8)
+Optimization: 10
+Answer: 4
+winner(8)
+Optimization: 9
+Answer: 5
+winner(1)
+Optimization: 8
+Answer: 6
+winner(1)
+Optimization: 7
+Answer: 7
+winner(2)
+Optimization: 6
+Answer: 1
+winner(1)
+Optimization: 6
+Answer: 2
+winner(1)
+Optimization: 6
+Answer: 3
+winner(1)
+Optimization: 6
+Answer: 4
+winner(2)
+Optimization: 6
+Answer: 5
+winner(1)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 6
+Calls        : 1
+Time         : 1.962s (Solving: 1.95s 1st Model: 0.00s Unsat: 0.20s)
+CPU Time     : 1.950s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(7)
+Optimization: 10
+Answer: 5
+winner(4)
+Optimization: 9
+Answer: 6
+winner(8)
+Optimization: 8
+Answer: 7
+winner(8)
+Optimization: 7
+Answer: 8
+winner(8)
+Optimization: 6
+Answer: 1
+winner(8)
+Optimization: 6
+Answer: 2
+winner(8)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 6
+Calls        : 1
+Time         : 1.854s (Solving: 1.84s 1st Model: 0.00s Unsat: 0.17s)
+CPU Time     : 1.850s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 17
+Answer: 2
+winner(8)
+Optimization: 16
+Answer: 3
+winner(8)
+Optimization: 15
+Answer: 4
+winner(8)
+Optimization: 14
+Answer: 5
+winner(8)
+Optimization: 13
+Answer: 6
+winner(3)
+Optimization: 12
+Answer: 7
+winner(7)
+Optimization: 10
+Answer: 8
+winner(3)
+Optimization: 9
+Answer: 9
+winner(3)
+Optimization: 8
+Answer: 10
+winner(7)
+Optimization: 7
+Answer: 11
+winner(7)
+Optimization: 6
+Answer: 12
+winner(7)
+Optimization: 5
+Answer: 13
+winner(3)
+Optimization: 4
+Answer: 14
+winner(7)
+Optimization: 3
+Answer: 1
+winner(7)
+Optimization: 3
+OPTIMUM FOUND
+
+Models       : 15    
+  Optimum    : yes
+Optimization : 3
+Calls        : 1
+Time         : 0.533s (Solving: 0.52s 1st Model: 0.00s Unsat: 0.05s)
+CPU Time     : 0.520s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 15
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(3)
+Optimization: 11
+Answer: 5
+winner(4)
+Optimization: 10
+Answer: 6
+winner(4)
+Optimization: 9
+Answer: 7
+winner(3)
+Optimization: 8
+Answer: 8
+winner(5)
+Optimization: 7
+Answer: 9
+winner(4)
+Optimization: 6
+Answer: 10
+winner(4)
+Optimization: 5
+Answer: 1
+winner(4)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 1.331s (Solving: 1.32s 1st Model: 0.00s Unsat: 0.11s)
+CPU Time     : 1.320s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 13
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 9
+Answer: 4
+winner(4)
+Optimization: 8
+Answer: 5
+winner(4)
+Optimization: 7
+Answer: 6
+winner(4)
+Optimization: 6
+Answer: 1
+winner(4)
+Optimization: 6
+Answer: 2
+winner(4)
+Optimization: 6
+Answer: 3
+winner(4)
+Optimization: 6
+Answer: 4
+winner(4)
+Optimization: 6
+Answer: 5
+winner(4)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 6
+Calls        : 1
+Time         : 2.082s (Solving: 2.07s 1st Model: 0.00s Unsat: 0.45s)
+CPU Time     : 2.070s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 19
+Answer: 2
+winner(8)
+Optimization: 16
+Answer: 3
+winner(8)
+Optimization: 15
+Answer: 4
+winner(8)
+Optimization: 13
+Answer: 5
+winner(3)
+Optimization: 10
+Answer: 6
+winner(3)
+Optimization: 9
+Answer: 7
+winner(1)
+Optimization: 8
+Answer: 8
+winner(1)
+Optimization: 7
+Answer: 9
+winner(2)
+Optimization: 6
+Answer: 1
+winner(1)
+Optimization: 6
+Answer: 2
+winner(1)
+Optimization: 6
+Answer: 3
+winner(1)
+Optimization: 6
+Answer: 4
+winner(1)
+Optimization: 6
+Answer: 5
+winner(2)
+Optimization: 6
+Answer: 6
+winner(1)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 15    
+  Optimum    : yes
+  Optimal    : 6
+Optimization : 6
+Calls        : 1
+Time         : 1.927s (Solving: 1.92s 1st Model: 0.00s Unsat: 0.33s)
+CPU Time     : 1.920s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 11
+Answer: 2
+winner(8)
+Optimization: 10
+Answer: 3
+winner(8)
+Optimization: 9
+Answer: 4
+winner(8)
+Optimization: 8
+Answer: 5
+winner(6)
+Optimization: 7
+Answer: 6
+winner(6)
+Optimization: 6
+Answer: 7
+winner(6)
+Optimization: 5
+Answer: 8
+winner(6)
+Optimization: 4
+Answer: 1
+winner(6)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+Optimization : 4
+Calls        : 1
+Time         : 0.749s (Solving: 0.74s 1st Model: 0.00s Unsat: 0.27s)
+CPU Time     : 0.740s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 11
+Answer: 2
+winner(8)
+Optimization: 10
+Answer: 3
+winner(6)
+Optimization: 9
+Answer: 4
+winner(6)
+Optimization: 8
+Answer: 5
+winner(6)
+Optimization: 7
+Answer: 6
+winner(6)
+Optimization: 6
+Answer: 7
+winner(1)
+Optimization: 5
+Answer: 1
+winner(6)
+Optimization: 5
+Answer: 2
+winner(6)
+Optimization: 5
+Answer: 3
+winner(6)
+Optimization: 5
+Answer: 4
+winner(7)
+Optimization: 5
+Answer: 5
+winner(1)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 5
+Calls        : 1
+Time         : 1.014s (Solving: 1.01s 1st Model: 0.00s Unsat: 0.24s)
+CPU Time     : 1.010s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 20
+Answer: 2
+winner(8)
+Optimization: 13
+Answer: 3
+winner(8)
+Optimization: 12
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(3)
+Optimization: 9
+Answer: 6
+winner(2)
+Optimization: 8
+Answer: 7
+winner(3)
+Optimization: 7
+Answer: 8
+winner(3)
+Optimization: 6
+Answer: 1
+winner(3)
+Optimization: 6
+Answer: 2
+winner(3)
+Optimization: 6
+Answer: 3
+winner(3)
+Optimization: 6
+Answer: 4
+winner(3)
+Optimization: 6
+Answer: 5
+winner(3)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 6
+Calls        : 1
+Time         : 2.032s (Solving: 2.02s 1st Model: 0.00s Unsat: 0.11s)
+CPU Time     : 2.030s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 15
+Answer: 2
+winner(8)
+Optimization: 14
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(8)
+Optimization: 12
+Answer: 5
+winner(8)
+Optimization: 11
+Answer: 6
+winner(8)
+Optimization: 10
+Answer: 7
+winner(5)
+Optimization: 8
+Answer: 8
+winner(6)
+Optimization: 7
+Answer: 9
+winner(5)
+Optimization: 6
+Answer: 10
+winner(5)
+Optimization: 5
+Answer: 1
+winner(5)
+Optimization: 5
+Answer: 2
+winner(5)
+Optimization: 5
+Answer: 3
+winner(5)
+Optimization: 5
+Answer: 4
+winner(5)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 14    
+  Optimum    : yes
+  Optimal    : 4
+Optimization : 5
+Calls        : 1
+Time         : 1.641s (Solving: 1.63s 1st Model: 0.00s Unsat: 0.46s)
+CPU Time     : 1.630s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 14
+Answer: 4
+winner(8)
+Optimization: 13
+Answer: 5
+winner(3)
+Optimization: 10
+Answer: 6
+winner(4)
+Optimization: 9
+Answer: 7
+winner(4)
+Optimization: 8
+Answer: 8
+winner(1)
+Optimization: 7
+Answer: 9
+winner(3)
+Optimization: 6
+Answer: 10
+winner(3)
+Optimization: 5
+Answer: 1
+winner(3)
+Optimization: 5
+Answer: 2
+winner(1)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 5
+Calls        : 1
+Time         : 1.295s (Solving: 1.29s 1st Model: 0.00s Unsat: 0.14s)
+CPU Time     : 1.290s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 15
+Answer: 2
+winner(8)
+Optimization: 12
+Answer: 3
+winner(8)
+Optimization: 11
+Answer: 4
+winner(8)
+Optimization: 10
+Answer: 5
+winner(8)
+Optimization: 9
+Answer: 6
+winner(8)
+Optimization: 8
+Answer: 7
+winner(8)
+Optimization: 7
+Answer: 8
+winner(8)
+Optimization: 6
+Answer: 1
+winner(8)
+Optimization: 6
+Answer: 2
+winner(8)
+Optimization: 6
+Answer: 3
+winner(8)
+Optimization: 6
+Answer: 4
+winner(8)
+Optimization: 6
+Answer: 5
+winner(8)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 13    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 6
+Calls        : 1
+Time         : 2.083s (Solving: 2.07s 1st Model: 0.00s Unsat: 0.13s)
+CPU Time     : 2.070s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 10
+Answer: 2
+winner(8)
+Optimization: 9
+Answer: 3
+winner(8)
+Optimization: 7
+Answer: 4
+winner(8)
+Optimization: 6
+Answer: 5
+winner(8)
+Optimization: 5
+Answer: 1
+winner(8)
+Optimization: 5
+Answer: 2
+winner(8)
+Optimization: 5
+Answer: 3
+winner(8)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 8     
+  Optimum    : yes
+  Optimal    : 3
+Optimization : 5
+Calls        : 1
+Time         : 1.142s (Solving: 1.13s 1st Model: 0.00s Unsat: 0.04s)
+CPU Time     : 1.130s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 16
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(8)
+Optimization: 13
+Answer: 4
+winner(8)
+Optimization: 12
+Answer: 5
+winner(3)
+Optimization: 9
+Answer: 6
+winner(3)
+Optimization: 8
+Answer: 7
+winner(1)
+Optimization: 7
+Answer: 8
+winner(1)
+Optimization: 6
+Answer: 9
+winner(1)
+Optimization: 5
+Answer: 1
+winner(1)
+Optimization: 5
+Answer: 2
+winner(1)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 5
+Calls        : 1
+Time         : 1.231s (Solving: 1.22s 1st Model: 0.00s Unsat: 0.24s)
+CPU Time     : 1.220s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 9
+Answer: 2
+winner(8)
+Optimization: 8
+Answer: 3
+winner(8)
+Optimization: 7
+Answer: 1
+winner(8)
+Optimization: 7
+OPTIMUM FOUND
+
+Models       : 4     
+  Optimum    : yes
+Optimization : 7
+Calls        : 1
+Time         : 2.236s (Solving: 2.23s 1st Model: 0.00s Unsat: 0.14s)
+CPU Time     : 2.230s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 18
+Answer: 2
+winner(8)
+Optimization: 15
+Answer: 3
+winner(3)
+Optimization: 10
+Answer: 4
+winner(3)
+Optimization: 9
+Answer: 5
+winner(3)
+Optimization: 8
+Answer: 6
+winner(3)
+Optimization: 7
+Answer: 7
+winner(3)
+Optimization: 6
+Answer: 8
+winner(3)
+Optimization: 5
+Answer: 9
+winner(3)
+Optimization: 4
+Answer: 1
+winner(3)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 10    
+  Optimum    : yes
+Optimization : 4
+Calls        : 1
+Time         : 0.617s (Solving: 0.61s 1st Model: 0.00s Unsat: 0.06s)
+CPU Time     : 0.610s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+winner(8)
+Optimization: 11
+Answer: 2
+winner(8)
+Optimization: 9
+Answer: 3
+winner(8)
+Optimization: 8
+Answer: 4
+winner(8)
+Optimization: 7
+Answer: 5
+winner(8)
+Optimization: 6
+Answer: 6
+winner(5)
+Optimization: 5
+Answer: 7
+winner(5)
+Optimization: 4
+Answer: 1
+winner(5)
+Optimization: 4
+Answer: 2
+winner(1)
+Optimization: 4
+Answer: 3
+winner(1)
+Optimization: 4
+Answer: 4
+winner(8)
+Optimization: 4
+Answer: 5
+winner(1)
+Optimization: 4
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+  Optimal    : 5
+Optimization : 4
+Calls        : 1
+Time         : 0.846s (Solving: 0.84s 1st Model: 0.00s Unsat: 0.42s)
+CPU Time     : 0.840s
