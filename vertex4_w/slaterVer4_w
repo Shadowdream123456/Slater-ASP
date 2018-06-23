@@ -1,0 +1,25 @@
+voteNum(A,B,E,F) :- lineWeight(A,B,C,D,E,F).
+voteNum(A,C,E,F) :- lineWeight(A,B,C,D,E,F).
+voteNum(A,D,E,F) :- lineWeight(A,B,C,D,E,F).
+voteNum(B,C,E,F) :- lineWeight(A,B,C,D,E,F).
+voteNum(B,D,E,F) :- lineWeight(A,B,C,D,E,F).
+voteNum(C,D,E,F) :- lineWeight(A,B,C,D,E,F).
+voteNums(A,B,X) :- X=#sum{G,F:voteNum(A,B,G,F)},voteNum(A,B,_,_).
+arc(A,B,C) :- voteNums(A,B,D),voteNums(B,A,E),D!=E,D>E,C=D-E.
+arc(B,A,C) :- voteNums(A,B,D),voteNums(B,A,E),D!=E,D<E,C=E-D.
+arc(A,B,C) :- voteNums(A,B,C),vote(C).
+
+
+ver_order(I,J) :- ver(I),rank(J),not conflict(I,J).
+conflict(I,J) :- I=K,J!=M,ver_order(K,M),ver(I),rank(J),ver(K),rank(M).
+conflict(I,J) :- I!=K,J=M,ver_order(K,M),ver(I),rank(J),ver(K),rank(M).
+arc_order(A,C) :- ver_order(A,B),ver_order(C,D),A!=C,B!=D,B>D.
+arc_order(C,A) :- ver_order(A,B),ver_order(C,D),A!=C,B!=D,B<D.
+winner(W) :- ver_order(W,N),ver_num(N).
+diff(X,Y,Z) :- arc_order(Y,X),arc(X,Y,Z),ver(X;Y).
+diffSum(Z) :- Z=#sum{G,X,Y:diff(X,Y,G)}.
+#minimize{Z:diffSum(Z)}.
+%#hide.
+#show winner/1.
+#show arc_order/2.
+

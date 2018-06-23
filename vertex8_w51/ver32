@@ -1,0 +1,1 @@
+ver(a). ver(b). ver(c). ver(d). ver(e). ver(f). ver(g). ver(h). rank(1). rank(2). rank(3). rank(4). rank(5). rank(6). rank(7). rank(8). lineWeight(c,a,e,f,g,h,b,d,41,1). lineWeight(d,f,h,c,g,e,b,a,3,2). lineWeight(f,e,g,c,b,d,h,a,4,3). lineWeight(a,e,d,c,h,b,f,g,1,4). lineWeight(e,g,a,h,b,f,c,d,1,5). lineWeight(a,d,f,c,h,e,b,g,1,6). ver_num(8). vote(51).
