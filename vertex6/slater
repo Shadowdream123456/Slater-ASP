@@ -1,14 +1,14 @@
-ver_order(I,J) :- ver(I),ver(J),not conflict(I,J).
-conflict(I,J) :- I=K,J!=M,ver_order(K,M),ver(I),ver(J),ver(K),ver(M).
-conflict(I,J) :- I!=K,J=M,ver_order(K,M),ver(I),ver(J),ver(K),ver(M).
-arc_order(A,C) :- ver_order(A,B),ver_order(C,D),A!=C,B!=D,B>D.
-arc_order(C,A) :- ver_order(A,B),ver_order(C,D),A!=C,B!=D,B<D.
-%winner(W) :- ver_order(W,N),ver_num(N),not arc_order(A,W),ver(A).
-winner(W) :- ver_order(W,N),ver_num(N).
-diff(X,Y) :- arc(X,Y),arc_order(Y,X).
-#minimize{diff(X,Y)}.
-#hide.
-#show winner/1.
-#show ver_order/2.
-#show arc_order/2.
+{re_arc(A,B):arc(B,A),ver(A;B)}H :- ver_num(C),D=C*C,E=2*C,F=D-E,G=F+1,H=G/4.
+slater(A,B) :- arc(A,B),not re_arc(B,A),ver(A;B).
+slater(A,B) :- re_arc(A,B),ver(A;B).
+:- slater(A,B),slater(B,A).
+reach(A,B) :- slater(A,B),ver(A;B).
+reach(A,B) :- slater(A,C),reach(C,B),ver(A;B;C).
+:- reach(A,A),ver(A).
+diff(Z) :- Z=#count{A,B:re_arc(A,B)}.
+#minimize{Z:diff(Z)}.
+winner(A) :- not reach(_,A),ver(A).
 
+%#show re_arc/2.
+%#show slater/2.
+#show winner/1.
