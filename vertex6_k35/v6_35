@@ -1,0 +1,1404 @@
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,30) arc(4,2,23) arc(6,2,23) arc(6,4,22) arc(6,5,23) arc(1,2,35) arc(1,3,18) arc(1,4,35) arc(3,4,30) arc(1,5,35) arc(2,5,35) arc(3,5,35) arc(4,5,35) arc(1,6,35) arc(3,6,30) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.032s (Solving: 0.02s 1st Model: 0.00s Unsat: 0.02s)
+CPU Time     : 0.020s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,33) arc(3,1,33) arc(6,4,34) arc(6,5,30) arc(2,3,29) arc(1,4,34) arc(2,4,33) arc(3,4,33) arc(1,5,30) arc(2,5,33) arc(3,5,33) arc(4,5,31) arc(1,6,30) arc(2,6,33) arc(3,6,34) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.015s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.010s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,33) arc(3,2,33) arc(4,1,33) arc(4,2,33) arc(5,1,32) arc(5,2,32) arc(6,1,31) arc(6,2,31) arc(6,5,28) arc(1,2,32) arc(3,4,32) arc(3,5,33) arc(4,5,34) arc(3,6,33) arc(4,6,33) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.010s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,32) arc(3,2,32) arc(4,1,33) arc(4,2,31) arc(4,3,29) arc(5,1,33) arc(5,2,33) arc(5,3,30) arc(5,4,34) arc(6,1,33) arc(6,2,32) arc(1,2,32) arc(3,6,33) arc(4,6,28) arc(5,6,33) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,19) arc(5,3,25) arc(5,4,30) arc(6,1,19) arc(6,3,27) arc(6,4,27) arc(6,5,31) arc(1,3,27) arc(2,3,28) arc(1,4,27) arc(2,4,21) arc(3,4,21) arc(1,5,20) arc(2,5,18) arc(2,6,21) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(3,1,32) arc(4,1,32) arc(4,2,33) arc(4,3,35) arc(5,1,34) arc(5,3,34) arc(6,1,34) arc(2,3,35) arc(2,5,35) arc(4,5,33) arc(2,6,34) arc(3,6,32) arc(4,6,32) arc(5,6,32) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,1,29) arc(4,2,30) arc(4,3,30) arc(6,3,35) arc(6,5,30) arc(1,2,35) arc(1,3,35) arc(2,3,31) arc(1,5,35) arc(2,5,31) arc(3,5,29) arc(4,5,30) arc(1,6,34) arc(2,6,30) arc(4,6,29) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.011s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,22) arc(3,2,23) arc(4,1,27) arc(4,2,31) arc(4,3,18) arc(5,1,23) arc(5,2,21) arc(5,4,22) arc(6,1,23) arc(6,2,23) arc(1,2,20) arc(3,5,22) arc(3,6,19) arc(4,6,24) arc(5,6,30) winner(3)
+Optimization: 18
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 18
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,22) arc(3,2,34) arc(4,2,25) arc(4,3,26) arc(5,2,21) arc(6,2,18) arc(1,2,18) arc(1,4,18) arc(1,5,31) arc(3,5,19) arc(4,5,26) arc(1,6,21) arc(3,6,34) arc(4,6,29) arc(5,6,22) winner(4)
+Optimization: 18
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 18
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,22) arc(3,1,22) arc(4,1,22) arc(4,3,22) arc(5,1,22) arc(5,3,22) arc(5,4,34) arc(6,1,23) arc(6,3,35) arc(6,4,35) arc(6,5,35) arc(2,3,35) arc(2,4,35) arc(2,5,35) arc(2,6,22) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,32) arc(3,1,32) arc(4,1,32) arc(5,1,32) arc(5,4,33) arc(6,1,31) arc(6,4,31) arc(6,5,31) arc(2,3,34) arc(2,4,34) arc(3,4,32) arc(2,5,33) arc(3,5,31) arc(2,6,35) arc(3,6,34) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,35) arc(3,2,35) arc(1,2,31) arc(1,4,31) arc(2,4,34) arc(3,4,35) arc(1,5,34) arc(2,5,34) arc(3,5,35) arc(4,5,33) arc(1,6,35) arc(2,6,34) arc(3,6,35) arc(4,6,34) arc(5,6,31) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,26) arc(4,1,34) arc(4,3,34) arc(5,1,25) arc(5,3,21) arc(6,1,25) arc(6,3,25) arc(1,3,29) arc(2,3,25) arc(2,4,21) arc(2,5,34) arc(4,5,34) arc(2,6,30) arc(4,6,30) arc(5,6,21) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.009s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,27) arc(4,1,26) arc(4,2,33) arc(4,3,22) arc(5,3,28) arc(6,3,22) arc(6,5,21) arc(1,3,22) arc(2,3,22) arc(1,5,27) arc(2,5,21) arc(4,5,21) arc(1,6,28) arc(2,6,22) arc(4,6,21) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,30) arc(3,1,31) arc(3,2,27) arc(5,1,31) arc(5,2,23) arc(5,3,23) arc(5,4,23) arc(1,4,22) arc(2,4,30) arc(3,4,22) arc(1,6,26) arc(2,6,22) arc(3,6,22) arc(4,6,26) arc(5,6,23) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,19) arc(3,1,25) arc(5,1,18) arc(5,3,19) arc(5,4,27) arc(6,4,19) arc(2,3,20) arc(1,4,26) arc(2,4,19) arc(3,4,18) arc(2,5,19) arc(1,6,24) arc(2,6,19) arc(3,6,24) arc(5,6,24) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,35) arc(3,1,29) arc(4,1,31) arc(4,3,32) arc(5,1,34) arc(5,3,34) arc(5,4,32) arc(6,1,31) arc(6,2,30) arc(6,3,30) arc(6,4,29) arc(6,5,27) arc(2,3,35) arc(2,4,33) arc(2,5,31) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.011s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.010s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(5,4,30) arc(6,3,28) arc(6,4,29) arc(6,5,28) arc(1,2,30) arc(1,3,29) arc(2,3,27) arc(1,4,29) arc(2,4,28) arc(3,4,31) arc(1,5,28) arc(2,5,27) arc(3,5,30) arc(1,6,25) arc(2,6,27) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,33) arc(3,1,32) arc(4,1,35) arc(4,3,35) arc(5,1,32) arc(6,1,33) arc(6,5,35) arc(2,3,35) arc(2,4,32) arc(2,5,35) arc(3,5,33) arc(4,5,35) arc(2,6,34) arc(3,6,32) arc(4,6,35) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,33) arc(5,2,20) arc(5,4,22) arc(6,1,29) arc(6,2,32) arc(6,3,27) arc(6,4,32) arc(6,5,34) arc(1,2,23) arc(1,3,23) arc(1,4,24) arc(2,4,34) arc(3,4,34) arc(1,5,35) arc(3,5,35) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,26) arc(3,1,26) arc(4,1,26) arc(5,1,26) arc(5,3,25) arc(5,4,25) arc(6,1,26) arc(6,2,24) arc(6,3,25) arc(6,4,24) arc(6,5,25) arc(2,3,26) arc(2,4,25) arc(3,4,23) arc(2,5,35) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(4,1,34) arc(4,3,34) arc(5,3,24) arc(6,1,25) arc(6,3,25) arc(6,4,25) arc(6,5,25) arc(1,3,25) arc(2,3,34) arc(2,4,25) arc(1,5,25) arc(2,5,35) arc(4,5,34) arc(2,6,34) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,33) arc(5,1,28) arc(5,2,29) arc(5,3,27) arc(5,4,28) arc(1,2,33) arc(1,3,25) arc(1,4,32) arc(2,4,33) arc(3,4,35) arc(1,6,25) arc(2,6,25) arc(3,6,32) arc(4,6,25) arc(5,6,25) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,27) arc(3,2,28) arc(5,1,18) arc(5,2,24) arc(5,4,18) arc(6,1,23) arc(6,2,24) arc(6,3,29) arc(6,4,25) arc(6,5,33) arc(1,2,28) arc(1,4,34) arc(2,4,28) arc(3,4,29) arc(3,5,33) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,34) arc(3,2,34) arc(5,2,34) arc(5,4,34) arc(6,2,35) arc(6,4,34) arc(1,2,34) arc(1,4,34) arc(2,4,34) arc(3,4,34) arc(1,5,35) arc(3,5,34) arc(1,6,34) arc(3,6,34) arc(5,6,34) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.003s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,1,21) arc(4,3,33) arc(6,3,33) arc(6,5,33) arc(1,2,25) arc(1,3,26) arc(2,3,22) arc(2,4,24) arc(1,5,33) arc(2,5,22) arc(3,5,21) arc(4,5,33) arc(1,6,24) arc(2,6,23) arc(4,6,31) winner(1)
+Optimization: 21
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 21
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,27) arc(3,1,26) arc(3,2,23) arc(5,1,31) arc(5,4,31) arc(6,1,24) arc(6,2,24) arc(6,4,24) arc(6,5,25) arc(1,4,24) arc(2,4,26) arc(3,4,24) arc(2,5,27) arc(3,5,26) arc(3,6,34) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,1,32) arc(4,2,32) arc(4,3,33) arc(5,1,32) arc(5,2,32) arc(5,3,33) arc(6,1,32) arc(6,2,32) arc(6,3,33) arc(6,4,35) arc(6,5,34) arc(1,2,34) arc(1,3,35) arc(2,3,35) arc(4,5,34) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,34) arc(4,1,34) arc(4,2,33) arc(4,3,33) arc(6,2,34) arc(6,5,35) arc(1,2,33) arc(1,3,33) arc(1,5,34) arc(2,5,20) arc(3,5,34) arc(4,5,34) arc(1,6,33) arc(3,6,34) arc(4,6,33) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,35) arc(3,1,32) arc(4,1,33) arc(4,2,30) arc(4,3,33) arc(5,1,34) arc(6,1,35) arc(6,3,33) arc(6,5,31) arc(2,3,34) arc(2,5,34) arc(3,5,32) arc(4,5,31) arc(2,6,35) arc(4,6,33) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,24) arc(5,4,35) arc(6,2,32) arc(6,4,27) arc(6,5,18) arc(1,2,30) arc(1,3,32) arc(1,4,32) arc(2,4,18) arc(3,4,19) arc(1,5,27) arc(2,5,18) arc(3,5,18) arc(1,6,32) arc(3,6,22) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,3,34) arc(5,3,34) arc(5,4,34) arc(6,1,30) arc(6,2,33) arc(6,3,35) arc(6,4,35) arc(6,5,32) arc(1,2,32) arc(1,3,35) arc(2,3,35) arc(1,4,35) arc(2,4,32) arc(1,5,34) arc(2,5,31) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,31) arc(5,3,21) arc(5,4,19) arc(6,3,19) arc(6,4,20) arc(6,5,31) arc(1,3,21) arc(2,3,22) arc(1,4,18) arc(2,4,19) arc(3,4,32) arc(1,5,19) arc(2,5,28) arc(1,6,19) arc(2,6,20) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.005s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,25) arc(3,1,25) arc(3,2,21) arc(4,1,25) arc(4,2,24) arc(6,1,26) arc(6,2,23) arc(6,3,23) arc(6,4,23) arc(6,5,22) arc(3,4,32) arc(1,5,29) arc(2,5,33) arc(3,5,29) arc(4,5,23) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,20) arc(3,1,28) arc(4,1,20) arc(4,2,25) arc(5,1,20) arc(5,2,25) arc(5,3,19) arc(6,1,23) arc(6,2,24) arc(6,4,22) arc(6,5,22) arc(2,3,19) arc(3,4,22) arc(4,5,20) arc(3,6,25) winner(3)
+Optimization: 38
+OPTIMUM FOUND
+
+Models       : 4     
+  Optimum    : yes
+Optimization : 38
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,18) arc(3,1,26) arc(3,2,29) arc(4,1,30) arc(4,2,23) arc(4,3,20) arc(5,1,33) arc(5,2,33) arc(5,3,23) arc(6,1,24) arc(6,2,25) arc(4,5,20) arc(3,6,21) arc(4,6,21) arc(5,6,26) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,31) arc(4,2,31) arc(4,3,32) arc(5,1,32) arc(5,2,31) arc(5,3,35) arc(5,4,34) arc(6,2,31) arc(1,2,34) arc(1,3,35) arc(1,4,34) arc(1,6,35) arc(3,6,31) arc(4,6,32) arc(5,6,32) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,18) arc(3,1,20) arc(3,2,19) arc(5,1,18) arc(5,2,33) arc(5,3,18) arc(5,4,22) arc(6,1,20) arc(6,2,33) arc(6,3,18) arc(6,4,34) arc(1,4,34) arc(2,4,19) arc(3,4,20) arc(5,6,18) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(4,1,32) arc(4,2,33) arc(4,3,34) arc(5,3,34) arc(6,1,33) arc(6,3,34) arc(6,5,33) arc(1,3,34) arc(2,3,34) arc(1,5,34) arc(2,5,33) arc(4,5,34) arc(2,6,33) arc(4,6,33) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.004s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,32) arc(4,3,24) arc(5,3,33) arc(5,4,33) arc(6,1,32) arc(6,2,22) arc(6,3,23) arc(6,4,23) arc(6,5,23) arc(1,3,24) arc(2,3,25) arc(1,4,23) arc(2,4,22) arc(1,5,21) arc(2,5,23) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(4,1,28) arc(4,2,34) arc(4,3,23) arc(5,3,34) arc(6,3,21) arc(6,5,22) arc(1,3,22) arc(2,3,21) arc(1,5,22) arc(2,5,21) arc(4,5,23) arc(1,6,28) arc(2,6,28) arc(4,6,34) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(5,3,26) arc(5,4,31) arc(6,1,26) arc(6,2,33) arc(6,3,28) arc(6,4,28) arc(6,5,27) arc(1,2,32) arc(1,3,28) arc(2,3,21) arc(1,4,31) arc(2,4,24) arc(3,4,35) arc(1,5,30) arc(2,5,23) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,21) arc(3,2,22) arc(4,1,24) arc(4,2,30) arc(4,3,32) arc(5,2,32) arc(6,1,26) arc(6,2,33) arc(6,5,24) arc(1,2,30) arc(1,5,29) arc(3,5,21) arc(4,5,21) arc(3,6,19) arc(4,6,18) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,34) arc(3,2,28) arc(4,1,35) arc(4,2,28) arc(5,1,35) arc(5,2,29) arc(5,4,29) arc(6,2,35) arc(1,2,28) arc(3,4,28) arc(3,5,34) arc(1,6,28) arc(3,6,28) arc(4,6,28) arc(5,6,29) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.010s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,33) arc(3,2,19) arc(5,1,33) arc(5,2,33) arc(5,3,34) arc(5,4,34) arc(1,2,20) arc(1,4,32) arc(2,4,32) arc(3,4,34) arc(1,6,19) arc(2,6,20) arc(3,6,20) arc(4,6,21) arc(5,6,21) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(3,1,29) arc(3,2,32) arc(4,1,31) arc(4,2,34) arc(4,3,34) arc(5,1,31) arc(6,1,29) arc(6,2,33) arc(6,5,29) arc(2,5,29) arc(3,5,29) arc(4,5,30) arc(3,6,30) arc(4,6,31) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.009s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,32) arc(3,2,31) arc(5,1,34) arc(5,2,34) arc(5,3,34) arc(5,4,31) arc(6,2,34) arc(6,4,31) arc(1,2,31) arc(1,4,31) arc(2,4,31) arc(3,4,31) arc(1,6,31) arc(3,6,31) arc(5,6,33) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(6,1,26) arc(6,2,29) arc(6,3,28) arc(6,4,31) arc(6,5,29) arc(1,2,29) arc(1,3,34) arc(2,3,28) arc(1,4,31) arc(2,4,26) arc(3,4,28) arc(1,5,29) arc(2,5,29) arc(3,5,23) arc(4,5,27) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.011s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.010s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,30) arc(4,1,31) arc(4,3,35) arc(5,1,26) arc(5,3,35) arc(6,1,31) arc(6,3,35) arc(6,5,31) arc(1,3,19) arc(2,3,34) arc(2,4,18) arc(2,5,34) arc(4,5,35) arc(2,6,18) arc(4,6,29) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,26) arc(4,3,32) arc(5,1,25) arc(5,3,32) arc(5,4,32) arc(6,3,32) arc(1,3,33) arc(2,3,33) arc(1,4,35) arc(2,4,26) arc(2,5,26) arc(1,6,35) arc(2,6,26) arc(4,6,28) arc(5,6,25) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,19) arc(3,1,19) arc(3,2,24) arc(4,1,23) arc(4,2,24) arc(6,1,23) arc(6,5,33) arc(3,4,20) arc(1,5,31) arc(2,5,30) arc(3,5,21) arc(4,5,30) arc(2,6,29) arc(3,6,20) arc(4,6,30) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,31) arc(4,2,29) arc(5,2,31) arc(5,4,34) arc(1,2,34) arc(1,3,33) arc(1,4,34) arc(3,4,30) arc(1,5,33) arc(3,5,29) arc(1,6,34) arc(2,6,33) arc(3,6,31) arc(4,6,30) arc(5,6,30) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.009s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,25) arc(4,1,23) arc(4,2,26) arc(4,3,22) arc(5,2,25) arc(5,3,33) arc(5,4,22) arc(6,1,22) arc(6,2,25) arc(6,3,32) arc(6,4,24) arc(1,2,25) arc(1,3,33) arc(1,5,24) arc(5,6,24) winner(5)
+Optimization: 24
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 24
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,31) arc(3,2,27) arc(5,2,29) arc(5,4,26) arc(6,2,29) arc(6,4,34) arc(6,5,34) arc(1,2,29) arc(1,4,29) arc(2,4,32) arc(3,4,31) arc(1,5,28) arc(3,5,33) arc(1,6,28) arc(3,6,25) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,35) arc(3,1,32) arc(4,1,33) arc(4,3,22) arc(5,1,34) arc(6,1,32) arc(6,3,32) arc(6,5,32) arc(2,3,22) arc(2,4,34) arc(2,5,20) arc(3,5,33) arc(4,5,20) arc(2,6,22) arc(4,6,22) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.009s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(3,1,33) arc(3,2,31) arc(4,1,25) arc(4,2,24) arc(5,1,23) arc(6,1,22) arc(3,4,31) arc(2,5,33) arc(3,5,31) arc(4,5,35) arc(2,6,22) arc(3,6,20) arc(4,6,22) arc(5,6,20) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,33) arc(5,1,18) arc(5,3,18) arc(5,4,33) arc(1,3,19) arc(2,3,33) arc(1,4,35) arc(2,4,33) arc(3,4,34) arc(2,5,34) arc(1,6,18) arc(2,6,18) arc(3,6,18) arc(4,6,18) arc(5,6,18) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,33) arc(3,1,19) arc(3,2,21) arc(4,1,33) arc(4,2,19) arc(5,1,33) arc(5,2,19) arc(5,3,32) arc(5,4,35) arc(6,1,33) arc(6,2,21) arc(3,4,21) arc(3,6,19) arc(4,6,18) arc(5,6,19) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,34) arc(5,2,34) arc(5,4,35) arc(6,1,35) arc(6,2,35) arc(6,3,35) arc(6,4,35) arc(6,5,35) arc(1,2,34) arc(1,3,35) arc(1,4,35) arc(2,4,35) arc(3,4,35) arc(1,5,35) arc(3,5,35) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.003s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,35) arc(5,4,33) arc(6,2,34) arc(6,3,34) arc(6,4,34) arc(6,5,35) arc(1,2,35) arc(1,3,33) arc(1,4,34) arc(2,4,34) arc(3,4,35) arc(1,5,34) arc(2,5,21) arc(3,5,35) arc(1,6,34) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,1,18) arc(4,2,23) arc(4,3,26) arc(6,5,25) arc(1,2,18) arc(1,3,18) arc(2,3,26) arc(1,5,27) arc(2,5,19) arc(3,5,26) arc(4,5,19) arc(1,6,21) arc(2,6,22) arc(3,6,20) arc(4,6,21) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.005s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,19) arc(3,1,22) arc(3,2,23) arc(5,2,23) arc(6,5,18) arc(1,4,29) arc(2,4,28) arc(3,4,28) arc(1,5,18) arc(3,5,34) arc(4,5,18) arc(1,6,22) arc(2,6,28) arc(3,6,28) arc(4,6,19) winner(3)
+Optimization: 23
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 23
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,22) arc(3,2,25) arc(4,1,18) arc(4,2,19) arc(5,2,20) arc(6,1,24) arc(6,2,30) arc(6,4,18) arc(6,5,33) arc(1,2,25) arc(3,4,27) arc(1,5,31) arc(3,5,25) arc(4,5,21) arc(3,6,20) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,25) arc(3,2,19) arc(4,2,19) arc(4,3,35) arc(6,2,19) arc(6,3,26) arc(6,4,25) arc(6,5,34) arc(1,3,25) arc(1,4,24) arc(1,5,33) arc(2,5,33) arc(3,5,18) arc(4,5,19) arc(1,6,24) winner(1)
+Optimization: 25
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 25
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,22) arc(5,1,27) arc(5,2,22) arc(5,3,21) arc(5,4,22) arc(6,2,27) arc(6,3,31) arc(6,4,32) arc(1,2,27) arc(1,3,26) arc(1,4,27) arc(2,4,32) arc(3,4,27) arc(1,6,26) arc(5,6,22) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,22) arc(3,1,20) arc(3,2,32) arc(5,1,22) arc(5,2,20) arc(5,4,20) arc(6,1,34) arc(6,2,33) arc(6,4,21) arc(6,5,35) arc(1,4,21) arc(2,4,23) arc(3,4,20) arc(3,5,32) arc(3,6,20) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,34) arc(3,2,21) arc(4,2,21) arc(6,2,20) arc(6,4,20) arc(6,5,20) arc(1,2,20) arc(1,4,20) arc(3,4,34) arc(1,5,34) arc(2,5,34) arc(3,5,34) arc(4,5,34) arc(1,6,34) arc(3,6,34) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(3,1,34) arc(3,2,34) arc(5,1,34) arc(5,4,34) arc(6,1,35) arc(6,4,35) arc(6,5,35) arc(1,4,35) arc(2,4,35) arc(3,4,34) arc(2,5,35) arc(3,5,35) arc(2,6,34) arc(3,6,34) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.004s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,2,28) arc(4,3,28) arc(5,2,18) arc(5,3,23) arc(6,3,26) arc(1,2,28) arc(1,3,28) arc(2,3,28) arc(1,4,24) arc(1,5,28) arc(4,5,32) arc(1,6,35) arc(2,6,18) arc(4,6,28) arc(5,6,29) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,1,27) arc(4,2,25) arc(4,3,26) arc(5,2,27) arc(5,3,26) arc(6,1,24) arc(6,2,23) arc(6,3,26) arc(6,4,25) arc(6,5,26) arc(1,2,30) arc(1,3,29) arc(2,3,28) arc(1,5,33) arc(4,5,28) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.009s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,25) arc(1,3,35) arc(2,3,32) arc(1,4,29) arc(2,4,25) arc(3,4,23) arc(1,5,32) arc(2,5,32) arc(3,5,26) arc(4,5,34) arc(1,6,29) arc(2,6,27) arc(3,6,26) arc(4,6,30) arc(5,6,29) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,1,18) arc(4,3,21) arc(5,4,18) arc(6,1,31) arc(6,2,21) arc(6,4,31) arc(6,5,34) arc(1,2,20) arc(1,3,20) arc(2,3,30) arc(2,4,31) arc(1,5,33) arc(2,5,30) arc(3,5,18) arc(3,6,18) winner(6)
+Optimization: 54
+Answer: 2
+arc(4,1,18) arc(4,3,21) arc(5,4,18) arc(6,1,31) arc(6,2,21) arc(6,4,31) arc(6,5,34) arc(1,2,20) arc(1,3,20) arc(2,3,30) arc(2,4,31) arc(1,5,33) arc(2,5,30) arc(3,5,18) arc(3,6,18) winner(6)
+Optimization: 54
+OPTIMUM FOUND
+
+Models       : 4     
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 54
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,31) arc(3,2,34) arc(5,1,31) arc(5,2,30) arc(5,4,30) arc(6,2,31) arc(6,4,35) arc(1,2,34) arc(1,4,34) arc(2,4,34) arc(3,4,34) arc(3,5,35) arc(1,6,34) arc(3,6,34) arc(5,6,30) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.009s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,26) arc(4,3,25) arc(5,3,32) arc(6,1,25) arc(6,2,25) arc(6,3,25) arc(6,4,26) arc(6,5,24) arc(1,3,24) arc(2,3,24) arc(1,4,27) arc(2,4,26) arc(1,5,24) arc(2,5,24) arc(4,5,24) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,26) arc(4,1,34) arc(4,2,28) arc(4,3,28) arc(6,2,29) arc(6,5,35) arc(1,2,27) arc(1,3,27) arc(1,5,26) arc(2,5,34) arc(3,5,33) arc(4,5,35) arc(1,6,26) arc(3,6,31) arc(4,6,27) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,26) arc(3,1,31) arc(4,1,21) arc(5,1,27) arc(5,4,32) arc(6,1,27) arc(6,4,33) arc(6,5,34) arc(2,3,26) arc(2,4,26) arc(3,4,32) arc(2,5,27) arc(3,5,29) arc(2,6,22) arc(3,6,29) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,28) arc(3,1,26) arc(3,2,25) arc(4,1,25) arc(4,2,26) arc(5,1,26) arc(5,2,26) arc(6,5,22) arc(3,4,26) arc(3,5,23) arc(4,5,23) arc(1,6,21) arc(2,6,20) arc(3,6,26) arc(4,6,29) winner(3)
+Optimization: 22
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 22
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,3,25) arc(5,2,21) arc(5,3,23) arc(5,4,25) arc(6,1,28) arc(6,2,25) arc(6,3,25) arc(6,4,25) arc(6,5,28) arc(1,2,27) arc(1,3,29) arc(2,3,31) arc(1,4,29) arc(2,4,33) arc(1,5,29) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(4,3,35) arc(5,1,34) arc(5,3,34) arc(5,4,34) arc(6,1,34) arc(6,2,34) arc(6,3,34) arc(6,4,34) arc(6,5,34) arc(1,3,34) arc(2,3,34) arc(1,4,34) arc(2,4,34) arc(2,5,34) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.003s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,31) arc(4,1,21) arc(4,2,32) arc(4,3,24) arc(5,1,23) arc(5,2,33) arc(5,3,24) arc(6,1,24) arc(6,2,21) arc(6,3,24) arc(6,4,23) arc(6,5,21) arc(1,2,32) arc(1,3,24) arc(4,5,20) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,1,33) arc(4,2,33) arc(4,3,33) arc(6,1,34) arc(6,2,34) arc(6,3,34) arc(6,4,34) arc(6,5,35) arc(1,2,35) arc(1,3,34) arc(2,3,33) arc(1,5,35) arc(2,5,34) arc(3,5,35) arc(4,5,34) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.005s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,34) arc(3,2,34) arc(4,1,35) arc(4,2,34) arc(4,3,35) arc(5,2,23) arc(1,2,34) arc(1,5,34) arc(3,5,34) arc(4,5,34) arc(1,6,34) arc(2,6,24) arc(3,6,34) arc(4,6,34) arc(5,6,23) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,27) arc(3,1,27) arc(4,1,27) arc(4,3,27) arc(5,1,27) arc(6,1,27) arc(6,3,28) arc(6,4,31) arc(6,5,35) arc(2,3,28) arc(2,4,35) arc(2,5,28) arc(3,5,30) arc(4,5,27) arc(2,6,28) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.010s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,18) arc(4,2,26) arc(4,3,31) arc(5,1,18) arc(5,3,21) arc(6,3,28) arc(1,3,22) arc(2,3,34) arc(1,4,22) arc(2,5,26) arc(4,5,26) arc(1,6,22) arc(2,6,18) arc(4,6,18) arc(5,6,18) winner(4)
+Optimization: 22
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 22
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,2,34) arc(4,3,18) arc(5,2,27) arc(5,4,28) arc(6,2,23) arc(6,3,24) arc(6,4,20) arc(6,5,20) arc(1,2,27) arc(1,3,27) arc(2,3,19) arc(1,4,20) arc(1,5,20) arc(3,5,24) arc(1,6,25) winner(1)
+Optimization: 24
+OPTIMUM FOUND
+
+Models       : 7     
+  Optimum    : yes
+Optimization : 24
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,23) arc(5,1,26) arc(5,3,19) arc(5,4,33) arc(6,1,29) arc(6,3,21) arc(6,4,35) arc(6,5,23) arc(1,3,19) arc(2,3,21) arc(1,4,35) arc(2,4,35) arc(3,4,28) arc(2,5,23) arc(2,6,21) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,1,33) arc(4,2,34) arc(4,3,34) arc(5,1,34) arc(5,2,35) arc(5,3,34) arc(5,4,34) arc(1,2,35) arc(1,3,35) arc(2,3,34) arc(1,6,35) arc(2,6,33) arc(3,6,34) arc(4,6,33) arc(5,6,34) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.005s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,25) arc(4,2,21) arc(4,3,29) arc(5,2,25) arc(5,3,32) arc(6,2,22) arc(6,3,30) arc(6,4,26) arc(6,5,30) arc(1,2,31) arc(1,3,30) arc(1,4,34) arc(1,5,30) arc(4,5,29) arc(1,6,33) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(4,3,25) arc(5,1,23) arc(5,2,24) arc(5,3,24) arc(5,4,24) arc(6,3,35) arc(1,3,25) arc(2,3,25) arc(1,4,24) arc(2,4,24) arc(1,6,25) arc(2,6,24) arc(4,6,24) arc(5,6,23) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,32) arc(4,1,21) arc(4,3,21) arc(5,3,21) arc(6,1,29) arc(6,2,29) arc(6,3,29) arc(6,5,29) arc(1,3,19) arc(2,3,32) arc(2,4,18) arc(1,5,33) arc(2,5,33) arc(4,5,35) arc(4,6,21) winner(4)
+Optimization: 18
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 18
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,20) arc(4,1,21) arc(4,2,30) arc(4,3,29) arc(5,1,18) arc(5,3,29) arc(5,4,18) arc(1,3,29) arc(2,3,34) arc(2,5,20) arc(1,6,34) arc(2,6,20) arc(3,6,21) arc(4,6,35) arc(5,6,33) winner(4)
+Optimization: 18
+OPTIMUM FOUND
+
+Models       : 4     
+  Optimum    : yes
+Optimization : 18
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,35) arc(3,1,35) arc(5,4,35) arc(6,4,35) arc(6,5,31) arc(2,3,31) arc(1,4,35) arc(2,4,35) arc(3,4,35) arc(1,5,32) arc(2,5,32) arc(3,5,35) arc(1,6,32) arc(2,6,35) arc(3,6,35) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,35) arc(3,1,30) arc(3,2,30) arc(5,1,35) arc(5,2,30) arc(5,4,35) arc(6,1,35) arc(6,4,35) arc(1,4,28) arc(2,4,28) arc(3,4,34) arc(3,5,29) arc(2,6,23) arc(3,6,29) arc(5,6,29) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.009s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,21) arc(3,2,22) arc(6,1,35) arc(6,2,35) arc(6,4,35) arc(6,5,35) arc(1,2,22) arc(1,4,35) arc(2,4,34) arc(3,4,35) arc(1,5,22) arc(2,5,21) arc(3,5,22) arc(4,5,22) arc(3,6,21) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.009s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,32) arc(3,1,32) arc(3,2,28) arc(4,1,32) arc(6,1,27) arc(6,2,29) arc(6,4,28) arc(6,5,29) arc(2,4,28) arc(3,4,29) arc(1,5,32) arc(2,5,34) arc(3,5,33) arc(4,5,32) arc(3,6,34) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.011s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.010s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,22) arc(3,2,23) arc(4,1,26) arc(4,2,35) arc(4,3,26) arc(5,1,35) arc(5,2,35) arc(5,3,26) arc(6,1,26) arc(6,2,35) arc(6,3,26) arc(6,4,25) arc(6,5,25) arc(1,2,23) arc(4,5,26) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,23) arc(4,1,27) arc(4,2,27) arc(5,3,18) arc(6,1,19) arc(6,2,18) arc(6,3,20) arc(6,5,31) arc(1,2,21) arc(1,3,18) arc(3,4,22) arc(1,5,20) arc(2,5,26) arc(4,5,26) arc(4,6,18) winner(4)
+Optimization: 40
+OPTIMUM FOUND
+
+Models       : 4     
+  Optimum    : yes
+Optimization : 40
+Calls        : 1
+Time         : 0.005s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,32) arc(3,1,34) arc(6,5,32) arc(2,3,31) arc(1,4,31) arc(2,4,33) arc(3,4,32) arc(1,5,33) arc(2,5,35) arc(3,5,32) arc(4,5,30) arc(1,6,29) arc(2,6,31) arc(3,6,34) arc(4,6,29) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.009s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,28) arc(4,1,34) arc(4,3,34) arc(5,1,29) arc(5,3,35) arc(6,3,35) arc(1,3,35) arc(2,3,28) arc(2,4,29) arc(2,5,28) arc(4,5,34) arc(1,6,28) arc(2,6,28) arc(4,6,28) arc(5,6,29) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.009s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,20) arc(3,2,24) arc(5,4,30) arc(1,2,31) arc(1,4,31) arc(2,4,26) arc(3,4,24) arc(1,5,31) arc(2,5,20) arc(3,5,24) arc(1,6,31) arc(2,6,26) arc(3,6,24) arc(4,6,31) arc(5,6,31) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.008s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s

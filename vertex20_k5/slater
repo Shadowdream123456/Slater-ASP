@@ -1,0 +1,20 @@
+pairwise_weight(C,D,G) :- G=#sum{X,C,D,K : votes(X,C,P1,K), votes(X,D,P2,K), P1<P2}, candidate(C;D), C<D.
+pairwise_weight(C,D,A-X) :- pairwise_weight(D,C,X),vote(A), C>D.
+arc(A,B,C) :- pairwise_weight(A,B,C),pairwise_weight(B,A,D),C>D.
+arc(B,A,D) :- pairwise_weight(A,B,C),pairwise_weight(B,A,D),C<D.
+
+{re_arc(A,B,X):arc(B,A,X),candidate(A;B)}H :- ver_num(C),D=C*C,E=2*C,F=D-E,G=F+1,H=G/4.
+kemeny(A,B) :- arc(A,B,X),not re_arc(B,A,X),candidate(A;B).
+kemeny(A,B) :- re_arc(A,B,X),candidate(A;B).
+:- kemeny(A,B),kemeny(B,A).
+reach(A,B) :- kemeny(A,B),candidate(A;B).
+reach(A,B) :- kemeny(A,C),reach(C,B),candidate(A;B;C).
+:- reach(A,A),candidate(A).
+diff(Z) :- Z=#sum{X,A,B:re_arc(A,B,X)}.
+#minimize{Z:diff(Z)}.
+winner(A) :- not reach(_,A),candidate(A).
+
+#show arc/3.
+%#show kemeny/2.
+#show winner/1.
+%#show pairwise_weight/3.

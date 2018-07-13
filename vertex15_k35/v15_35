@@ -1,0 +1,1425 @@
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,19) arc(3,2,34) arc(4,1,34) arc(4,2,34) arc(5,1,25) arc(5,2,25) arc(6,1,20) arc(6,2,35) arc(7,1,20) arc(7,2,30) arc(9,1,30) arc(9,2,30) arc(9,6,29) arc(9,7,34) arc(9,8,20) arc(10,2,24) arc(10,8,19) arc(11,1,20) arc(11,2,34) arc(11,3,30) arc(11,4,20) arc(11,5,29) arc(11,6,29) arc(11,7,34) arc(11,8,19) arc(11,9,24) arc(11,10,30) arc(12,1,30) arc(12,2,35) arc(12,7,34) arc(12,8,20) arc(12,10,30) arc(13,1,25) arc(13,2,25) arc(13,6,24) arc(13,7,24) arc(13,8,25) arc(13,9,24) arc(13,10,35) arc(13,12,24) arc(14,1,20) arc(14,2,25) arc(14,8,20) arc(14,10,30) arc(15,2,25) arc(15,8,25) arc(15,10,35) arc(1,2,34) arc(3,4,20) arc(3,5,29) arc(4,5,29) arc(3,6,29) arc(4,6,34) arc(5,6,24) arc(3,7,24) arc(4,7,34) arc(5,7,24) arc(6,7,25) arc(1,8,24) arc(2,8,19) arc(3,8,19) arc(4,8,24) arc(5,8,25) arc(6,8,20) arc(7,8,20) arc(3,9,24) arc(4,9,24) arc(5,9,24) arc(1,10,34) arc(3,10,29) arc(4,10,34) arc(5,10,35) arc(6,10,30) arc(7,10,30) arc(9,10,30) arc(3,12,24) arc(4,12,24) arc(5,12,25) arc(6,12,25) arc(9,12,20) arc(11,12,24) arc(3,13,29) arc(4,13,29) arc(5,13,25) arc(11,13,29) arc(3,14,29) arc(4,14,34) arc(5,14,34) arc(6,14,35) arc(7,14,30) arc(9,14,30) arc(11,14,29) arc(12,14,29) arc(13,14,34) arc(1,15,29) arc(3,15,29) arc(4,15,29) arc(5,15,19) arc(6,15,30) arc(7,15,30) arc(9,15,29) arc(11,15,29) arc(12,15,29) arc(13,15,29) arc(14,15,19) winner(11)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.850s (Solving: 0.60s 1st Model: 0.01s Unsat: 0.59s)
+CPU Time     : 0.800s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,23) arc(4,1,32) arc(4,2,35) arc(4,3,35) arc(5,3,32) arc(6,3,25) arc(8,3,28) arc(8,5,27) arc(8,6,26) arc(8,7,27) arc(9,3,28) arc(9,5,28) arc(9,6,27) arc(9,7,25) arc(9,8,32) arc(10,7,24) arc(11,1,24) arc(11,3,25) arc(11,5,24) arc(11,6,24) arc(11,7,24) arc(11,8,31) arc(11,9,24) arc(11,10,34) arc(12,7,24) arc(13,3,27) arc(13,5,27) arc(13,6,26) arc(13,7,27) arc(13,8,34) arc(13,10,33) arc(13,12,33) arc(15,3,25) arc(15,5,24) arc(15,6,23) arc(15,7,24) arc(15,8,30) arc(15,9,30) arc(15,10,31) arc(15,12,31) arc(15,13,31) arc(15,14,35) arc(1,3,28) arc(2,3,27) arc(1,5,28) arc(2,5,26) arc(4,5,35) arc(1,6,26) arc(2,6,26) arc(4,6,34) arc(5,6,30) arc(1,7,24) arc(2,7,23) arc(3,7,30) arc(4,7,32) arc(5,7,30) arc(6,7,25) arc(1,8,32) arc(2,8,30) arc(4,8,32) arc(1,9,33) arc(2,9,30) arc(4,9,31) arc(1,10,34) arc(2,10,33) arc(3,10,33) arc(4,10,35) arc(5,10,34) arc(6,10,34) arc(8,10,34) arc(9,10,34) arc(2,11,33) arc(4,11,35) arc(1,12,34) arc(2,12,34) arc(3,12,34) arc(4,12,35) arc(5,12,34) arc(6,12,35) arc(8,12,27) arc(9,12,28) arc(10,12,25) arc(11,12,25) arc(1,13,24) arc(2,13,24) arc(4,13,32) arc(9,13,25) arc(11,13,25) arc(1,14,35) arc(2,14,34) arc(3,14,34) arc(4,14,35) arc(5,14,35) arc(6,14,35) arc(7,14,35) arc(8,14,28) arc(9,14,35) arc(10,14,28) arc(11,14,28) arc(12,14,34) arc(13,14,34) arc(1,15,28) arc(2,15,26) arc(4,15,35) arc(11,15,27) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.711s (Solving: 0.46s 1st Model: 0.01s Unsat: 0.44s)
+CPU Time     : 0.670s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,30) arc(3,2,30) arc(4,2,28) arc(5,1,31) arc(5,2,31) arc(5,3,32) arc(5,4,30) arc(6,2,25) arc(6,4,25) arc(7,1,31) arc(7,2,32) arc(7,3,28) arc(7,4,31) arc(7,5,28) arc(7,6,33) arc(8,1,31) arc(8,2,34) arc(8,3,29) arc(8,4,31) arc(8,5,28) arc(8,6,34) arc(8,7,29) arc(9,1,27) arc(9,2,27) arc(9,3,29) arc(9,4,27) arc(9,5,28) arc(9,6,28) arc(9,7,27) arc(9,8,27) arc(10,2,31) arc(10,4,30) arc(11,2,31) arc(12,2,25) arc(12,4,25) arc(12,10,25) arc(12,11,26) arc(13,2,28) arc(13,4,24) arc(13,11,28) arc(14,1,26) arc(14,2,28) arc(14,3,29) arc(14,4,26) arc(14,6,28) arc(14,10,28) arc(14,11,28) arc(14,12,34) arc(14,13,32) arc(15,1,25) arc(15,2,26) arc(15,3,27) arc(15,4,25) arc(15,5,26) arc(15,6,34) arc(15,7,26) arc(15,8,26) arc(15,9,32) arc(15,10,25) arc(15,11,27) arc(15,12,33) arc(15,13,31) arc(15,14,32) arc(1,2,29) arc(1,4,26) arc(3,4,30) arc(1,6,34) arc(3,6,33) arc(5,6,33) arc(1,10,28) arc(3,10,25) arc(5,10,32) arc(6,10,25) arc(7,10,27) arc(8,10,27) arc(9,10,27) arc(1,11,28) arc(3,11,32) arc(4,11,28) arc(5,11,33) arc(6,11,25) arc(7,11,33) arc(8,11,28) arc(9,11,28) arc(10,11,34) arc(1,12,35) arc(3,12,31) arc(5,12,31) arc(6,12,32) arc(7,12,35) arc(8,12,35) arc(9,12,35) arc(1,13,34) arc(3,13,30) arc(5,13,31) arc(6,13,31) arc(7,13,31) arc(8,13,31) arc(9,13,33) arc(10,13,31) arc(12,13,25) arc(5,14,31) arc(7,14,32) arc(8,14,32) arc(9,14,25) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.935s (Solving: 0.68s 1st Model: 0.01s Unsat: 0.67s)
+CPU Time     : 0.890sclasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,19) arc(3,2,34) arc(4,1,34) arc(4,2,34) arc(5,1,25) arc(5,2,25) arc(6,1,20) arc(6,2,35) arc(7,1,20) arc(7,2,30) arc(9,1,30) arc(9,2,30) arc(9,6,29) arc(9,7,34) arc(9,8,20) arc(10,2,24) arc(10,8,19) arc(11,1,20) arc(11,2,34) arc(11,3,30) arc(11,4,20) arc(11,5,29) arc(11,6,29) arc(11,7,34) arc(11,8,19) arc(11,9,24) arc(11,10,30) arc(12,1,30) arc(12,2,35) arc(12,7,34) arc(12,8,20) arc(12,10,30) arc(13,1,25) arc(13,2,25) arc(13,6,24) arc(13,7,24) arc(13,8,25) arc(13,9,24) arc(13,10,35) arc(13,12,24) arc(14,1,20) arc(14,2,25) arc(14,8,20) arc(14,10,30) arc(15,2,25) arc(15,8,25) arc(15,10,35) arc(1,2,34) arc(3,4,20) arc(3,5,29) arc(4,5,29) arc(3,6,29) arc(4,6,34) arc(5,6,24) arc(3,7,24) arc(4,7,34) arc(5,7,24) arc(6,7,25) arc(1,8,24) arc(2,8,19) arc(3,8,19) arc(4,8,24) arc(5,8,25) arc(6,8,20) arc(7,8,20) arc(3,9,24) arc(4,9,24) arc(5,9,24) arc(1,10,34) arc(3,10,29) arc(4,10,34) arc(5,10,35) arc(6,10,30) arc(7,10,30) arc(9,10,30) arc(3,12,24) arc(4,12,24) arc(5,12,25) arc(6,12,25) arc(9,12,20) arc(11,12,24) arc(3,13,29) arc(4,13,29) arc(5,13,25) arc(11,13,29) arc(3,14,29) arc(4,14,34) arc(5,14,34) arc(6,14,35) arc(7,14,30) arc(9,14,30) arc(11,14,29) arc(12,14,29) arc(13,14,34) arc(1,15,29) arc(3,15,29) arc(4,15,29) arc(5,15,19) arc(6,15,30) arc(7,15,30) arc(9,15,29) arc(11,15,29) arc(12,15,29) arc(13,15,29) arc(14,15,19) winner(11)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.874s (Solving: 0.60s 1st Model: 0.01s Unsat: 0.58s)
+CPU Time     : 0.800s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,31) arc(3,1,25) arc(4,1,23) arc(4,2,24) arc(4,3,29) arc(5,1,30) arc(5,3,33) arc(6,1,31) arc(6,3,31) arc(7,1,24) arc(7,3,24) arc(7,6,24) arc(8,1,25) arc(9,1,24) arc(9,8,23) arc(13,10,33) arc(13,11,27) arc(13,12,27) arc(14,1,24) arc(14,3,24) arc(14,6,26) arc(14,7,25) arc(14,8,24) arc(14,9,31) arc(14,10,31) arc(14,11,24) arc(14,12,25) arc(14,13,25) arc(15,10,34) arc(15,11,23) arc(15,12,28) arc(2,3,29) arc(2,5,24) arc(4,5,23) arc(2,6,31) arc(4,6,26) arc(5,6,32) arc(2,7,34) arc(4,7,31) arc(5,7,35) arc(2,8,31) arc(3,8,32) arc(4,8,30) arc(5,8,32) arc(6,8,31) arc(7,8,23) arc(2,9,33) arc(3,9,33) arc(4,9,29) arc(5,9,32) arc(6,9,31) arc(7,9,29) arc(1,10,33) arc(2,10,33) arc(3,10,33) arc(4,10,31) arc(5,10,34) arc(6,10,31) arc(7,10,29) arc(8,10,34) arc(9,10,35) arc(1,11,27) arc(2,11,23) arc(3,11,25) arc(4,11,24) arc(5,11,33) arc(6,11,25) arc(7,11,24) arc(8,11,26) arc(9,11,24) arc(10,11,24) arc(1,12,27) arc(2,12,33) arc(3,12,27) arc(4,12,23) arc(5,12,34) arc(6,12,31) arc(7,12,23) arc(8,12,27) arc(9,12,28) arc(10,12,22) arc(11,12,33) arc(1,13,33) arc(2,13,30) arc(3,13,24) arc(4,13,31) arc(5,13,31) arc(6,13,33) arc(7,13,25) arc(8,13,24) arc(9,13,24) arc(2,14,33) arc(4,14,29) arc(5,14,32) arc(1,15,34) arc(2,15,30) arc(3,15,28) arc(4,15,29) arc(5,15,34) arc(6,15,32) arc(7,15,23) arc(8,15,25) arc(9,15,25) arc(13,15,26) arc(14,15,25) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.681s (Solving: 0.44s 1st Model: 0.01s Unsat: 0.43s)
+CPU Time     : 0.640s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(4,1,32) arc(4,3,35) arc(6,1,32) arc(6,3,35) arc(6,5,32) arc(7,1,32) arc(7,2,33) arc(7,3,33) arc(7,4,32) arc(7,5,32) arc(7,6,33) arc(8,1,32) arc(8,3,35) arc(8,4,33) arc(8,5,31) arc(8,6,34) arc(10,3,33) arc(10,5,33) arc(10,9,33) arc(11,1,32) arc(11,3,35) arc(11,5,31) arc(11,6,34) arc(11,9,35) arc(11,10,33) arc(12,1,32) arc(12,2,32) arc(12,3,31) arc(12,4,31) arc(12,5,31) arc(12,6,31) arc(12,8,31) arc(12,9,31) arc(12,10,31) arc(12,11,31) arc(13,1,32) arc(13,2,32) arc(13,3,34) arc(13,4,31) arc(13,5,31) arc(13,6,33) arc(13,7,33) arc(13,8,31) arc(13,9,31) arc(13,10,32) arc(13,11,31) arc(13,12,34) arc(15,1,31) arc(15,3,33) arc(15,4,33) arc(15,5,31) arc(15,6,33) arc(15,9,33) arc(15,10,31) arc(15,11,31) arc(15,14,33) arc(1,3,34) arc(2,3,34) arc(2,4,33) arc(1,5,32) arc(2,5,33) arc(3,5,31) arc(4,5,31) arc(2,6,33) arc(4,6,34) arc(2,8,33) arc(7,8,33) arc(1,9,34) arc(2,9,33) arc(3,9,32) arc(4,9,32) arc(5,9,35) arc(6,9,32) arc(7,9,32) arc(8,9,34) arc(1,10,32) arc(2,10,34) arc(4,10,33) arc(6,10,33) arc(7,10,33) arc(8,10,33) arc(2,11,33) arc(4,11,32) arc(7,11,32) arc(8,11,33) arc(7,12,35) arc(1,14,33) arc(2,14,35) arc(3,14,33) arc(4,14,33) arc(5,14,33) arc(6,14,33) arc(7,14,33) arc(8,14,33) arc(9,14,33) arc(10,14,33) arc(11,14,33) arc(12,14,33) arc(13,14,32) arc(2,15,34) arc(7,15,33) arc(8,15,35) arc(12,15,32) arc(13,15,32) winner(13)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 128.912s (Solving: 128.65s 1st Model: 0.01s Unsat: 128.63s)
+CPU Time     : 129.000s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,31) arc(3,1,30) arc(5,1,30) arc(5,3,21) arc(5,4,22) arc(6,1,30) arc(6,3,22) arc(6,4,22) arc(6,5,22) arc(7,1,29) arc(7,4,21) arc(8,1,31) arc(8,3,27) arc(8,4,23) arc(8,5,27) arc(8,6,27) arc(8,7,27) arc(9,4,22) arc(10,1,30) arc(10,3,34) arc(10,4,30) arc(10,5,35) arc(10,6,34) arc(10,7,34) arc(10,9,34) arc(11,1,30) arc(11,2,25) arc(11,3,34) arc(11,4,22) arc(11,5,34) arc(11,6,34) arc(11,7,34) arc(11,8,33) arc(11,9,26) arc(11,10,21) arc(12,4,22) arc(13,4,23) arc(13,12,26) arc(14,1,31) arc(14,3,23) arc(14,4,23) arc(14,5,23) arc(14,7,23) arc(14,9,23) arc(14,12,26) arc(14,13,21) arc(15,1,29) arc(15,3,30) arc(15,4,21) arc(15,5,34) arc(15,6,34) arc(15,7,27) arc(15,9,26) arc(15,10,22) arc(15,12,25) arc(15,13,33) arc(15,14,33) arc(2,3,31) arc(1,4,21) arc(2,4,23) arc(3,4,22) arc(2,5,31) arc(2,6,31) arc(2,7,31) arc(3,7,26) arc(5,7,22) arc(6,7,23) arc(2,8,31) arc(1,9,26) arc(2,9,23) arc(3,9,26) arc(5,9,21) arc(6,9,22) arc(7,9,22) arc(8,9,27) arc(2,10,22) arc(8,10,22) arc(1,12,25) arc(2,12,23) arc(3,12,26) arc(5,12,26) arc(6,12,22) arc(7,12,25) arc(8,12,26) arc(9,12,26) arc(10,12,34) arc(11,12,26) arc(1,13,25) arc(2,13,31) arc(3,13,33) arc(5,13,29) arc(6,13,21) arc(7,13,29) arc(8,13,27) arc(9,13,33) arc(10,13,34) arc(11,13,33) arc(2,14,31) arc(6,14,29) arc(8,14,27) arc(10,14,34) arc(11,14,34) arc(2,15,31) arc(8,15,27) arc(11,15,34) winner(11)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.695s (Solving: 0.44s 1st Model: 0.01s Unsat: 0.42s)
+CPU Time     : 0.660s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,19) arc(3,2,31) arc(4,1,33) arc(4,2,33) arc(5,1,32) arc(5,3,18) arc(6,1,20) arc(6,2,34) arc(6,3,21) arc(6,4,21) arc(6,5,20) arc(7,1,33) arc(7,2,32) arc(7,4,32) arc(7,5,32) arc(8,1,20) arc(8,2,34) arc(8,4,19) arc(8,5,19) arc(8,7,20) arc(9,1,32) arc(10,1,31) arc(10,2,31) arc(10,5,31) arc(10,9,19) arc(11,1,19) arc(11,2,33) arc(11,5,18) arc(11,9,20) arc(11,10,20) arc(12,1,31) arc(12,2,32) arc(12,4,32) arc(12,5,31) arc(12,7,19) arc(12,9,33) arc(12,10,35) arc(12,11,32) arc(13,1,18) arc(13,2,34) arc(13,5,20) arc(13,9,20) arc(13,10,21) arc(14,1,19) arc(14,3,18) arc(14,5,18) arc(14,9,20) arc(15,1,32) arc(15,2,33) arc(15,3,34) arc(15,4,20) arc(15,5,32) arc(15,6,33) arc(15,7,19) arc(15,8,32) arc(15,9,20) arc(15,10,20) arc(15,11,32) arc(15,12,19) arc(15,13,33) arc(15,14,33) arc(1,3,18) arc(3,4,18) arc(2,5,19) arc(4,5,33) arc(3,7,18) arc(6,7,21) arc(3,8,32) arc(6,8,34) arc(2,9,20) arc(3,9,19) arc(4,9,19) arc(5,9,19) arc(6,9,20) arc(7,9,33) arc(8,9,20) arc(3,10,21) arc(4,10,35) arc(6,10,21) arc(7,10,34) arc(8,10,21) arc(3,11,18) arc(4,11,32) arc(6,11,20) arc(7,11,33) arc(8,11,20) arc(3,12,19) arc(6,12,21) arc(8,12,21) arc(3,13,31) arc(4,13,32) arc(6,13,34) arc(7,13,33) arc(8,13,19) arc(11,13,33) arc(12,13,32) arc(2,14,19) arc(4,14,32) arc(6,14,20) arc(7,14,32) arc(8,14,19) arc(10,14,31) arc(11,14,19) arc(12,14,31) arc(13,14,19) winner(15)
+Optimization: 54
+OPTIMUM FOUND
+
+Models       : 5     
+  Optimum    : yes
+Optimization : 54
+Calls        : 1
+Time         : 0.786s (Solving: 0.58s 1st Model: 0.01s Unsat: 0.14s)
+CPU Time     : 0.750s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,2,33) arc(4,3,25) arc(5,3,20) arc(6,3,20) arc(7,3,27) arc(7,5,27) arc(7,6,27) arc(9,2,34) arc(9,3,33) arc(9,5,34) arc(9,6,34) arc(9,7,33) arc(9,8,34) arc(10,2,34) arc(10,3,25) arc(10,5,25) arc(10,6,25) arc(10,7,33) arc(10,8,25) arc(10,9,25) arc(11,2,34) arc(11,3,25) arc(11,4,20) arc(11,5,26) arc(11,6,26) arc(11,7,27) arc(11,8,26) arc(11,9,20) arc(11,10,21) arc(12,2,29) arc(12,3,27) arc(12,4,21) arc(12,5,27) arc(12,6,26) arc(12,7,27) arc(12,8,27) arc(12,9,21) arc(12,10,21) arc(13,3,35) arc(13,6,34) arc(13,8,35) arc(14,2,27) arc(14,3,27) arc(14,5,27) arc(14,6,26) arc(14,7,19) arc(14,8,27) arc(14,9,21) arc(14,10,21) arc(14,13,25) arc(1,2,29) arc(1,3,26) arc(2,3,26) arc(1,4,21) arc(1,5,35) arc(2,5,26) arc(4,5,33) arc(1,6,26) arc(2,6,25) arc(4,6,25) arc(5,6,25) arc(1,7,27) arc(2,7,27) arc(4,7,33) arc(1,8,26) arc(2,8,26) arc(3,8,20) arc(4,8,25) arc(5,8,20) arc(6,8,20) arc(7,8,27) arc(1,9,20) arc(4,9,20) arc(1,10,29) arc(4,10,28) arc(1,11,28) arc(1,12,28) arc(11,12,33) arc(1,13,19) arc(2,13,19) arc(4,13,25) arc(5,13,19) arc(7,13,26) arc(9,13,33) arc(10,13,25) arc(11,13,25) arc(12,13,19) arc(1,14,28) arc(4,14,33) arc(11,14,27) arc(12,14,29) arc(1,15,28) arc(2,15,28) arc(3,15,28) arc(4,15,28) arc(5,15,28) arc(6,15,29) arc(7,15,29) arc(8,15,28) arc(9,15,28) arc(10,15,34) arc(11,15,28) arc(12,15,28) arc(13,15,28) arc(14,15,20) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.569s (Solving: 0.36s 1st Model: 0.01s Unsat: 0.34s)
+CPU Time     : 0.530s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,30) arc(3,2,30) arc(4,2,28) arc(5,1,31) arc(5,2,31) arc(5,3,32) arc(5,4,30) arc(6,2,25) arc(6,4,25) arc(7,1,31) arc(7,2,32) arc(7,3,28) arc(7,4,31) arc(7,5,28) arc(7,6,33) arc(8,1,31) arc(8,2,34) arc(8,3,29) arc(8,4,31) arc(8,5,28) arc(8,6,34) arc(8,7,29) arc(9,1,27) arc(9,2,27) arc(9,3,29) arc(9,4,27) arc(9,5,28) arc(9,6,28) arc(9,7,27) arc(9,8,27) arc(10,2,31) arc(10,4,30) arc(11,2,31) arc(12,2,25) arc(12,4,25) arc(12,10,25) arc(12,11,26) arc(13,2,28) arc(13,4,24) arc(13,11,28) arc(14,1,26) arc(14,2,28) arc(14,3,29) arc(14,4,26) arc(14,6,28) arc(14,10,28) arc(14,11,28) arc(14,12,34) arc(14,13,32) arc(15,1,25) arc(15,2,26) arc(15,3,27) arc(15,4,25) arc(15,5,26) arc(15,6,34) arc(15,7,26) arc(15,8,26) arc(15,9,32) arc(15,10,25) arc(15,11,27) arc(15,12,33) arc(15,13,31) arc(15,14,32) arc(1,2,29) arc(1,4,26) arc(3,4,30) arc(1,6,34) arc(3,6,33) arc(5,6,33) arc(1,10,28) arc(3,10,25) arc(5,10,32) arc(6,10,25) arc(7,10,27) arc(8,10,27) arc(9,10,27) arc(1,11,28) arc(3,11,32) arc(4,11,28) arc(5,11,33) arc(6,11,25) arc(7,11,33) arc(8,11,28) arc(9,11,28) arc(10,11,34) arc(1,12,35) arc(3,12,31) arc(5,12,31) arc(6,12,32) arc(7,12,35) arc(8,12,35) arc(9,12,35) arc(1,13,34) arc(3,13,30) arc(5,13,31) arc(6,13,31) arc(7,13,31) arc(8,13,31) arc(9,13,33) arc(10,13,31) arc(12,13,25) arc(5,14,31) arc(7,14,32) arc(8,14,32) arc(9,14,25) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.970s (Solving: 0.68s 1st Model: 0.01s Unsat: 0.67s)
+CPU Time     : 0.900s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,28) arc(4,1,24) arc(4,2,27) arc(4,3,24) arc(5,1,28) arc(5,2,27) arc(5,3,19) arc(5,4,28) arc(6,1,26) arc(6,2,27) arc(6,3,24) arc(6,4,27) arc(7,1,25) arc(7,2,27) arc(7,3,24) arc(7,4,25) arc(7,6,26) arc(8,1,20) arc(8,2,28) arc(8,3,20) arc(9,1,19) arc(9,2,26) arc(9,3,25) arc(10,1,28) arc(10,2,27) arc(10,3,28) arc(10,8,28) arc(10,9,28) arc(11,1,33) arc(11,2,26) arc(11,3,25) arc(11,8,33) arc(11,9,34) arc(11,10,24) arc(12,2,26) arc(12,3,24) arc(13,2,26) arc(13,3,25) arc(14,2,27) arc(15,2,26) arc(15,12,18) arc(15,14,33) arc(1,2,28) arc(1,3,25) arc(5,6,27) arc(5,7,27) arc(4,8,32) arc(5,8,33) arc(6,8,32) arc(7,8,25) arc(4,9,33) arc(5,9,27) arc(6,9,27) arc(7,9,25) arc(8,9,27) arc(4,10,25) arc(5,10,24) arc(6,10,24) arc(7,10,24) arc(4,11,19) arc(5,11,18) arc(6,11,20) arc(7,11,25) arc(1,12,18) arc(4,12,26) arc(5,12,29) arc(6,12,34) arc(7,12,25) arc(8,12,21) arc(9,12,26) arc(10,12,29) arc(11,12,35) arc(1,13,33) arc(4,13,33) arc(5,13,26) arc(6,13,32) arc(7,13,25) arc(8,13,27) arc(9,13,24) arc(10,13,27) arc(11,13,31) arc(12,13,31) arc(1,14,32) arc(3,14,27) arc(4,14,25) arc(5,14,27) arc(6,14,26) arc(7,14,25) arc(8,14,18) arc(9,14,25) arc(10,14,29) arc(11,14,33) arc(12,14,26) arc(13,14,20) arc(1,15,19) arc(3,15,27) arc(4,15,18) arc(5,15,27) arc(6,15,19) arc(7,15,25) arc(8,15,19) arc(9,15,19) arc(10,15,27) arc(11,15,27) arc(13,15,20) winner(5)
+Optimization: 18
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 18
+Calls        : 1
+Time         : 0.613s (Solving: 0.40s 1st Model: 0.01s Unsat: 0.00s)
+CPU Time     : 0.570s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(3,1,29) arc(5,4,34) arc(6,1,32) arc(6,3,31) arc(6,4,35) arc(6,5,32) arc(7,1,31) arc(7,2,33) arc(7,3,33) arc(7,4,34) arc(7,5,31) arc(7,6,31) arc(8,4,29) arc(9,4,35) arc(9,8,35) arc(10,4,33) arc(11,1,34) arc(11,3,33) arc(11,4,34) arc(11,5,34) arc(11,6,31) arc(11,8,34) arc(11,9,33) arc(11,10,33) arc(12,1,28) arc(12,3,31) arc(12,4,29) arc(12,5,30) arc(12,8,31) arc(12,9,29) arc(12,10,30) arc(13,1,28) arc(13,3,28) arc(13,4,31) arc(13,5,28) arc(13,8,31) arc(13,9,28) arc(13,10,28) arc(14,1,30) arc(14,4,30) arc(14,5,28) arc(14,8,31) arc(14,9,30) arc(14,10,29) arc(15,1,29) arc(15,3,34) arc(15,4,34) arc(15,5,29) arc(15,8,35) arc(15,9,34) arc(15,10,30) arc(15,12,34) arc(15,13,35) arc(15,14,32) arc(2,3,29) arc(1,4,35) arc(2,4,30) arc(3,4,32) arc(1,5,33) arc(2,5,30) arc(3,5,29) arc(2,6,28) arc(1,8,34) arc(2,8,30) arc(3,8,33) arc(5,8,34) arc(6,8,35) arc(7,8,34) arc(1,9,34) arc(2,9,29) arc(3,9,29) arc(5,9,34) arc(6,9,32) arc(7,9,30) arc(1,10,33) arc(2,10,30) arc(3,10,30) arc(5,10,33) arc(6,10,32) arc(7,10,30) arc(8,10,30) arc(9,10,30) arc(2,11,30) arc(7,11,31) arc(2,12,29) arc(6,12,35) arc(7,12,34) arc(11,12,34) arc(2,13,30) arc(6,13,32) arc(7,13,35) arc(11,13,35) arc(12,13,32) arc(2,14,33) arc(3,14,32) arc(6,14,35) arc(7,14,34) arc(11,14,34) arc(12,14,33) arc(13,14,31) arc(2,15,29) arc(6,15,31) arc(7,15,30) arc(11,15,34) winner(7)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.467s (Solving: 2.20s 1st Model: 0.01s Unsat: 2.18s)
+CPU Time     : 2.420s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,32) arc(3,2,34) arc(4,2,35) arc(5,1,32) arc(5,2,35) arc(5,4,35) arc(6,2,35) arc(6,4,32) arc(7,2,35) arc(8,1,32) arc(8,2,34) arc(8,4,32) arc(8,6,34) arc(8,7,32) arc(9,2,35) arc(9,4,33) arc(9,6,32) arc(9,7,32) arc(10,2,35) arc(10,4,32) arc(10,6,33) arc(10,7,31) arc(11,2,35) arc(11,4,33) arc(11,6,32) arc(11,7,31) arc(11,9,34) arc(11,10,33) arc(12,2,33) arc(12,4,31) arc(12,7,31) arc(13,2,35) arc(13,4,35) arc(13,6,34) arc(13,7,33) arc(13,9,33) arc(13,10,34) arc(13,12,35) arc(14,2,32) arc(14,7,31) arc(15,1,32) arc(15,2,35) arc(15,3,32) arc(15,4,33) arc(15,5,31) arc(15,6,32) arc(15,7,31) arc(15,8,32) arc(15,9,32) arc(15,10,32) arc(15,11,31) arc(15,12,33) arc(15,13,32) arc(15,14,35) arc(1,2,35) arc(1,4,35) arc(3,4,32) arc(3,5,32) arc(1,6,34) arc(3,6,34) arc(5,6,35) arc(1,7,34) arc(3,7,32) arc(4,7,33) arc(5,7,34) arc(6,7,31) arc(3,8,34) arc(5,8,34) arc(1,9,34) arc(3,9,34) arc(5,9,34) arc(8,9,34) arc(1,10,34) arc(3,10,34) arc(5,10,35) arc(8,10,32) arc(9,10,32) arc(1,11,34) arc(3,11,34) arc(5,11,35) arc(8,11,34) arc(1,12,35) arc(3,12,35) arc(5,12,35) arc(6,12,35) arc(8,12,35) arc(9,12,35) arc(10,12,35) arc(11,12,35) arc(1,13,35) arc(3,13,32) arc(5,13,33) arc(8,13,32) arc(11,13,32) arc(1,14,35) arc(3,14,34) arc(4,14,35) arc(5,14,35) arc(6,14,35) arc(8,14,34) arc(9,14,35) arc(10,14,34) arc(11,14,35) arc(12,14,33) arc(13,14,35) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 136.395s (Solving: 136.11s 1st Model: 0.01s Unsat: 136.10s)
+CPU Time     : 136.490s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(5,1,34) arc(5,2,32) arc(5,3,35) arc(5,4,34) arc(6,3,34) arc(6,4,34) arc(7,3,31) arc(7,4,31) arc(7,6,21) arc(8,3,21) arc(8,4,34) arc(8,6,20) arc(8,7,24) arc(9,3,21) arc(9,4,24) arc(9,6,21) arc(9,7,24) arc(10,3,25) arc(10,4,24) arc(10,6,21) arc(11,1,35) arc(11,3,32) arc(11,4,31) arc(11,6,21) arc(11,7,34) arc(11,8,32) arc(11,9,32) arc(11,10,32) arc(12,1,21) arc(12,2,22) arc(12,3,22) arc(12,4,21) arc(12,6,21) arc(12,7,21) arc(12,8,21) arc(12,9,22) arc(12,10,31) arc(12,11,21) arc(13,1,35) arc(13,3,25) arc(13,4,35) arc(13,6,21) arc(13,7,24) arc(13,8,35) arc(13,9,35) arc(13,10,35) arc(14,1,23) arc(14,2,21) arc(14,3,24) arc(14,4,24) arc(14,5,21) arc(14,6,20) arc(14,7,24) arc(14,8,23) arc(14,9,24) arc(14,10,33) arc(14,11,23) arc(14,12,24) arc(14,13,23) arc(15,3,31) arc(15,4,34) arc(15,6,21) arc(15,7,34) arc(15,9,31) arc(15,10,30) arc(1,3,21) arc(2,3,34) arc(1,4,31) arc(2,4,34) arc(3,4,34) arc(1,6,21) arc(2,6,24) arc(5,6,21) arc(1,7,24) arc(2,7,34) arc(5,7,34) arc(1,8,21) arc(2,8,34) arc(5,8,34) arc(1,9,31) arc(2,9,33) arc(5,9,35) arc(8,9,31) arc(1,10,31) arc(2,10,33) arc(5,10,34) arc(7,10,31) arc(8,10,31) arc(9,10,30) arc(2,11,23) arc(5,11,23) arc(5,12,34) arc(2,13,33) arc(5,13,33) arc(11,13,30) arc(12,13,20) arc(1,15,21) arc(2,15,34) arc(5,15,35) arc(8,15,21) arc(11,15,32) arc(12,15,22) arc(13,15,25) arc(14,15,24) winner(14)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.610s (Solving: 0.38s 1st Model: 0.01s Unsat: 0.37s)
+CPU Time     : 0.570sclasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,28) arc(4,1,24) arc(4,2,27) arc(4,3,24) arc(5,1,28) arc(5,2,27) arc(5,3,19) arc(5,4,28) arc(6,1,26) arc(6,2,27) arc(6,3,24) arc(6,4,27) arc(7,1,25) arc(7,2,27) arc(7,3,24) arc(7,4,25) arc(7,6,26) arc(8,1,20) arc(8,2,28) arc(8,3,20) arc(9,1,19) arc(9,2,26) arc(9,3,25) arc(10,1,28) arc(10,2,27) arc(10,3,28) arc(10,8,28) arc(10,9,28) arc(11,1,33) arc(11,2,26) arc(11,3,25) arc(11,8,33) arc(11,9,34) arc(11,10,24) arc(12,2,26) arc(12,3,24) arc(13,2,26) arc(13,3,25) arc(14,2,27) arc(15,2,26) arc(15,12,18) arc(15,14,33) arc(1,2,28) arc(1,3,25) arc(5,6,27) arc(5,7,27) arc(4,8,32) arc(5,8,33) arc(6,8,32) arc(7,8,25) arc(4,9,33) arc(5,9,27) arc(6,9,27) arc(7,9,25) arc(8,9,27) arc(4,10,25) arc(5,10,24) arc(6,10,24) arc(7,10,24) arc(4,11,19) arc(5,11,18) arc(6,11,20) arc(7,11,25) arc(1,12,18) arc(4,12,26) arc(5,12,29) arc(6,12,34) arc(7,12,25) arc(8,12,21) arc(9,12,26) arc(10,12,29) arc(11,12,35) arc(1,13,33) arc(4,13,33) arc(5,13,26) arc(6,13,32) arc(7,13,25) arc(8,13,27) arc(9,13,24) arc(10,13,27) arc(11,13,31) arc(12,13,31) arc(1,14,32) arc(3,14,27) arc(4,14,25) arc(5,14,27) arc(6,14,26) arc(7,14,25) arc(8,14,18) arc(9,14,25) arc(10,14,29) arc(11,14,33) arc(12,14,26) arc(13,14,20) arc(1,15,19) arc(3,15,27) arc(4,15,18) arc(5,15,27) arc(6,15,19) arc(7,15,25) arc(8,15,19) arc(9,15,19) arc(10,15,27) arc(11,15,27) arc(13,15,20) winner(5)
+Optimization: 18
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 18
+Calls        : 1
+Time         : 0.650s (Solving: 0.40s 1st Model: 0.01s Unsat: 0.00s)
+CPU Time     : 0.580s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,22) arc(4,1,30) arc(4,2,19) arc(4,3,28) arc(5,1,21) arc(5,2,23) arc(5,3,26) arc(6,3,19) arc(6,5,19) arc(8,1,21) arc(8,2,21) arc(8,3,21) arc(8,6,23) arc(8,7,35) arc(10,3,19) arc(10,6,18) arc(10,7,33) arc(10,9,24) arc(11,1,24) arc(11,2,24) arc(11,3,28) arc(11,4,20) arc(11,5,28) arc(11,7,28) arc(11,9,24) arc(12,2,23) arc(12,3,27) arc(12,5,20) arc(12,7,23) arc(12,9,23) arc(13,1,34) arc(13,2,24) arc(13,3,32) arc(13,5,19) arc(13,6,27) arc(13,7,33) arc(13,8,26) arc(13,9,23) arc(13,10,27) arc(13,11,18) arc(13,12,19) arc(14,3,20) arc(14,7,23) arc(14,9,23) arc(14,10,22) arc(14,12,21) arc(15,1,25) arc(15,3,26) arc(15,7,35) arc(15,9,30) arc(15,10,23) arc(15,11,20) arc(15,12,21) arc(15,14,26) arc(1,3,19) arc(2,3,20) arc(4,5,25) arc(1,6,21) arc(2,6,20) arc(4,6,30) arc(1,7,26) arc(2,7,26) arc(3,7,28) arc(4,7,30) arc(5,7,28) arc(6,7,30) arc(4,8,21) arc(5,8,19) arc(1,9,24) arc(2,9,29) arc(3,9,24) arc(4,9,30) arc(5,9,23) arc(6,9,24) arc(7,9,23) arc(8,9,30) arc(1,10,21) arc(2,10,20) arc(4,10,30) arc(5,10,21) arc(8,10,23) arc(6,11,18) arc(8,11,20) arc(10,11,18) arc(1,12,19) arc(4,12,21) arc(6,12,19) arc(8,12,21) arc(10,12,19) arc(11,12,19) arc(4,13,25) arc(1,14,22) arc(2,14,25) arc(4,14,23) arc(5,14,19) arc(6,14,22) arc(8,14,28) arc(11,14,27) arc(13,14,27) arc(2,15,20) arc(4,15,23) arc(5,15,19) arc(6,15,21) arc(8,15,28) arc(13,15,21) winner(4)
+Optimization: 179
+OPTIMUM FOUND
+
+Models       : 6     
+  Optimum    : yes
+Optimization : 179
+Calls        : 1
+Time         : 0.986s (Solving: 0.80s 1st Model: 0.01s Unsat: 0.11s)
+CPU Time     : 0.950s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,35) arc(4,2,34) arc(4,3,22) arc(5,2,22) arc(5,3,22) arc(5,4,23) arc(6,2,22) arc(6,3,22) arc(6,4,22) arc(6,5,22) arc(7,2,34) arc(7,3,22) arc(7,4,23) arc(7,5,35) arc(8,2,35) arc(8,3,35) arc(8,4,35) arc(8,5,35) arc(9,2,22) arc(9,3,22) arc(9,4,22) arc(9,5,34) arc(10,2,22) arc(10,3,22) arc(10,4,22) arc(10,5,34) arc(10,6,35) arc(10,7,22) arc(10,8,22) arc(10,9,22) arc(11,2,22) arc(12,2,22) arc(12,3,22) arc(12,4,23) arc(12,5,34) arc(12,6,35) arc(12,7,22) arc(12,8,22) arc(12,9,23) arc(12,10,35) arc(12,11,35) arc(14,13,35) arc(15,13,34) arc(1,2,34) arc(1,3,34) arc(1,4,34) arc(1,5,34) arc(1,6,35) arc(1,7,34) arc(6,7,22) arc(1,8,34) arc(6,8,22) arc(7,8,22) arc(1,9,35) arc(6,9,22) arc(7,9,35) arc(8,9,35) arc(1,10,35) arc(1,11,35) arc(3,11,35) arc(4,11,35) arc(5,11,23) arc(6,11,22) arc(7,11,35) arc(8,11,35) arc(9,11,34) arc(10,11,34) arc(1,12,34) arc(1,13,34) arc(2,13,34) arc(3,13,35) arc(4,13,34) arc(5,13,22) arc(6,13,22) arc(7,13,34) arc(8,13,35) arc(9,13,34) arc(10,13,34) arc(11,13,34) arc(12,13,34) arc(1,14,34) arc(2,14,34) arc(3,14,34) arc(4,14,34) arc(5,14,22) arc(6,14,22) arc(7,14,34) arc(8,14,34) arc(9,14,34) arc(10,14,34) arc(11,14,22) arc(12,14,34) arc(1,15,35) arc(2,15,35) arc(3,15,35) arc(4,15,35) arc(5,15,23) arc(6,15,22) arc(7,15,35) arc(8,15,35) arc(9,15,34) arc(10,15,34) arc(11,15,22) arc(12,15,35) arc(14,15,35) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 46.055s (Solving: 45.82s 1st Model: 0.01s Unsat: 45.81s)
+CPU Time     : 46.060s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,31) arc(6,1,18) arc(6,4,20) arc(6,5,32) arc(8,2,29) arc(8,4,19) arc(8,7,31) arc(9,3,19) arc(9,4,22) arc(9,5,32) arc(9,7,18) arc(9,8,22) arc(10,5,18) arc(11,5,19) arc(11,7,19) arc(11,8,22) arc(11,10,20) arc(12,2,27) arc(12,4,31) arc(12,5,32) arc(12,6,30) arc(12,7,19) arc(12,9,28) arc(12,10,20) arc(12,11,28) arc(13,10,20) arc(14,2,18) arc(14,4,35) arc(14,5,33) arc(14,6,33) arc(14,7,19) arc(14,8,21) arc(14,9,33) arc(14,10,20) arc(14,11,33) arc(14,12,21) arc(14,13,33) arc(15,1,18) arc(15,3,19) arc(15,4,34) arc(15,5,34) arc(15,6,32) arc(15,7,21) arc(15,8,22) arc(15,9,30) arc(15,10,20) arc(15,11,30) arc(15,12,23) arc(15,13,30) arc(1,2,34) arc(1,3,19) arc(1,4,19) arc(2,4,20) arc(3,4,20) arc(1,5,19) arc(2,5,18) arc(3,5,18) arc(4,5,31) arc(2,6,18) arc(3,6,18) arc(1,7,33) arc(2,7,19) arc(3,7,31) arc(4,7,19) arc(5,7,19) arc(6,7,19) arc(1,8,34) arc(3,8,21) arc(5,8,20) arc(6,8,20) arc(1,9,20) arc(2,9,18) arc(6,9,30) arc(1,10,22) arc(2,10,22) arc(3,10,18) arc(4,10,18) arc(6,10,20) arc(7,10,19) arc(8,10,20) arc(9,10,22) arc(1,11,19) arc(2,11,18) arc(3,11,31) arc(4,11,28) arc(6,11,33) arc(9,11,32) arc(1,12,19) arc(3,12,18) arc(8,12,18) arc(1,13,34) arc(2,13,33) arc(3,13,33) arc(4,13,18) arc(5,13,18) arc(6,13,20) arc(7,13,29) arc(8,13,30) arc(9,13,20) arc(11,13,20) arc(12,13,29) arc(1,14,19) arc(3,14,18) arc(2,15,18) arc(14,15,18) winner(15)
+Optimization: 157
+OPTIMUM FOUND
+
+Models       : 16    
+  Optimum    : yes
+Optimization : 157
+Calls        : 1
+Time         : 0.924s (Solving: 0.74s 1st Model: 0.01s Unsat: 0.03s)
+CPU Time     : 0.890s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,28) arc(3,2,21) arc(4,2,24) arc(5,1,31) arc(5,2,21) arc(5,4,28) arc(7,6,34) arc(8,2,24) arc(8,6,24) arc(8,7,23) arc(10,1,34) arc(10,2,24) arc(10,4,23) arc(10,5,24) arc(10,6,26) arc(10,7,24) arc(10,8,25) arc(10,9,33) arc(11,6,24) arc(11,7,21) arc(11,9,32) arc(12,2,21) arc(12,6,23) arc(12,7,20) arc(12,9,34) arc(12,11,30) arc(13,2,24) arc(13,6,26) arc(13,7,23) arc(13,9,25) arc(13,11,24) arc(13,12,23) arc(14,9,33) arc(15,6,20) arc(15,9,31) arc(15,14,28) arc(1,2,24) arc(1,4,20) arc(3,4,28) arc(3,5,20) arc(1,6,25) arc(2,6,33) arc(3,6,20) arc(4,6,26) arc(5,6,25) arc(1,7,23) arc(2,7,21) arc(3,7,20) arc(4,7,24) arc(5,7,19) arc(1,8,22) arc(3,8,19) arc(4,8,23) arc(5,8,22) arc(1,9,34) arc(2,9,32) arc(3,9,31) arc(4,9,33) arc(5,9,33) arc(6,9,31) arc(7,9,33) arc(8,9,31) arc(3,10,29) arc(1,11,34) arc(2,11,30) arc(3,11,28) arc(4,11,33) arc(5,11,30) arc(8,11,33) arc(10,11,33) arc(1,12,23) arc(3,12,31) arc(4,12,34) arc(5,12,34) arc(8,12,32) arc(10,12,32) arc(1,13,31) arc(3,13,28) arc(4,13,31) arc(5,13,31) arc(8,13,29) arc(10,13,34) arc(1,14,23) arc(2,14,33) arc(3,14,28) arc(4,14,32) arc(5,14,31) arc(6,14,31) arc(7,14,31) arc(8,14,31) arc(10,14,22) arc(11,14,23) arc(12,14,20) arc(13,14,23) arc(1,15,25) arc(2,15,33) arc(3,15,32) arc(4,15,34) arc(5,15,34) arc(7,15,34) arc(8,15,32) arc(10,15,25) arc(11,15,23) arc(12,15,25) arc(13,15,25) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.659s (Solving: 0.44s 1st Model: 0.01s Unsat: 0.42s)
+CPU Time     : 0.620s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,20) arc(4,1,20) arc(4,2,21) arc(4,3,19) arc(5,3,34) arc(6,1,20) arc(6,2,20) arc(6,3,19) arc(6,5,20) arc(7,3,34) arc(8,1,19) arc(8,2,20) arc(8,3,19) arc(8,5,19) arc(8,6,20) arc(8,7,19) arc(9,3,33) arc(10,1,19) arc(10,2,20) arc(10,3,19) arc(10,5,19) arc(10,6,20) arc(10,7,19) arc(10,8,20) arc(10,9,19) arc(11,1,20) arc(11,2,21) arc(11,3,19) arc(11,5,20) arc(11,6,21) arc(11,7,20) arc(11,9,21) arc(12,1,20) arc(12,2,21) arc(12,3,19) arc(12,4,19) arc(12,5,20) arc(12,6,21) arc(12,7,19) arc(12,8,21) arc(12,9,20) arc(12,10,21) arc(12,11,20) arc(13,3,19) arc(13,5,20) arc(13,7,19) arc(13,9,20) arc(14,3,19) arc(15,1,20) arc(15,3,20) arc(15,5,20) arc(15,7,20) arc(15,9,21) arc(15,13,20) arc(15,14,20) arc(1,3,34) arc(2,3,33) arc(1,5,19) arc(2,5,20) arc(4,5,20) arc(4,6,35) arc(1,7,19) arc(2,7,19) arc(4,7,20) arc(5,7,34) arc(6,7,19) arc(4,8,35) arc(1,9,20) arc(2,9,19) arc(4,9,21) arc(5,9,34) arc(6,9,19) arc(7,9,21) arc(8,9,19) arc(4,10,35) arc(4,11,34) arc(8,11,33) arc(10,11,19) arc(1,13,34) arc(2,13,33) arc(4,13,35) arc(6,13,19) arc(8,13,19) arc(10,13,19) arc(11,13,21) arc(12,13,21) arc(1,14,35) arc(2,14,34) arc(4,14,35) arc(5,14,35) arc(6,14,20) arc(7,14,35) arc(8,14,19) arc(9,14,34) arc(10,14,20) arc(11,14,20) arc(12,14,20) arc(13,14,20) arc(2,15,33) arc(4,15,34) arc(6,15,33) arc(8,15,33) arc(10,15,19) arc(11,15,34) arc(12,15,20) winner(12)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.601s (Solving: 0.43s 1st Model: 0.01s Unsat: 0.42s)
+CPU Time     : 0.560s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,31) arc(3,2,18) arc(5,2,21) arc(5,4,21) arc(6,1,18) arc(6,3,18) arc(7,1,34) arc(7,2,21) arc(7,4,34) arc(7,5,34) arc(7,6,33) arc(8,6,30) arc(9,1,31) arc(9,2,18) arc(9,4,31) arc(9,5,31) arc(9,6,31) arc(9,8,35) arc(10,4,19) arc(10,6,18) arc(10,8,22) arc(12,4,32) arc(12,6,30) arc(12,8,32) arc(12,11,32) arc(13,1,18) arc(13,6,31) arc(13,8,35) arc(13,9,18) arc(13,11,35) arc(14,4,31) arc(14,6,31) arc(14,8,32) arc(14,10,30) arc(14,11,31) arc(14,12,21) arc(15,4,22) arc(15,6,21) arc(15,8,22) arc(15,11,35) arc(15,13,21) arc(1,2,18) arc(1,4,19) arc(2,4,32) arc(3,4,19) arc(1,5,18) arc(3,5,18) arc(2,6,31) arc(4,6,30) arc(5,6,21) arc(3,7,19) arc(1,8,22) arc(2,8,35) arc(3,8,19) arc(4,8,22) arc(5,8,22) arc(7,8,22) arc(3,9,18) arc(7,9,21) arc(1,10,33) arc(2,10,33) arc(3,10,31) arc(5,10,33) arc(7,10,33) arc(9,10,33) arc(1,11,34) arc(2,11,34) arc(3,11,32) arc(4,11,34) arc(5,11,34) arc(6,11,18) arc(7,11,35) arc(8,11,31) arc(9,11,31) arc(10,11,19) arc(1,12,21) arc(2,12,34) arc(3,12,21) arc(5,12,21) arc(7,12,20) arc(9,12,21) arc(10,12,21) arc(2,13,20) arc(3,13,18) arc(4,13,20) arc(5,13,20) arc(7,13,20) arc(10,13,19) arc(12,13,18) arc(1,14,21) arc(2,14,34) arc(3,14,18) arc(5,14,20) arc(7,14,21) arc(9,14,33) arc(13,14,18) arc(1,15,30) arc(2,15,30) arc(3,15,31) arc(5,15,30) arc(7,15,33) arc(9,15,30) arc(10,15,18) arc(12,15,31) arc(14,15,30) winner(3)
+Optimization: 90
+OPTIMUM FOUND
+
+Models       : 5     
+  Optimum    : yes
+Optimization : 90
+Calls        : 1
+Time         : 0.618s (Solving: 0.41s 1st Model: 0.01s Unsat: 0.17s)
+CPU Time     : 0.570s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,25) arc(3,1,21) arc(3,2,19) arc(4,1,30) arc(4,2,24) arc(4,3,35) arc(5,1,26) arc(5,2,24) arc(5,3,30) arc(5,4,26) arc(6,1,30) arc(6,2,29) arc(6,3,20) arc(7,1,23) arc(7,2,29) arc(8,1,32) arc(8,2,29) arc(8,3,35) arc(8,6,25) arc(8,7,32) arc(9,1,30) arc(9,2,24) arc(9,3,20) arc(10,1,25) arc(10,2,25) arc(10,3,25) arc(10,6,25) arc(10,7,21) arc(10,8,21) arc(10,9,21) arc(11,1,25) arc(11,2,20) arc(11,3,30) arc(11,6,21) arc(11,7,25) arc(11,8,24) arc(11,9,24) arc(11,10,25) arc(12,1,20) arc(12,2,23) arc(12,9,20) arc(13,1,19) arc(13,2,19) arc(14,1,31) arc(14,2,29) arc(14,3,20) arc(14,7,31) arc(14,9,27) arc(14,12,20) arc(14,13,31) arc(15,1,24) arc(15,2,29) arc(15,3,29) arc(15,6,24) arc(15,7,20) arc(15,8,23) arc(15,9,20) arc(15,10,34) arc(15,12,34) arc(15,13,31) arc(15,14,21) arc(4,6,23) arc(5,6,26) arc(3,7,21) arc(4,7,30) arc(5,7,27) arc(6,7,30) arc(4,8,23) arc(5,8,21) arc(4,9,23) arc(5,9,25) arc(6,9,30) arc(7,9,20) arc(8,9,26) arc(4,10,30) arc(5,10,29) arc(4,11,27) arc(5,11,25) arc(3,12,21) arc(4,12,30) arc(5,12,26) arc(6,12,35) arc(7,12,19) arc(8,12,32) arc(10,12,31) arc(11,12,26) arc(3,13,30) arc(4,13,31) arc(5,13,31) arc(6,13,31) arc(7,13,31) arc(8,13,35) arc(9,13,31) arc(10,13,22) arc(11,13,26) arc(12,13,24) arc(4,14,23) arc(5,14,26) arc(6,14,20) arc(8,14,21) arc(10,14,21) arc(11,14,25) arc(4,15,25) arc(5,15,27) arc(11,15,25) winner(5)
+Optimization: 20
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 20
+Calls        : 1
+Time         : 0.689s (Solving: 0.48s 1st Model: 0.01s Unsat: 0.22s)
+CPU Time     : 0.640s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,20) arc(3,1,35) arc(4,1,24) arc(5,1,23) arc(6,1,23) arc(7,1,24) arc(8,1,35) arc(8,5,34) arc(8,6,31) arc(8,7,33) arc(9,1,24) arc(9,5,20) arc(9,6,20) arc(9,7,30) arc(9,8,20) arc(10,1,22) arc(10,5,19) arc(10,6,19) arc(10,7,33) arc(10,8,19) arc(11,1,19) arc(11,5,20) arc(11,6,20) arc(11,7,30) arc(11,8,19) arc(11,9,19) arc(11,10,20) arc(12,1,24) arc(12,6,20) arc(12,7,34) arc(13,1,32) arc(13,5,32) arc(13,6,31) arc(13,7,31) arc(13,12,31) arc(14,1,24) arc(14,5,24) arc(14,6,23) arc(14,7,33) arc(14,8,24) arc(14,9,23) arc(14,10,35) arc(14,11,35) arc(14,12,23) arc(14,13,22) arc(15,1,24) arc(15,5,35) arc(15,6,23) arc(15,7,33) arc(15,12,23) arc(2,3,19) arc(2,4,19) arc(3,4,35) arc(2,5,20) arc(3,5,35) arc(4,5,23) arc(2,6,20) arc(3,6,34) arc(4,6,23) arc(5,6,20) arc(2,7,30) arc(3,7,33) arc(4,7,33) arc(5,7,33) arc(6,7,34) arc(2,8,20) arc(3,8,35) arc(4,8,24) arc(2,9,19) arc(3,9,34) arc(4,9,23) arc(2,10,20) arc(3,10,35) arc(4,10,35) arc(9,10,32) arc(2,11,20) arc(3,11,35) arc(4,11,35) arc(2,12,20) arc(3,12,34) arc(4,12,23) arc(5,12,19) arc(8,12,34) arc(9,12,20) arc(10,12,19) arc(11,12,19) arc(2,13,19) arc(3,13,33) arc(4,13,22) arc(8,13,22) arc(9,13,22) arc(10,13,22) arc(11,13,19) arc(2,14,20) arc(3,14,34) arc(4,14,23) arc(2,15,20) arc(3,15,31) arc(4,15,20) arc(8,15,30) arc(9,15,20) arc(10,15,19) arc(11,15,19) arc(13,15,32) arc(14,15,19) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.568s (Solving: 0.36s 1st Model: 0.01s Unsat: 0.35s)
+CPU Time     : 0.530s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,18) arc(5,1,19) arc(5,2,20) arc(5,3,20) arc(5,4,19) arc(6,1,34) arc(6,3,34) arc(6,4,33) arc(7,1,33) arc(7,2,34) arc(7,3,35) arc(7,4,33) arc(7,5,34) arc(7,6,34) arc(8,4,33) arc(9,4,34) arc(10,1,18) arc(10,2,34) arc(10,3,20) arc(10,4,19) arc(10,5,33) arc(10,6,19) arc(10,8,20) arc(10,9,20) arc(11,1,33) arc(11,3,35) arc(11,4,34) arc(11,8,35) arc(11,9,20) arc(12,1,18) arc(12,2,34) arc(12,3,20) arc(12,4,33) arc(12,5,34) arc(12,6,19) arc(12,8,20) arc(12,9,19) arc(12,10,34) arc(12,11,19) arc(13,4,18) arc(13,8,19) arc(13,9,19) arc(14,1,33) arc(14,3,34) arc(14,4,34) arc(14,6,19) arc(14,8,35) arc(14,9,34) arc(14,11,34) arc(14,13,34) arc(15,1,33) arc(15,2,35) arc(15,3,35) arc(15,4,34) arc(15,5,33) arc(15,6,19) arc(15,8,20) arc(15,9,20) arc(15,10,34) arc(15,11,19) arc(15,12,34) arc(15,13,35) arc(15,14,20) arc(1,3,20) arc(2,3,20) arc(1,4,34) arc(2,4,19) arc(3,4,33) arc(2,6,19) arc(5,6,19) arc(1,8,20) arc(2,8,20) arc(3,8,20) arc(5,8,20) arc(6,8,34) arc(7,8,35) arc(1,9,20) arc(2,9,19) arc(3,9,18) arc(5,9,20) arc(6,9,34) arc(7,9,34) arc(8,9,18) arc(7,10,34) arc(2,11,19) arc(5,11,20) arc(6,11,34) arc(7,11,34) arc(10,11,19) arc(7,12,35) arc(1,13,35) arc(2,13,34) arc(3,13,34) arc(5,13,35) arc(6,13,34) arc(7,13,35) arc(10,13,35) arc(11,13,35) arc(12,13,35) arc(2,14,20) arc(5,14,20) arc(7,14,34) arc(10,14,19) arc(12,14,19) arc(7,15,34) winner(7)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 1.170s (Solving: 0.95s 1st Model: 0.01s Unsat: 0.93s)
+CPU Time     : 1.130s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,19) arc(3,1,20) arc(3,2,35) arc(6,1,23) arc(6,2,23) arc(6,4,23) arc(6,5,23) arc(7,5,32) arc(8,5,20) arc(9,1,34) arc(9,4,35) arc(9,5,35) arc(9,7,34) arc(9,8,35) arc(10,1,20) arc(10,2,32) arc(10,4,20) arc(10,5,32) arc(10,6,32) arc(10,7,32) arc(10,8,32) arc(10,9,20) arc(11,5,23) arc(11,8,35) arc(12,4,23) arc(12,5,32) arc(12,7,31) arc(12,8,32) arc(12,11,31) arc(13,5,35) arc(13,7,35) arc(13,8,35) arc(13,11,31) arc(14,5,19) arc(14,8,31) arc(14,11,19) arc(15,1,19) arc(15,2,34) arc(15,3,31) arc(15,4,23) arc(15,5,31) arc(15,6,31) arc(15,7,31) arc(15,8,31) arc(15,9,19) arc(15,10,34) arc(15,11,31) arc(15,12,31) arc(15,13,31) arc(15,14,32) arc(1,4,35) arc(2,4,20) arc(3,4,23) arc(1,5,35) arc(2,5,19) arc(3,5,32) arc(4,5,31) arc(3,6,31) arc(1,7,34) arc(2,7,19) arc(3,7,23) arc(4,7,31) arc(6,7,23) arc(1,8,35) arc(2,8,31) arc(3,8,32) arc(4,8,31) arc(6,8,35) arc(7,8,32) arc(2,9,19) arc(3,9,20) arc(6,9,23) arc(3,10,22) arc(1,11,31) arc(2,11,31) arc(3,11,32) arc(4,11,31) arc(6,11,23) arc(7,11,31) arc(9,11,34) arc(10,11,32) arc(1,12,34) arc(2,12,19) arc(3,12,23) arc(6,12,23) arc(9,12,34) arc(10,12,20) arc(1,13,31) arc(2,13,19) arc(3,13,20) arc(4,13,31) arc(6,13,23) arc(9,13,34) arc(10,13,20) arc(12,13,19) arc(1,14,35) arc(2,14,32) arc(3,14,35) arc(4,14,31) arc(6,14,23) arc(7,14,32) arc(9,14,35) arc(10,14,32) arc(12,14,32) arc(13,14,35) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.613s (Solving: 0.37s 1st Model: 0.01s Unsat: 0.35s)
+CPU Time     : 0.570sclasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,23) arc(4,1,32) arc(4,2,35) arc(4,3,35) arc(5,3,32) arc(6,3,25) arc(8,3,28) arc(8,5,27) arc(8,6,26) arc(8,7,27) arc(9,3,28) arc(9,5,28) arc(9,6,27) arc(9,7,25) arc(9,8,32) arc(10,7,24) arc(11,1,24) arc(11,3,25) arc(11,5,24) arc(11,6,24) arc(11,7,24) arc(11,8,31) arc(11,9,24) arc(11,10,34) arc(12,7,24) arc(13,3,27) arc(13,5,27) arc(13,6,26) arc(13,7,27) arc(13,8,34) arc(13,10,33) arc(13,12,33) arc(15,3,25) arc(15,5,24) arc(15,6,23) arc(15,7,24) arc(15,8,30) arc(15,9,30) arc(15,10,31) arc(15,12,31) arc(15,13,31) arc(15,14,35) arc(1,3,28) arc(2,3,27) arc(1,5,28) arc(2,5,26) arc(4,5,35) arc(1,6,26) arc(2,6,26) arc(4,6,34) arc(5,6,30) arc(1,7,24) arc(2,7,23) arc(3,7,30) arc(4,7,32) arc(5,7,30) arc(6,7,25) arc(1,8,32) arc(2,8,30) arc(4,8,32) arc(1,9,33) arc(2,9,30) arc(4,9,31) arc(1,10,34) arc(2,10,33) arc(3,10,33) arc(4,10,35) arc(5,10,34) arc(6,10,34) arc(8,10,34) arc(9,10,34) arc(2,11,33) arc(4,11,35) arc(1,12,34) arc(2,12,34) arc(3,12,34) arc(4,12,35) arc(5,12,34) arc(6,12,35) arc(8,12,27) arc(9,12,28) arc(10,12,25) arc(11,12,25) arc(1,13,24) arc(2,13,24) arc(4,13,32) arc(9,13,25) arc(11,13,25) arc(1,14,35) arc(2,14,34) arc(3,14,34) arc(4,14,35) arc(5,14,35) arc(6,14,35) arc(7,14,35) arc(8,14,28) arc(9,14,35) arc(10,14,28) arc(11,14,28) arc(12,14,34) arc(13,14,34) arc(1,15,28) arc(2,15,26) arc(4,15,35) arc(11,15,27) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.784s (Solving: 0.46s 1st Model: 0.01s Unsat: 0.44s)
+CPU Time     : 0.690s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,22) arc(4,2,27) arc(4,3,34) arc(5,2,31) arc(6,1,26) arc(6,2,26) arc(6,3,27) arc(6,4,27) arc(6,5,27) arc(7,2,29) arc(7,3,29) arc(7,4,29) arc(7,5,32) arc(9,2,26) arc(9,8,26) arc(10,2,27) arc(10,8,25) arc(11,2,25) arc(11,8,25) arc(12,1,27) arc(12,2,26) arc(12,3,32) arc(12,4,27) arc(12,5,29) arc(12,7,25) arc(12,8,29) arc(12,9,33) arc(12,10,27) arc(12,11,29) arc(13,2,28) arc(13,8,28) arc(13,10,28) arc(13,11,28) arc(14,1,28) arc(14,2,31) arc(14,3,33) arc(14,4,31) arc(14,5,24) arc(14,7,23) arc(14,8,31) arc(14,9,28) arc(14,10,32) arc(14,11,33) arc(14,12,26) arc(14,13,27) arc(15,2,28) arc(15,8,27) arc(15,10,28) arc(15,11,29) arc(1,2,24) arc(1,3,30) arc(1,4,24) arc(1,5,27) arc(3,5,23) arc(4,5,24) arc(1,7,28) arc(6,7,28) arc(1,8,26) arc(2,8,29) arc(3,8,21) arc(4,8,29) arc(5,8,30) arc(6,8,26) arc(7,8,29) arc(1,9,26) arc(3,9,27) arc(4,9,28) arc(5,9,27) arc(6,9,27) arc(7,9,32) arc(1,10,26) arc(3,10,22) arc(4,10,28) arc(5,10,31) arc(6,10,26) arc(7,10,30) arc(9,10,28) arc(1,11,31) arc(3,11,28) arc(4,11,31) arc(5,11,31) arc(6,11,27) arc(7,11,30) arc(9,11,29) arc(10,11,29) arc(6,12,27) arc(1,13,24) arc(3,13,24) arc(4,13,28) arc(5,13,31) arc(6,13,27) arc(7,13,30) arc(9,13,32) arc(12,13,31) arc(6,14,27) arc(1,15,25) arc(3,15,25) arc(4,15,26) arc(5,15,33) arc(6,15,26) arc(7,15,31) arc(9,15,31) arc(12,15,31) arc(13,15,31) arc(14,15,27) winner(6)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.624s (Solving: 0.39s 1st Model: 0.01s Unsat: 0.38s)
+CPU Time     : 0.580s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(3,1,21) arc(3,2,22) arc(4,1,33) arc(4,2,32) arc(4,3,34) arc(6,5,23) arc(7,1,32) arc(7,2,33) arc(7,5,33) arc(7,6,32) arc(8,5,22) arc(8,6,33) arc(9,5,23) arc(10,1,34) arc(10,2,22) arc(10,3,35) arc(10,4,23) arc(10,5,23) arc(10,6,33) arc(10,7,23) arc(10,8,23) arc(10,9,22) arc(11,1,33) arc(11,2,33) arc(11,5,23) arc(11,6,32) arc(11,7,24) arc(11,8,34) arc(11,9,33) arc(12,5,24) arc(13,1,34) arc(13,5,24) arc(13,6,33) arc(13,8,24) arc(13,9,23) arc(13,12,32) arc(14,5,23) arc(14,6,23) arc(14,9,23) arc(14,12,23) arc(15,5,33) arc(15,12,32) arc(1,5,22) arc(2,5,24) arc(3,5,22) arc(4,5,33) arc(1,6,33) arc(2,6,34) arc(3,6,21) arc(4,6,32) arc(3,7,21) arc(4,7,22) arc(1,8,23) arc(2,8,35) arc(3,8,23) arc(4,8,33) arc(7,8,34) arc(1,9,22) arc(2,9,23) arc(3,9,22) arc(4,9,33) arc(6,9,23) arc(7,9,33) arc(8,9,22) arc(3,11,21) arc(4,11,33) arc(10,11,23) arc(1,12,33) arc(2,12,33) arc(3,12,32) arc(4,12,32) arc(6,12,34) arc(7,12,32) arc(8,12,32) arc(9,12,33) arc(10,12,34) arc(11,12,32) arc(2,13,34) arc(3,13,22) arc(4,13,33) arc(7,13,33) arc(10,13,23) arc(11,13,34) arc(1,14,33) arc(2,14,33) arc(3,14,32) arc(4,14,33) arc(7,14,32) arc(8,14,32) arc(10,14,34) arc(11,14,33) arc(13,14,33) arc(1,15,24) arc(2,15,23) arc(3,15,22) arc(4,15,34) arc(6,15,24) arc(7,15,34) arc(8,15,22) arc(9,15,23) arc(10,15,23) arc(11,15,24) arc(13,15,23) arc(14,15,23) winner(10)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.875s (Solving: 0.64s 1st Model: 0.01s Unsat: 0.63s)
+CPU Time     : 0.840s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,2,26) arc(4,3,23) arc(6,2,27) arc(6,3,23) arc(6,4,29) arc(6,5,21) arc(7,2,32) arc(7,3,32) arc(7,4,32) arc(7,5,22) arc(8,2,33) arc(8,3,27) arc(8,5,23) arc(9,2,28) arc(9,3,31) arc(9,5,21) arc(9,8,25) arc(10,2,32) arc(10,3,28) arc(10,4,28) arc(10,5,21) arc(10,7,24) arc(10,8,26) arc(10,9,29) arc(11,2,29) arc(11,3,31) arc(11,4,31) arc(11,5,21) arc(11,7,30) arc(11,8,30) arc(11,9,31) arc(11,10,31) arc(12,5,21) arc(13,2,29) arc(13,3,26) arc(13,4,29) arc(13,5,20) arc(13,7,27) arc(13,8,26) arc(13,9,21) arc(13,10,27) arc(13,12,31) arc(14,3,32) arc(14,5,22) arc(14,12,32) arc(15,3,33) arc(15,5,23) arc(15,12,28) arc(1,2,30) arc(1,3,26) arc(2,3,24) arc(1,4,25) arc(1,5,21) arc(2,5,20) arc(3,5,21) arc(4,5,18) arc(1,6,26) arc(1,7,21) arc(6,7,23) arc(1,8,26) arc(4,8,26) arc(6,8,28) arc(7,8,30) arc(1,9,25) arc(4,9,24) arc(6,9,21) arc(7,9,26) arc(1,10,27) arc(6,10,27) arc(1,11,23) arc(6,11,22) arc(1,12,25) arc(2,12,25) arc(3,12,26) arc(4,12,24) arc(6,12,25) arc(7,12,32) arc(8,12,28) arc(9,12,32) arc(10,12,29) arc(11,12,31) arc(1,13,24) arc(6,13,25) arc(11,13,29) arc(1,14,26) arc(2,14,25) arc(4,14,23) arc(6,14,21) arc(7,14,24) arc(8,14,24) arc(9,14,25) arc(10,14,25) arc(11,14,31) arc(13,14,21) arc(1,15,20) arc(2,15,19) arc(4,15,20) arc(6,15,22) arc(7,15,26) arc(8,15,18) arc(9,15,25) arc(10,15,19) arc(11,15,30) arc(13,15,25) arc(14,15,29) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.612s (Solving: 0.41s 1st Model: 0.01s Unsat: 0.39s)
+CPU Time     : 0.570sclasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,19) arc(3,2,34) arc(4,1,34) arc(4,2,34) arc(5,1,25) arc(5,2,25) arc(6,1,20) arc(6,2,35) arc(7,1,20) arc(7,2,30) arc(9,1,30) arc(9,2,30) arc(9,6,29) arc(9,7,34) arc(9,8,20) arc(10,2,24) arc(10,8,19) arc(11,1,20) arc(11,2,34) arc(11,3,30) arc(11,4,20) arc(11,5,29) arc(11,6,29) arc(11,7,34) arc(11,8,19) arc(11,9,24) arc(11,10,30) arc(12,1,30) arc(12,2,35) arc(12,7,34) arc(12,8,20) arc(12,10,30) arc(13,1,25) arc(13,2,25) arc(13,6,24) arc(13,7,24) arc(13,8,25) arc(13,9,24) arc(13,10,35) arc(13,12,24) arc(14,1,20) arc(14,2,25) arc(14,8,20) arc(14,10,30) arc(15,2,25) arc(15,8,25) arc(15,10,35) arc(1,2,34) arc(3,4,20) arc(3,5,29) arc(4,5,29) arc(3,6,29) arc(4,6,34) arc(5,6,24) arc(3,7,24) arc(4,7,34) arc(5,7,24) arc(6,7,25) arc(1,8,24) arc(2,8,19) arc(3,8,19) arc(4,8,24) arc(5,8,25) arc(6,8,20) arc(7,8,20) arc(3,9,24) arc(4,9,24) arc(5,9,24) arc(1,10,34) arc(3,10,29) arc(4,10,34) arc(5,10,35) arc(6,10,30) arc(7,10,30) arc(9,10,30) arc(3,12,24) arc(4,12,24) arc(5,12,25) arc(6,12,25) arc(9,12,20) arc(11,12,24) arc(3,13,29) arc(4,13,29) arc(5,13,25) arc(11,13,29) arc(3,14,29) arc(4,14,34) arc(5,14,34) arc(6,14,35) arc(7,14,30) arc(9,14,30) arc(11,14,29) arc(12,14,29) arc(13,14,34) arc(1,15,29) arc(3,15,29) arc(4,15,29) arc(5,15,19) arc(6,15,30) arc(7,15,30) arc(9,15,29) arc(11,15,29) arc(12,15,29) arc(13,15,29) arc(14,15,19) winner(11)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.886s (Solving: 0.59s 1st Model: 0.01s Unsat: 0.58s)
+CPU Time     : 0.800s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,22) arc(4,1,22) arc(4,2,31) arc(4,3,28) arc(5,2,28) arc(5,3,28) arc(6,1,25) arc(6,2,20) arc(6,3,23) arc(7,2,27) arc(7,6,20) arc(8,1,18) arc(8,2,23) arc(8,3,22) arc(8,5,20) arc(8,6,20) arc(8,7,19) arc(9,1,18) arc(9,2,22) arc(9,3,20) arc(10,2,22) arc(10,3,18) arc(11,2,26) arc(11,3,21) arc(11,6,22) arc(11,7,29) arc(11,9,18) arc(11,10,26) arc(12,2,22) arc(12,3,22) arc(12,5,18) arc(12,7,19) arc(12,9,20) arc(12,10,23) arc(12,11,25) arc(13,1,24) arc(13,2,33) arc(13,3,27) arc(13,5,21) arc(13,6,20) arc(13,7,22) arc(13,8,24) arc(13,10,22) arc(13,11,22) arc(13,12,24) arc(14,2,20) arc(14,3,22) arc(14,5,20) arc(14,7,20) arc(14,8,19) arc(14,9,24) arc(14,10,20) arc(14,11,20) arc(15,2,26) arc(15,3,31) arc(15,6,23) arc(15,7,29) arc(15,8,21) arc(15,9,23) arc(15,10,27) arc(15,11,25) arc(15,12,22) arc(15,14,20) arc(1,2,29) arc(1,3,31) arc(1,5,20) arc(4,5,33) arc(4,6,31) arc(5,6,20) arc(1,7,24) arc(3,7,20) arc(4,7,33) arc(5,7,24) arc(4,8,26) arc(4,9,32) arc(5,9,25) arc(6,9,22) arc(7,9,18) arc(8,9,24) arc(1,10,22) arc(4,10,33) arc(5,10,31) arc(6,10,22) arc(7,10,20) arc(8,10,22) arc(9,10,19) arc(1,11,22) arc(4,11,33) arc(5,11,24) arc(8,11,23) arc(1,12,26) arc(4,12,26) arc(6,12,22) arc(8,12,18) arc(4,13,24) arc(9,13,18) arc(1,14,21) arc(4,14,25) arc(6,14,18) arc(12,14,20) arc(13,14,20) arc(1,15,18) arc(4,15,28) arc(5,15,18) arc(13,15,19) winner(4)
+Optimization: 173
+OPTIMUM FOUND
+
+Models       : 23    
+  Optimum    : yes
+Optimization : 173
+Calls        : 1
+Time         : 0.919s (Solving: 0.74s 1st Model: 0.01s Unsat: 0.03s)
+CPU Time     : 0.880s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,34) arc(4,1,25) arc(4,2,34) arc(4,3,27) arc(5,2,34) arc(5,3,27) arc(6,2,34) arc(6,3,27) arc(8,2,27) arc(8,3,27) arc(8,6,26) arc(8,7,27) arc(9,1,27) arc(9,2,34) arc(9,3,34) arc(9,5,35) arc(9,6,34) arc(9,7,34) arc(9,8,34) arc(10,1,25) arc(10,2,27) arc(10,3,27) arc(10,5,26) arc(10,6,25) arc(10,7,27) arc(10,8,27) arc(11,2,27) arc(11,3,27) arc(11,6,26) arc(11,7,27) arc(12,2,34) arc(12,3,28) arc(12,6,35) arc(12,7,35) arc(12,11,35) arc(13,2,34) arc(13,3,28) arc(13,7,35) arc(14,2,27) arc(14,3,27) arc(14,6,27) arc(14,7,27) arc(14,13,25) arc(15,2,34) arc(15,7,34) arc(1,2,34) arc(1,3,35) arc(1,5,33) arc(4,5,26) arc(1,6,33) arc(4,6,25) arc(5,6,34) arc(1,7,35) arc(2,7,28) arc(3,7,34) arc(4,7,27) arc(5,7,34) arc(6,7,34) arc(1,8,35) arc(4,8,32) arc(5,8,34) arc(4,9,25) arc(4,10,32) arc(9,10,35) arc(1,11,33) arc(4,11,32) arc(5,11,34) arc(8,11,32) arc(9,11,34) arc(10,11,25) arc(1,12,32) arc(4,12,25) arc(5,12,32) arc(8,12,25) arc(9,12,34) arc(10,12,25) arc(1,13,32) arc(4,13,25) arc(5,13,32) arc(6,13,25) arc(8,13,25) arc(9,13,32) arc(10,13,25) arc(11,13,25) arc(12,13,26) arc(1,14,33) arc(4,14,33) arc(5,14,35) arc(8,14,33) arc(9,14,35) arc(10,14,26) arc(11,14,33) arc(12,14,35) arc(1,15,33) arc(3,15,33) arc(4,15,25) arc(5,15,27) arc(6,15,27) arc(8,15,25) arc(9,15,34) arc(10,15,25) arc(11,15,26) arc(12,15,28) arc(13,15,28) arc(14,15,27) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.875s (Solving: 0.62s 1st Model: 0.01s Unsat: 0.60s)
+CPU Time     : 0.830s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(4,1,25) arc(4,2,26) arc(4,3,30) arc(5,1,33) arc(5,2,30) arc(5,3,35) arc(5,4,34) arc(6,1,29) arc(6,2,29) arc(6,3,29) arc(6,4,33) arc(7,1,34) arc(7,3,34) arc(8,1,35) arc(8,2,31) arc(8,3,35) arc(8,7,35) arc(9,1,29) arc(9,2,25) arc(9,3,29) arc(9,7,29) arc(9,8,28) arc(11,10,30) arc(12,1,30) arc(12,2,30) arc(12,3,35) arc(12,4,30) arc(12,7,30) arc(12,8,29) arc(12,9,30) arc(12,10,29) arc(12,11,30) arc(13,10,25) arc(14,10,31) arc(15,1,30) arc(15,2,31) arc(15,3,35) arc(15,7,31) arc(15,8,30) arc(15,10,30) arc(15,11,30) arc(15,13,35) arc(15,14,25) arc(1,3,35) arc(2,3,29) arc(5,6,30) arc(2,7,28) arc(4,7,26) arc(5,7,34) arc(6,7,29) arc(4,8,25) arc(5,8,33) arc(6,8,29) arc(4,9,26) arc(5,9,34) arc(6,9,35) arc(1,10,29) arc(2,10,34) arc(3,10,29) arc(4,10,25) arc(5,10,29) arc(6,10,34) arc(7,10,30) arc(8,10,30) arc(9,10,30) arc(1,11,30) arc(2,11,33) arc(3,11,29) arc(4,11,25) arc(5,11,33) arc(6,11,29) arc(7,11,29) arc(8,11,35) arc(9,11,28) arc(5,12,28) arc(6,12,29) arc(1,13,34) arc(2,13,34) arc(3,13,30) arc(4,13,30) arc(5,13,34) arc(6,13,35) arc(7,13,35) arc(8,13,35) arc(9,13,35) arc(11,13,35) arc(12,13,34) arc(1,14,28) arc(2,14,28) arc(3,14,24) arc(4,14,29) arc(5,14,28) arc(6,14,29) arc(7,14,29) arc(8,14,29) arc(9,14,29) arc(11,14,29) arc(12,14,24) arc(13,14,25) arc(4,15,29) arc(5,15,34) arc(6,15,28) arc(9,15,28) arc(12,15,34) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.895s (Solving: 0.64s 1st Model: 0.01s Unsat: 0.63s)
+CPU Time     : 0.850s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,23) arc(4,1,27) arc(4,2,20) arc(4,3,32) arc(7,2,27) arc(7,3,27) arc(7,5,30) arc(7,6,30) arc(8,2,24) arc(8,3,25) arc(8,5,28) arc(8,6,23) arc(9,2,24) arc(9,3,24) arc(9,5,23) arc(9,6,23) arc(9,7,25) arc(9,8,27) arc(10,1,28) arc(10,2,32) arc(10,3,32) arc(10,4,35) arc(10,5,31) arc(10,6,28) arc(10,7,32) arc(10,8,28) arc(10,9,28) arc(12,2,24) arc(12,3,24) arc(12,5,30) arc(12,6,20) arc(12,7,25) arc(12,8,27) arc(12,9,31) arc(12,11,27) arc(13,1,28) arc(13,2,25) arc(13,3,32) arc(13,5,31) arc(13,6,28) arc(13,7,25) arc(13,8,28) arc(13,9,28) arc(13,11,28) arc(13,12,28) arc(14,1,27) arc(14,2,24) arc(14,3,31) arc(14,4,34) arc(14,5,27) arc(14,6,27) arc(14,7,24) arc(14,8,27) arc(14,9,31) arc(14,10,24) arc(14,11,27) arc(14,12,31) arc(14,13,31) arc(15,1,24) arc(15,2,24) arc(15,3,24) arc(15,5,34) arc(15,6,31) arc(15,7,24) arc(15,8,31) arc(15,9,31) arc(15,11,31) arc(15,12,31) arc(15,13,24) arc(1,2,25) arc(1,3,25) arc(1,5,31) arc(2,5,31) arc(3,5,31) arc(4,5,28) arc(1,6,31) arc(2,6,30) arc(3,6,30) arc(4,6,27) arc(5,6,20) arc(1,7,28) arc(4,7,25) arc(1,8,28) arc(4,8,28) arc(7,8,27) arc(1,9,35) arc(4,9,28) arc(1,11,28) arc(2,11,27) arc(3,11,30) arc(4,11,27) arc(5,11,27) arc(6,11,32) arc(7,11,27) arc(8,11,20) arc(9,11,27) arc(10,11,28) arc(1,12,35) arc(4,12,28) arc(10,12,28) arc(4,13,27) arc(10,13,35) arc(4,15,28) arc(10,15,31) arc(14,15,28) winner(14)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.642s (Solving: 0.41s 1st Model: 0.01s Unsat: 0.40s)
+CPU Time     : 0.600s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,25) arc(3,1,24) arc(4,1,25) arc(4,3,25) arc(5,1,24) arc(5,3,35) arc(5,4,34) arc(6,1,24) arc(6,3,25) arc(6,4,34) arc(6,5,24) arc(7,1,24) arc(7,3,25) arc(7,4,34) arc(8,1,24) arc(8,3,35) arc(8,4,34) arc(9,1,25) arc(9,3,25) arc(9,4,35) arc(9,8,25) arc(10,1,24) arc(10,3,25) arc(11,1,24) arc(11,3,35) arc(11,10,35) arc(12,1,24) arc(12,3,25) arc(13,1,25) arc(14,1,24) arc(14,3,24) arc(14,4,34) arc(14,5,24) arc(14,7,24) arc(14,8,24) arc(14,9,24) arc(14,10,24) arc(14,11,24) arc(14,12,24) arc(14,13,24) arc(15,1,24) arc(15,3,25) arc(15,4,34) arc(15,5,25) arc(15,7,35) arc(15,8,25) arc(15,9,24) arc(15,10,25) arc(15,11,25) arc(15,12,34) arc(15,13,34) arc(15,14,35) arc(2,3,25) arc(2,4,34) arc(2,5,25) arc(2,6,35) arc(2,7,35) arc(5,7,35) arc(6,7,24) arc(2,8,25) arc(5,8,35) arc(6,8,24) arc(7,8,24) arc(2,9,34) arc(5,9,34) arc(6,9,24) arc(7,9,24) arc(2,10,25) arc(4,10,25) arc(5,10,35) arc(6,10,25) arc(7,10,25) arc(8,10,35) arc(9,10,25) arc(2,11,25) arc(4,11,25) arc(5,11,25) arc(6,11,24) arc(7,11,24) arc(8,11,24) arc(9,11,25) arc(2,12,35) arc(4,12,25) arc(5,12,34) arc(6,12,34) arc(7,12,34) arc(8,12,34) arc(9,12,35) arc(10,12,34) arc(11,12,34) arc(2,13,34) arc(3,13,34) arc(4,13,25) arc(5,13,34) arc(6,13,34) arc(7,13,34) arc(8,13,34) arc(9,13,35) arc(10,13,34) arc(11,13,34) arc(12,13,34) arc(2,14,35) arc(6,14,35) arc(2,15,35) arc(6,15,24) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.733s (Solving: 2.50s 1st Model: 0.01s Unsat: 2.49s)
+CPU Time     : 2.690s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,26) arc(3,1,33) arc(3,2,33) arc(4,1,26) arc(6,1,18) arc(6,5,24) arc(8,1,26) arc(8,5,24) arc(8,7,25) arc(9,5,26) arc(9,7,33) arc(11,1,27) arc(11,2,18) arc(11,4,27) arc(11,5,35) arc(11,6,27) arc(11,7,33) arc(11,8,29) arc(11,9,25) arc(11,10,30) arc(12,4,19) arc(12,5,24) arc(12,6,26) arc(12,8,24) arc(13,1,30) arc(13,4,30) arc(13,5,30) arc(13,6,30) arc(13,7,30) arc(13,8,24) arc(13,9,22) arc(13,10,30) arc(13,12,32) arc(14,1,26) arc(14,2,18) arc(14,5,32) arc(14,7,32) arc(14,8,28) arc(14,9,26) arc(14,10,32) arc(15,1,29) arc(15,5,22) arc(15,7,28) arc(15,8,29) arc(15,9,26) arc(2,4,26) arc(3,4,33) arc(1,5,24) arc(2,5,28) arc(3,5,33) arc(4,5,24) arc(2,6,26) arc(3,6,33) arc(4,6,31) arc(1,7,32) arc(2,7,26) arc(3,7,35) arc(4,7,32) arc(5,7,26) arc(6,7,23) arc(2,8,26) arc(3,8,27) arc(4,8,24) arc(6,8,26) arc(1,9,24) arc(2,9,24) arc(3,9,27) arc(4,9,22) arc(6,9,19) arc(8,9,23) arc(1,10,23) arc(2,10,24) arc(3,10,32) arc(4,10,21) arc(5,10,24) arc(6,10,23) arc(7,10,23) arc(8,10,23) arc(9,10,23) arc(3,11,26) arc(1,12,18) arc(2,12,26) arc(3,12,33) arc(7,12,18) arc(9,12,18) arc(10,12,20) arc(11,12,35) arc(2,13,29) arc(3,13,35) arc(11,13,29) arc(3,14,26) arc(4,14,22) arc(6,14,18) arc(11,14,27) arc(12,14,18) arc(13,14,21) arc(2,15,28) arc(3,15,31) arc(4,15,21) arc(6,15,21) arc(10,15,18) arc(11,15,29) arc(12,15,21) arc(13,15,28) arc(14,15,30) winner(3)
+Optimization: 110
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+Optimization : 110
+Calls        : 1
+Time         : 0.816s (Solving: 0.60s 1st Model: 0.01s Unsat: 0.06s)
+CPU Time     : 0.780s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(4,1,28) arc(4,2,33) arc(4,3,33) arc(5,2,18) arc(5,3,33) arc(6,1,30) arc(6,2,22) arc(6,3,22) arc(6,4,22) arc(6,5,20) arc(7,1,30) arc(7,2,27) arc(7,3,28) arc(7,5,29) arc(8,3,30) arc(8,7,18) arc(9,1,19) arc(9,2,20) arc(9,3,21) arc(9,4,20) arc(9,5,20) arc(9,6,20) arc(9,7,23) arc(10,3,28) arc(11,1,27) arc(11,2,27) arc(11,3,27) arc(11,5,28) arc(11,6,26) arc(11,7,19) arc(11,8,21) arc(11,10,21) arc(12,1,30) arc(12,2,23) arc(12,3,23) arc(12,5,19) arc(12,7,22) arc(12,8,20) arc(12,9,18) arc(12,10,22) arc(13,1,28) arc(13,2,19) arc(13,3,21) arc(13,5,20) arc(13,6,27) arc(13,7,21) arc(13,8,19) arc(13,9,30) arc(13,10,21) arc(13,11,22) arc(13,12,28) arc(14,3,22) arc(15,1,19) arc(15,2,19) arc(15,3,22) arc(15,4,19) arc(15,5,21) arc(15,6,19) arc(15,7,21) arc(15,8,21) arc(15,9,33) arc(15,10,22) arc(15,11,22) arc(15,12,19) arc(15,14,29) arc(1,3,21) arc(2,3,32) arc(1,5,19) arc(4,5,31) arc(4,7,21) arc(6,7,21) arc(1,8,22) arc(2,8,20) arc(4,8,20) arc(5,8,19) arc(6,8,21) arc(8,9,18) arc(1,10,20) arc(2,10,23) arc(4,10,32) arc(5,10,21) arc(6,10,23) arc(7,10,31) arc(8,10,18) arc(9,10,20) arc(4,11,19) arc(9,11,20) arc(4,12,28) arc(6,12,31) arc(11,12,27) arc(4,13,19) arc(1,14,31) arc(2,14,29) arc(4,14,29) arc(5,14,32) arc(6,14,32) arc(7,14,30) arc(8,14,30) arc(9,14,18) arc(10,14,27) arc(11,14,27) arc(12,14,31) arc(13,14,29) arc(13,15,28) winner(13)
+Optimization: 110
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+Optimization : 110
+Calls        : 1
+Time         : 0.697s (Solving: 0.51s 1st Model: 0.01s Unsat: 0.18s)
+CPU Time     : 0.650s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,35) arc(3,1,35) arc(5,1,35) arc(5,4,29) arc(6,1,35) arc(6,2,34) arc(6,3,30) arc(6,4,29) arc(6,5,35) arc(7,1,35) arc(7,4,28) arc(8,1,33) arc(8,2,33) arc(8,3,27) arc(8,4,27) arc(8,5,32) arc(8,6,27) arc(8,7,32) arc(9,1,34) arc(9,2,33) arc(9,3,32) arc(9,4,33) arc(9,5,32) arc(9,6,32) arc(9,7,33) arc(10,1,35) arc(10,2,29) arc(10,3,28) arc(10,4,28) arc(10,5,29) arc(10,6,27) arc(10,7,35) arc(12,11,27) arc(13,1,34) arc(13,2,33) arc(13,3,34) arc(13,4,29) arc(13,5,33) arc(13,6,33) arc(13,7,34) arc(13,9,29) arc(13,10,34) arc(13,11,27) arc(13,12,29) arc(14,1,34) arc(14,2,33) arc(14,3,27) arc(14,4,28) arc(14,5,33) arc(14,6,32) arc(14,7,33) arc(14,10,33) arc(14,11,27) arc(14,12,28) arc(15,1,35) arc(15,2,35) arc(15,3,29) arc(15,4,30) arc(15,5,30) arc(15,6,29) arc(15,7,35) arc(15,11,29) arc(15,12,30) arc(2,3,28) arc(1,4,28) arc(2,4,29) arc(3,4,28) arc(2,5,28) arc(3,5,33) arc(2,7,34) arc(3,7,35) arc(5,7,35) arc(6,7,35) arc(8,9,28) arc(8,10,32) arc(9,10,32) arc(1,11,27) arc(2,11,27) arc(3,11,28) arc(4,11,27) arc(5,11,27) arc(6,11,28) arc(7,11,27) arc(8,11,27) arc(9,11,32) arc(10,11,27) arc(1,12,28) arc(2,12,29) arc(3,12,30) arc(4,12,35) arc(5,12,30) arc(6,12,30) arc(7,12,29) arc(8,12,28) arc(9,12,34) arc(10,12,30) arc(8,13,27) arc(8,14,28) arc(9,14,33) arc(13,14,34) arc(8,15,32) arc(9,15,32) arc(10,15,27) arc(13,15,32) arc(14,15,32) winner(8)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.295s (Solving: 2.03s 1st Model: 0.01s Unsat: 2.01s)
+CPU Time     : 2.250s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,24) arc(3,2,28) arc(5,2,28) arc(5,4,21) arc(6,1,18) arc(6,2,29) arc(6,4,35) arc(7,2,18) arc(7,4,19) arc(8,2,24) arc(8,3,25) arc(8,4,25) arc(8,6,24) arc(8,7,27) arc(9,2,20) arc(9,4,21) arc(10,4,18) arc(12,2,21) arc(12,3,19) arc(12,4,28) arc(12,5,18) arc(12,7,27) arc(12,8,22) arc(12,9,18) arc(12,10,28) arc(12,11,34) arc(13,2,19) arc(13,4,19) arc(13,6,19) arc(13,7,28) arc(13,9,19) arc(13,10,29) arc(13,11,34) arc(14,2,18) arc(14,4,19) arc(14,6,18) arc(14,7,27) arc(14,9,18) arc(14,10,27) arc(14,11,33) arc(14,13,27) arc(15,1,29) arc(15,2,22) arc(15,3,28) arc(15,4,28) arc(15,5,28) arc(15,6,28) arc(15,7,28) arc(15,8,22) arc(15,9,19) arc(15,10,29) arc(15,11,34) arc(15,12,34) arc(15,13,20) arc(15,14,28) arc(1,3,18) arc(1,4,27) arc(2,4,27) arc(3,4,34) arc(1,5,18) arc(3,5,23) arc(3,6,20) arc(5,6,20) arc(1,7,28) arc(3,7,27) arc(5,7,28) arc(6,7,28) arc(1,8,21) arc(5,8,22) arc(1,9,18) arc(3,9,25) arc(5,9,25) arc(6,9,26) arc(7,9,18) arc(8,9,25) arc(1,10,28) arc(2,10,18) arc(3,10,28) arc(5,10,29) arc(6,10,29) arc(7,10,27) arc(8,10,28) arc(9,10,28) arc(1,11,33) arc(2,11,22) arc(3,11,34) arc(4,11,23) arc(5,11,33) arc(6,11,34) arc(7,11,25) arc(8,11,33) arc(9,11,33) arc(10,11,24) arc(1,12,25) arc(6,12,23) arc(1,13,20) arc(3,13,27) arc(5,13,27) arc(8,13,33) arc(12,13,21) arc(1,14,28) arc(3,14,27) arc(5,14,28) arc(8,14,18) arc(12,14,28) winner(15)
+Optimization: 87
+OPTIMUM FOUND
+
+Models       : 5     
+  Optimum    : yes
+Optimization : 87
+Calls        : 1
+Time         : 0.585s (Solving: 0.39s 1st Model: 0.01s Unsat: 0.01s)
+CPU Time     : 0.550s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(3,1,20) arc(3,2,21) arc(4,1,22) arc(4,2,28) arc(5,1,34) arc(5,2,25) arc(5,3,21) arc(7,1,21) arc(7,3,19) arc(7,6,25) arc(9,1,19) arc(9,2,18) arc(9,5,19) arc(9,6,19) arc(9,8,25) arc(10,1,29) arc(10,2,24) arc(10,3,20) arc(10,6,25) arc(10,7,29) arc(10,8,34) arc(11,1,29) arc(11,2,28) arc(11,6,23) arc(11,7,22) arc(11,8,29) arc(12,1,33) arc(12,2,23) arc(12,3,19) arc(12,5,23) arc(12,6,24) arc(12,7,29) arc(12,8,32) arc(12,10,33) arc(12,11,24) arc(13,1,29) arc(13,2,24) arc(13,6,19) arc(13,8,33) arc(13,11,25) arc(14,1,29) arc(14,6,26) arc(14,7,20) arc(14,8,34) arc(15,1,28) arc(15,3,19) arc(15,6,29) arc(15,7,25) arc(15,8,34) arc(15,9,20) arc(15,14,29) arc(3,4,21) arc(4,5,23) arc(1,6,20) arc(2,6,27) arc(3,6,21) arc(4,6,28) arc(5,6,25) arc(2,7,23) arc(4,7,23) arc(5,7,30) arc(1,8,34) arc(2,8,33) arc(3,8,21) arc(4,8,34) arc(5,8,34) arc(6,8,20) arc(7,8,21) arc(3,9,20) arc(4,9,29) arc(7,9,20) arc(4,10,27) arc(5,10,25) arc(9,10,18) arc(3,11,21) arc(4,11,28) arc(5,11,25) arc(9,11,20) arc(10,11,26) arc(4,12,24) arc(9,12,19) arc(3,13,22) arc(4,13,24) arc(5,13,34) arc(7,13,22) arc(9,13,20) arc(10,13,18) arc(12,13,33) arc(2,14,23) arc(3,14,21) arc(4,14,28) arc(5,14,34) arc(9,14,19) arc(10,14,34) arc(11,14,23) arc(12,14,33) arc(13,14,18) arc(2,15,29) arc(4,15,28) arc(5,15,21) arc(10,15,20) arc(11,15,28) arc(12,15,20) arc(13,15,19) winner(4)
+Optimization: 141
+OPTIMUM FOUND
+
+Models       : 8     
+  Optimum    : yes
+Optimization : 141
+Calls        : 1
+Time         : 0.802s (Solving: 0.61s 1st Model: 0.01s Unsat: 0.07s)
+CPU Time     : 0.760s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,21) arc(4,1,19) arc(4,2,21) arc(4,3,21) arc(5,1,21) arc(5,3,21) arc(6,1,25) arc(6,2,27) arc(6,3,25) arc(6,4,30) arc(6,5,20) arc(7,3,18) arc(8,1,25) arc(8,2,27) arc(8,3,26) arc(8,5,27) arc(8,7,24) arc(9,1,24) arc(9,3,25) arc(9,5,29) arc(9,6,18) arc(9,7,27) arc(11,2,19) arc(11,3,21) arc(11,7,19) arc(11,10,24) arc(12,1,30) arc(12,3,25) arc(12,4,19) arc(12,5,27) arc(12,7,22) arc(12,10,27) arc(12,11,27) arc(13,1,23) arc(13,2,22) arc(13,3,18) arc(13,5,25) arc(13,7,22) arc(13,8,20) arc(13,11,25) arc(13,12,18) arc(14,1,23) arc(14,2,20) arc(14,4,21) arc(14,5,20) arc(14,7,23) arc(14,8,20) arc(14,9,21) arc(14,10,27) arc(14,11,20) arc(14,12,26) arc(15,11,22) arc(1,3,23) arc(2,3,21) arc(2,5,27) arc(4,5,25) arc(1,7,23) arc(2,7,19) arc(4,7,23) arc(5,7,19) arc(6,7,23) arc(4,8,21) arc(6,8,22) arc(2,9,19) arc(4,9,22) arc(8,9,19) arc(1,10,22) arc(2,10,20) arc(3,10,22) arc(4,10,23) arc(5,10,21) arc(6,10,24) arc(7,10,22) arc(8,10,24) arc(9,10,24) arc(1,11,21) arc(4,11,21) arc(5,11,19) arc(6,11,20) arc(8,11,20) arc(9,11,27) arc(2,12,19) arc(6,12,19) arc(8,12,19) arc(9,12,18) arc(4,13,18) arc(6,13,26) arc(9,13,18) arc(10,13,18) arc(3,14,19) arc(6,14,25) arc(13,14,18) arc(1,15,18) arc(2,15,24) arc(3,15,22) arc(4,15,29) arc(5,15,24) arc(6,15,29) arc(7,15,18) arc(8,15,29) arc(9,15,33) arc(10,15,18) arc(12,15,28) arc(13,15,24) arc(14,15,28) winner(6)
+Optimization: 151
+Answer: 2
+arc(2,1,21) arc(4,1,19) arc(4,2,21) arc(4,3,21) arc(5,1,21) arc(5,3,21) arc(6,1,25) arc(6,2,27) arc(6,3,25) arc(6,4,30) arc(6,5,20) arc(7,3,18) arc(8,1,25) arc(8,2,27) arc(8,3,26) arc(8,5,27) arc(8,7,24) arc(9,1,24) arc(9,3,25) arc(9,5,29) arc(9,6,18) arc(9,7,27) arc(11,2,19) arc(11,3,21) arc(11,7,19) arc(11,10,24) arc(12,1,30) arc(12,3,25) arc(12,4,19) arc(12,5,27) arc(12,7,22) arc(12,10,27) arc(12,11,27) arc(13,1,23) arc(13,2,22) arc(13,3,18) arc(13,5,25) arc(13,7,22) arc(13,8,20) arc(13,11,25) arc(13,12,18) arc(14,1,23) arc(14,2,20) arc(14,4,21) arc(14,5,20) arc(14,7,23) arc(14,8,20) arc(14,9,21) arc(14,10,27) arc(14,11,20) arc(14,12,26) arc(15,11,22) arc(1,3,23) arc(2,3,21) arc(2,5,27) arc(4,5,25) arc(1,7,23) arc(2,7,19) arc(4,7,23) arc(5,7,19) arc(6,7,23) arc(4,8,21) arc(6,8,22) arc(2,9,19) arc(4,9,22) arc(8,9,19) arc(1,10,22) arc(2,10,20) arc(3,10,22) arc(4,10,23) arc(5,10,21) arc(6,10,24) arc(7,10,22) arc(8,10,24) arc(9,10,24) arc(1,11,21) arc(4,11,21) arc(5,11,19) arc(6,11,20) arc(8,11,20) arc(9,11,27) arc(2,12,19) arc(6,12,19) arc(8,12,19) arc(9,12,18) arc(4,13,18) arc(6,13,26) arc(9,13,18) arc(10,13,18) arc(3,14,19) arc(6,14,25) arc(13,14,18) arc(1,15,18) arc(2,15,24) arc(3,15,22) arc(4,15,29) arc(5,15,24) arc(6,15,29) arc(7,15,18) arc(8,15,29) arc(9,15,33) arc(10,15,18) arc(12,15,28) arc(13,15,24) arc(14,15,28) winner(6)
+Optimization: 151
+OPTIMUM FOUND
+
+Models       : 18    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 151
+Calls        : 1
+Time         : 1.151s (Solving: 0.98s 1st Model: 0.01s Unsat: 0.00s)
+CPU Time     : 1.110s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,31) arc(3,1,31) arc(4,1,31) arc(5,1,31) arc(5,4,29) arc(6,1,33) arc(6,4,34) arc(7,1,29) arc(7,4,29) arc(8,1,32) arc(8,4,33) arc(9,1,31) arc(9,4,33) arc(10,1,33) arc(11,1,33) arc(11,4,33) arc(11,8,32) arc(11,9,30) arc(11,10,34) arc(12,1,33) arc(12,4,31) arc(12,6,29) arc(12,7,34) arc(12,8,30) arc(12,9,32) arc(12,10,31) arc(12,11,31) arc(13,1,31) arc(13,4,30) arc(13,9,30) arc(13,10,30) arc(14,1,31) arc(14,4,30) arc(14,9,31) arc(14,10,30) arc(14,13,31) arc(15,1,31) arc(15,4,32) arc(15,6,30) arc(15,7,32) arc(15,8,30) arc(15,9,33) arc(15,10,32) arc(15,11,33) arc(15,13,33) arc(15,14,33) arc(2,3,31) arc(2,4,31) arc(3,4,34) arc(2,5,30) arc(3,5,33) arc(2,6,31) arc(3,6,29) arc(5,6,29) arc(2,7,32) arc(3,7,34) arc(5,7,32) arc(6,7,34) arc(2,8,32) arc(3,8,30) arc(5,8,30) arc(6,8,29) arc(7,8,30) arc(2,9,30) arc(3,9,30) arc(5,9,30) arc(6,9,32) arc(7,9,31) arc(8,9,32) arc(2,10,32) arc(3,10,32) arc(4,10,30) arc(5,10,31) arc(6,10,34) arc(7,10,29) arc(8,10,33) arc(9,10,33) arc(2,11,31) arc(3,11,29) arc(5,11,29) arc(6,11,32) arc(7,11,29) arc(2,12,32) arc(3,12,32) arc(5,12,30) arc(2,13,31) arc(3,13,34) arc(5,13,33) arc(6,13,33) arc(7,13,33) arc(8,13,33) arc(11,13,33) arc(12,13,33) arc(2,14,33) arc(3,14,33) arc(5,14,33) arc(6,14,35) arc(7,14,33) arc(8,14,34) arc(11,14,32) arc(12,14,35) arc(2,15,31) arc(3,15,31) arc(5,15,31) arc(12,15,33) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 16.711s (Solving: 16.44s 1st Model: 0.01s Unsat: 16.42s)
+CPU Time     : 16.680s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,34) arc(4,2,34) arc(4,3,35) arc(5,1,19) arc(5,2,19) arc(5,3,20) arc(5,4,19) arc(6,2,26) arc(7,2,27) arc(8,1,19) arc(8,2,34) arc(8,3,20) arc(8,4,19) arc(8,5,35) arc(8,6,35) arc(8,7,27) arc(9,1,19) arc(9,2,26) arc(9,3,27) arc(9,4,19) arc(9,6,27) arc(9,7,27) arc(10,1,20) arc(10,2,27) arc(10,3,20) arc(10,4,20) arc(10,5,35) arc(10,6,27) arc(10,7,27) arc(10,9,28) arc(11,2,34) arc(11,3,35) arc(11,4,34) arc(11,6,35) arc(11,7,34) arc(12,2,34) arc(12,3,28) arc(12,4,27) arc(12,6,35) arc(12,7,27) arc(13,2,19) arc(13,7,27) arc(15,1,26) arc(15,2,34) arc(15,3,34) arc(15,4,26) arc(15,6,34) arc(15,7,34) arc(15,11,26) arc(15,12,26) arc(15,13,34) arc(15,14,34) arc(1,2,35) arc(1,3,35) arc(1,4,28) arc(1,6,35) arc(3,6,34) arc(4,6,35) arc(5,6,20) arc(1,7,27) arc(3,7,27) arc(4,7,34) arc(5,7,27) arc(6,7,27) arc(5,9,27) arc(8,9,28) arc(8,10,34) arc(1,11,20) arc(5,11,19) arc(8,11,20) arc(9,11,19) arc(10,11,20) arc(1,12,27) arc(5,12,20) arc(8,12,27) arc(9,12,27) arc(10,12,20) arc(11,12,27) arc(1,13,35) arc(3,13,34) arc(4,13,35) arc(5,13,26) arc(6,13,34) arc(8,13,35) arc(9,13,26) arc(10,13,27) arc(11,13,35) arc(12,13,34) arc(1,14,28) arc(2,14,28) arc(3,14,27) arc(4,14,35) arc(5,14,19) arc(6,14,19) arc(7,14,27) arc(8,14,28) arc(9,14,19) arc(10,14,20) arc(11,14,35) arc(12,14,27) arc(13,14,19) arc(5,15,20) arc(8,15,20) arc(9,15,20) arc(10,15,20) winner(8)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.609s (Solving: 0.39s 1st Model: 0.01s Unsat: 0.37s)
+CPU Time     : 0.570s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,34) arc(3,2,20) arc(5,2,20) arc(5,4,33) arc(6,2,21) arc(6,4,21) arc(6,5,21) arc(7,2,21) arc(7,4,19) arc(7,5,19) arc(8,2,20) arc(8,4,33) arc(8,5,33) arc(8,6,32) arc(8,7,34) arc(9,2,35) arc(9,4,33) arc(9,5,35) arc(9,6,32) arc(9,7,34) arc(10,2,19) arc(10,4,19) arc(11,2,21) arc(11,4,19) arc(11,5,21) arc(11,10,21) arc(12,2,18) arc(12,4,19) arc(12,5,18) arc(12,7,32) arc(12,10,18) arc(12,11,32) arc(13,2,21) arc(13,4,19) arc(13,5,21) arc(13,6,32) arc(13,7,34) arc(13,10,20) arc(13,11,32) arc(13,12,35) arc(14,2,19) arc(14,4,19) arc(14,5,19) arc(14,6,32) arc(14,7,32) arc(14,8,19) arc(14,9,18) arc(14,10,33) arc(14,11,32) arc(14,12,35) arc(14,13,33) arc(15,2,20) arc(15,4,18) arc(15,5,20) arc(15,10,34) arc(15,11,32) arc(1,2,19) arc(1,4,19) arc(2,4,33) arc(3,4,21) arc(1,5,19) arc(3,5,21) arc(1,6,32) arc(3,6,34) arc(1,7,32) arc(3,7,34) arc(6,7,34) arc(1,8,19) arc(3,8,21) arc(1,9,19) arc(3,9,20) arc(8,9,18) arc(1,10,33) arc(3,10,34) arc(5,10,34) arc(6,10,21) arc(7,10,21) arc(8,10,34) arc(9,10,35) arc(1,11,32) arc(3,11,34) arc(6,11,34) arc(7,11,32) arc(8,11,32) arc(9,11,34) arc(1,12,35) arc(3,12,35) arc(6,12,21) arc(8,12,35) arc(9,12,35) arc(1,13,33) arc(3,13,34) arc(8,13,32) arc(9,13,35) arc(1,14,19) arc(3,14,34) arc(1,15,19) arc(3,15,35) arc(6,15,21) arc(7,15,19) arc(8,15,33) arc(9,15,35) arc(12,15,19) arc(13,15,21) arc(14,15,33) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.505s (Solving: 0.29s 1st Model: 0.01s Unsat: 0.27s)
+CPU Time     : 0.460s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,25) arc(3,1,32) arc(4,1,33) arc(6,1,24) arc(6,5,25) arc(7,1,33) arc(7,5,32) arc(10,5,26) arc(10,8,31) arc(10,9,33) arc(11,1,25) arc(11,3,25) arc(11,4,24) arc(11,5,25) arc(11,6,24) arc(11,7,24) arc(11,8,23) arc(11,9,32) arc(11,10,25) arc(12,9,31) arc(13,9,23) arc(14,1,23) arc(14,3,25) arc(14,4,22) arc(14,5,22) arc(14,6,31) arc(14,7,23) arc(14,8,23) arc(14,9,31) arc(14,10,23) arc(14,11,32) arc(14,12,23) arc(14,13,33) arc(15,9,32) arc(2,3,26) arc(2,4,23) arc(3,4,23) arc(1,5,25) arc(2,5,23) arc(3,5,23) arc(4,5,24) arc(2,6,25) arc(3,6,32) arc(4,6,32) arc(2,7,26) arc(3,7,23) arc(4,7,25) arc(6,7,26) arc(1,8,33) arc(2,8,24) arc(3,8,31) arc(4,8,31) arc(5,8,31) arc(6,8,23) arc(7,8,31) arc(1,9,33) arc(2,9,31) arc(3,9,31) arc(4,9,31) arc(5,9,31) arc(6,9,33) arc(7,9,31) arc(8,9,33) arc(1,10,24) arc(2,10,24) arc(3,10,31) arc(4,10,33) arc(6,10,24) arc(7,10,32) arc(2,11,25) arc(1,12,25) arc(2,12,24) arc(3,12,23) arc(4,12,26) arc(5,12,25) arc(6,12,25) arc(7,12,24) arc(8,12,25) arc(10,12,25) arc(11,12,23) arc(1,13,33) arc(2,13,33) arc(3,13,32) arc(4,13,33) arc(5,13,33) arc(6,13,33) arc(7,13,33) arc(8,13,33) arc(10,13,33) arc(11,13,32) arc(12,13,33) arc(2,14,27) arc(1,15,32) arc(2,15,23) arc(3,15,30) arc(4,15,30) arc(5,15,32) arc(6,15,24) arc(7,15,30) arc(8,15,32) arc(10,15,32) arc(11,15,23) arc(12,15,30) arc(13,15,23) arc(14,15,22) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.613s (Solving: 0.39s 1st Model: 0.01s Unsat: 0.37s)
+CPU Time     : 0.570s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,33) arc(3,1,33) arc(4,1,33) arc(6,1,33) arc(6,3,34) arc(6,4,33) arc(6,5,34) arc(7,1,31) arc(7,4,31) arc(7,5,33) arc(8,1,31) arc(8,3,32) arc(8,4,32) arc(8,5,35) arc(8,7,35) arc(9,1,33) arc(9,2,33) arc(9,3,33) arc(9,4,33) arc(9,5,35) arc(9,6,33) arc(9,7,35) arc(9,8,35) arc(10,1,34) arc(10,3,32) arc(10,4,34) arc(10,5,34) arc(10,6,32) arc(10,7,34) arc(10,8,34) arc(12,1,32) arc(12,4,33) arc(12,5,35) arc(12,11,34) arc(13,1,33) arc(13,5,35) arc(13,11,34) arc(14,1,34) arc(14,3,33) arc(14,4,33) arc(14,5,35) arc(14,7,35) arc(14,11,35) arc(14,12,34) arc(14,13,33) arc(15,1,33) arc(15,3,32) arc(15,4,33) arc(15,5,33) arc(15,6,32) arc(15,7,34) arc(15,8,33) arc(15,11,33) arc(15,12,33) arc(15,13,33) arc(15,14,33) arc(2,3,32) arc(2,4,33) arc(3,4,34) arc(1,5,35) arc(2,5,33) arc(3,5,34) arc(4,5,35) arc(2,6,31) arc(2,7,35) arc(3,7,35) arc(6,7,35) arc(2,8,33) arc(6,8,34) arc(2,10,32) arc(9,10,33) arc(1,11,35) arc(2,11,34) arc(3,11,34) arc(4,11,34) arc(5,11,32) arc(6,11,34) arc(7,11,31) arc(8,11,32) arc(9,11,35) arc(10,11,34) arc(2,12,33) arc(3,12,33) arc(6,12,33) arc(7,12,31) arc(8,12,31) arc(9,12,34) arc(10,12,34) arc(2,13,33) arc(3,13,34) arc(4,13,32) arc(6,13,34) arc(7,13,31) arc(8,13,31) arc(9,13,33) arc(10,13,34) arc(12,13,32) arc(2,14,33) arc(6,14,33) arc(8,14,31) arc(9,14,32) arc(10,14,34) arc(2,15,32) arc(9,15,33) arc(10,15,34) winner(9)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 159.569s (Solving: 159.30s 1st Model: 0.01s Unsat: 159.28s)
+CPU Time     : 159.670sclasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,22) arc(4,1,30) arc(4,2,19) arc(4,3,28) arc(5,1,21) arc(5,2,23) arc(5,3,26) arc(6,3,19) arc(6,5,19) arc(8,1,21) arc(8,2,21) arc(8,3,21) arc(8,6,23) arc(8,7,35) arc(10,3,19) arc(10,6,18) arc(10,7,33) arc(10,9,24) arc(11,1,24) arc(11,2,24) arc(11,3,28) arc(11,4,20) arc(11,5,28) arc(11,7,28) arc(11,9,24) arc(12,2,23) arc(12,3,27) arc(12,5,20) arc(12,7,23) arc(12,9,23) arc(13,1,34) arc(13,2,24) arc(13,3,32) arc(13,5,19) arc(13,6,27) arc(13,7,33) arc(13,8,26) arc(13,9,23) arc(13,10,27) arc(13,11,18) arc(13,12,19) arc(14,3,20) arc(14,7,23) arc(14,9,23) arc(14,10,22) arc(14,12,21) arc(15,1,25) arc(15,3,26) arc(15,7,35) arc(15,9,30) arc(15,10,23) arc(15,11,20) arc(15,12,21) arc(15,14,26) arc(1,3,19) arc(2,3,20) arc(4,5,25) arc(1,6,21) arc(2,6,20) arc(4,6,30) arc(1,7,26) arc(2,7,26) arc(3,7,28) arc(4,7,30) arc(5,7,28) arc(6,7,30) arc(4,8,21) arc(5,8,19) arc(1,9,24) arc(2,9,29) arc(3,9,24) arc(4,9,30) arc(5,9,23) arc(6,9,24) arc(7,9,23) arc(8,9,30) arc(1,10,21) arc(2,10,20) arc(4,10,30) arc(5,10,21) arc(8,10,23) arc(6,11,18) arc(8,11,20) arc(10,11,18) arc(1,12,19) arc(4,12,21) arc(6,12,19) arc(8,12,21) arc(10,12,19) arc(11,12,19) arc(4,13,25) arc(1,14,22) arc(2,14,25) arc(4,14,23) arc(5,14,19) arc(6,14,22) arc(8,14,28) arc(11,14,27) arc(13,14,27) arc(2,15,20) arc(4,15,23) arc(5,15,19) arc(6,15,21) arc(8,15,28) arc(13,15,21) winner(4)
+Optimization: 179
+OPTIMUM FOUND
+
+Models       : 6     
+  Optimum    : yes
+Optimization : 179
+Calls        : 1
+Time         : 1.020s (Solving: 0.79s 1st Model: 0.01s Unsat: 0.10s)
+CPU Time     : 0.950s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,30) arc(4,1,26) arc(4,2,29) arc(4,3,30) arc(7,1,30) arc(7,2,26) arc(7,3,27) arc(7,4,28) arc(7,5,28) arc(7,6,31) arc(8,1,27) arc(8,2,26) arc(8,3,27) arc(8,5,27) arc(8,6,28) arc(9,1,27) arc(9,2,27) arc(9,3,24) arc(9,5,24) arc(9,6,31) arc(9,8,31) arc(10,1,27) arc(10,2,26) arc(10,3,24) arc(10,4,25) arc(10,5,25) arc(10,6,32) arc(10,8,28) arc(10,9,27) arc(11,1,23) arc(11,2,26) arc(11,3,27) arc(11,4,26) arc(11,5,27) arc(11,6,30) arc(11,7,26) arc(11,8,30) arc(11,9,27) arc(11,10,30) arc(12,6,31) arc(13,1,30) arc(13,2,30) arc(13,3,27) arc(13,5,30) arc(13,6,30) arc(13,8,30) arc(13,12,27) arc(14,5,23) arc(14,6,27) arc(14,12,23) arc(15,1,29) arc(15,2,29) arc(15,3,29) arc(15,5,26) arc(15,6,30) arc(15,8,26) arc(15,12,26) arc(15,13,30) arc(15,14,34) arc(1,2,27) arc(1,3,31) arc(1,5,29) arc(2,5,29) arc(3,5,28) arc(4,5,31) arc(1,6,31) arc(2,6,32) arc(3,6,31) arc(4,6,31) arc(5,6,31) arc(4,8,31) arc(7,8,31) arc(4,9,31) arc(7,9,30) arc(7,10,30) arc(1,12,31) arc(2,12,32) arc(3,12,28) arc(4,12,26) arc(5,12,26) arc(7,12,28) arc(8,12,24) arc(9,12,27) arc(10,12,25) arc(11,12,26) arc(4,13,31) arc(7,13,24) arc(9,13,28) arc(10,13,25) arc(11,13,26) arc(1,14,32) arc(2,14,32) arc(3,14,35) arc(4,14,35) arc(7,14,31) arc(8,14,31) arc(9,14,32) arc(10,14,32) arc(11,14,30) arc(13,14,33) arc(4,15,32) arc(7,15,28) arc(9,15,29) arc(10,15,29) arc(11,15,28) winner(11)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.606s (Solving: 0.37s 1st Model: 0.01s Unsat: 0.36s)
+CPU Time     : 0.560s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,22) arc(3,2,29) arc(4,2,27) arc(6,1,22) arc(6,4,21) arc(6,5,22) arc(7,1,20) arc(7,5,35) arc(7,6,20) arc(8,1,22) arc(8,4,20) arc(9,1,34) arc(9,2,19) arc(9,3,25) arc(9,4,27) arc(9,5,26) arc(9,6,18) arc(9,7,19) arc(10,2,20) arc(10,4,22) arc(10,5,29) arc(10,6,19) arc(10,7,23) arc(10,8,18) arc(11,1,28) arc(11,2,21) arc(11,3,23) arc(11,4,21) arc(11,5,28) arc(11,6,20) arc(11,7,22) arc(11,10,21) arc(13,1,21) arc(13,4,21) arc(13,5,21) arc(13,8,20) arc(13,12,20) arc(14,5,28) arc(14,6,18) arc(14,7,22) arc(14,12,24) arc(14,13,19) arc(15,1,22) arc(15,2,28) arc(15,5,29) arc(15,6,22) arc(15,7,23) arc(15,8,21) arc(15,12,28) arc(15,13,23) arc(15,14,29) arc(1,2,19) arc(1,4,27) arc(3,4,28) arc(1,5,25) arc(2,5,29) arc(3,5,29) arc(4,5,25) arc(2,6,18) arc(3,6,22) arc(2,7,22) arc(3,7,23) arc(4,7,21) arc(2,8,18) arc(3,8,22) arc(5,8,19) arc(6,8,21) arc(7,8,20) arc(8,9,21) arc(1,10,20) arc(3,10,28) arc(9,10,27) arc(8,11,18) arc(9,11,27) arc(1,12,19) arc(2,12,24) arc(3,12,26) arc(4,12,21) arc(5,12,19) arc(6,12,21) arc(7,12,26) arc(8,12,20) arc(9,12,19) arc(10,12,24) arc(11,12,24) arc(2,13,22) arc(3,13,22) arc(6,13,21) arc(7,13,24) arc(9,13,19) arc(10,13,20) arc(11,13,21) arc(1,14,19) arc(2,14,29) arc(3,14,29) arc(4,14,21) arc(8,14,18) arc(9,14,27) arc(10,14,27) arc(11,14,28) arc(3,15,26) arc(4,15,20) arc(9,15,26) arc(10,15,19) arc(11,15,19) winner(9)
+Optimization: 223
+Answer: 2
+arc(3,1,22) arc(3,2,29) arc(4,2,27) arc(6,1,22) arc(6,4,21) arc(6,5,22) arc(7,1,20) arc(7,5,35) arc(7,6,20) arc(8,1,22) arc(8,4,20) arc(9,1,34) arc(9,2,19) arc(9,3,25) arc(9,4,27) arc(9,5,26) arc(9,6,18) arc(9,7,19) arc(10,2,20) arc(10,4,22) arc(10,5,29) arc(10,6,19) arc(10,7,23) arc(10,8,18) arc(11,1,28) arc(11,2,21) arc(11,3,23) arc(11,4,21) arc(11,5,28) arc(11,6,20) arc(11,7,22) arc(11,10,21) arc(13,1,21) arc(13,4,21) arc(13,5,21) arc(13,8,20) arc(13,12,20) arc(14,5,28) arc(14,6,18) arc(14,7,22) arc(14,12,24) arc(14,13,19) arc(15,1,22) arc(15,2,28) arc(15,5,29) arc(15,6,22) arc(15,7,23) arc(15,8,21) arc(15,12,28) arc(15,13,23) arc(15,14,29) arc(1,2,19) arc(1,4,27) arc(3,4,28) arc(1,5,25) arc(2,5,29) arc(3,5,29) arc(4,5,25) arc(2,6,18) arc(3,6,22) arc(2,7,22) arc(3,7,23) arc(4,7,21) arc(2,8,18) arc(3,8,22) arc(5,8,19) arc(6,8,21) arc(7,8,20) arc(8,9,21) arc(1,10,20) arc(3,10,28) arc(9,10,27) arc(8,11,18) arc(9,11,27) arc(1,12,19) arc(2,12,24) arc(3,12,26) arc(4,12,21) arc(5,12,19) arc(6,12,21) arc(7,12,26) arc(8,12,20) arc(9,12,19) arc(10,12,24) arc(11,12,24) arc(2,13,22) arc(3,13,22) arc(6,13,21) arc(7,13,24) arc(9,13,19) arc(10,13,20) arc(11,13,21) arc(1,14,19) arc(2,14,29) arc(3,14,29) arc(4,14,21) arc(8,14,18) arc(9,14,27) arc(10,14,27) arc(11,14,28) arc(3,15,26) arc(4,15,20) arc(9,15,26) arc(10,15,19) arc(11,15,19) winner(9)
+Optimization: 223
+OPTIMUM FOUND
+
+Models       : 14    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 223
+Calls        : 1
+Time         : 1.212s (Solving: 1.03s 1st Model: 0.01s Unsat: 0.16s)
+CPU Time     : 1.170s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,22) arc(3,1,33) arc(3,2,20) arc(4,1,19) arc(5,1,30) arc(5,2,21) arc(5,3,21) arc(5,4,30) arc(6,1,33) arc(6,4,22) arc(7,1,18) arc(7,4,30) arc(8,1,22) arc(8,4,20) arc(9,1,30) arc(9,2,20) arc(9,4,28) arc(9,6,29) arc(9,7,32) arc(9,8,20) arc(10,1,30) arc(10,2,25) arc(10,8,24) arc(10,9,18) arc(12,1,30) arc(12,2,24) arc(12,4,20) arc(12,8,28) arc(12,10,18) arc(12,11,30) arc(13,1,22) arc(13,4,20) arc(13,11,25) arc(14,1,30) arc(14,2,24) arc(14,4,20) arc(14,6,20) arc(14,7,23) arc(14,8,32) arc(14,10,19) arc(14,11,33) arc(14,12,34) arc(14,13,29) arc(15,1,31) arc(15,4,20) arc(15,7,23) arc(15,8,22) arc(15,9,19) arc(15,10,20) arc(15,11,34) arc(15,12,23) arc(15,13,30) arc(2,4,22) arc(3,4,32) arc(2,6,22) arc(3,6,18) arc(5,6,30) arc(2,7,22) arc(3,7,32) arc(5,7,24) arc(6,7,23) arc(2,8,31) arc(3,8,21) arc(5,8,30) arc(6,8,21) arc(7,8,18) arc(3,9,22) arc(5,9,21) arc(3,10,22) arc(4,10,23) arc(5,10,18) arc(6,10,22) arc(7,10,19) arc(1,11,26) arc(2,11,31) arc(3,11,35) arc(4,11,34) arc(5,11,30) arc(6,11,33) arc(7,11,31) arc(8,11,34) arc(9,11,32) arc(10,11,26) arc(3,12,22) arc(5,12,18) arc(6,12,22) arc(7,12,19) arc(9,12,21) arc(2,13,31) arc(3,13,32) arc(5,13,29) arc(6,13,32) arc(7,13,18) arc(8,13,22) arc(9,13,28) arc(10,13,24) arc(12,13,29) arc(3,14,22) arc(5,14,18) arc(9,14,18) arc(2,15,22) arc(3,15,20) arc(5,15,30) arc(6,15,21) arc(14,15,31) winner(5)
+Optimization: 109
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 109
+Calls        : 1
+Time         : 0.680s (Solving: 0.48s 1st Model: 0.01s Unsat: 0.02s)
+CPU Time     : 0.640sclasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,19) arc(3,2,34) arc(4,1,34) arc(4,2,34) arc(5,1,25) arc(5,2,25) arc(6,1,20) arc(6,2,35) arc(7,1,20) arc(7,2,30) arc(9,1,30) arc(9,2,30) arc(9,6,29) arc(9,7,34) arc(9,8,20) arc(10,2,24) arc(10,8,19) arc(11,1,20) arc(11,2,34) arc(11,3,30) arc(11,4,20) arc(11,5,29) arc(11,6,29) arc(11,7,34) arc(11,8,19) arc(11,9,24) arc(11,10,30) arc(12,1,30) arc(12,2,35) arc(12,7,34) arc(12,8,20) arc(12,10,30) arc(13,1,25) arc(13,2,25) arc(13,6,24) arc(13,7,24) arc(13,8,25) arc(13,9,24) arc(13,10,35) arc(13,12,24) arc(14,1,20) arc(14,2,25) arc(14,8,20) arc(14,10,30) arc(15,2,25) arc(15,8,25) arc(15,10,35) arc(1,2,34) arc(3,4,20) arc(3,5,29) arc(4,5,29) arc(3,6,29) arc(4,6,34) arc(5,6,24) arc(3,7,24) arc(4,7,34) arc(5,7,24) arc(6,7,25) arc(1,8,24) arc(2,8,19) arc(3,8,19) arc(4,8,24) arc(5,8,25) arc(6,8,20) arc(7,8,20) arc(3,9,24) arc(4,9,24) arc(5,9,24) arc(1,10,34) arc(3,10,29) arc(4,10,34) arc(5,10,35) arc(6,10,30) arc(7,10,30) arc(9,10,30) arc(3,12,24) arc(4,12,24) arc(5,12,25) arc(6,12,25) arc(9,12,20) arc(11,12,24) arc(3,13,29) arc(4,13,29) arc(5,13,25) arc(11,13,29) arc(3,14,29) arc(4,14,34) arc(5,14,34) arc(6,14,35) arc(7,14,30) arc(9,14,30) arc(11,14,29) arc(12,14,29) arc(13,14,34) arc(1,15,29) arc(3,15,29) arc(4,15,29) arc(5,15,19) arc(6,15,30) arc(7,15,30) arc(9,15,29) arc(11,15,29) arc(12,15,29) arc(13,15,29) arc(14,15,19) winner(11)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.916s (Solving: 0.61s 1st Model: 0.01s Unsat: 0.59s)
+CPU Time     : 0.830s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,32) arc(3,1,34) arc(3,2,34) arc(5,1,35) arc(5,2,35) arc(5,3,35) arc(5,4,33) arc(6,1,33) arc(6,2,34) arc(6,4,34) arc(7,1,35) arc(7,2,34) arc(7,3,34) arc(7,4,33) arc(7,6,34) arc(8,1,33) arc(8,2,33) arc(8,4,33) arc(8,6,32) arc(9,1,34) arc(9,2,34) arc(9,4,33) arc(10,4,33) arc(11,1,31) arc(11,2,31) arc(11,3,31) arc(11,4,33) arc(11,5,31) arc(11,6,31) arc(11,7,31) arc(11,8,33) arc(11,9,31) arc(11,10,31) arc(14,1,33) arc(14,2,33) arc(14,3,33) arc(14,4,32) arc(14,5,32) arc(14,6,32) arc(14,7,33) arc(14,8,32) arc(14,9,32) arc(14,10,33) arc(14,11,33) arc(14,12,32) arc(14,13,33) arc(15,1,32) arc(15,2,33) arc(15,4,32) arc(15,6,32) arc(15,8,32) arc(15,9,32) arc(15,10,32) arc(15,12,32) arc(15,13,32) arc(1,4,33) arc(2,4,33) arc(3,4,33) arc(3,6,34) arc(5,6,34) arc(5,7,35) arc(3,8,33) arc(5,8,34) arc(7,8,33) arc(3,9,32) arc(5,9,34) arc(6,9,33) arc(7,9,34) arc(8,9,33) arc(1,10,33) arc(2,10,32) arc(3,10,33) arc(5,10,35) arc(6,10,32) arc(7,10,34) arc(8,10,33) arc(9,10,34) arc(1,12,31) arc(2,12,32) arc(3,12,34) arc(4,12,33) arc(5,12,34) arc(6,12,32) arc(7,12,34) arc(8,12,33) arc(9,12,34) arc(10,12,32) arc(11,12,31) arc(1,13,32) arc(2,13,32) arc(3,13,32) arc(4,13,33) arc(5,13,35) arc(6,13,32) arc(7,13,34) arc(8,13,33) arc(9,13,32) arc(10,13,33) arc(11,13,31) arc(12,13,32) arc(3,15,34) arc(5,15,34) arc(7,15,34) arc(11,15,33) arc(14,15,34) winner(14)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 135.625s (Solving: 135.35s 1st Model: 0.01s Unsat: 135.33s)
+CPU Time     : 135.710s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,34) arc(5,2,34) arc(5,4,35) arc(6,4,34) arc(7,2,34) arc(7,3,34) arc(7,4,34) arc(7,5,30) arc(7,6,34) arc(8,2,34) arc(8,4,34) arc(8,6,35) arc(9,2,34) arc(9,4,34) arc(9,6,35) arc(10,2,34) arc(10,4,34) arc(10,6,30) arc(10,8,30) arc(10,9,30) arc(11,2,34) arc(11,4,34) arc(11,6,34) arc(11,8,34) arc(11,9,34) arc(12,2,34) arc(12,4,35) arc(12,6,35) arc(12,8,35) arc(12,9,35) arc(12,11,35) arc(13,2,34) arc(13,4,35) arc(13,6,35) arc(13,9,35) arc(15,2,34) arc(15,4,34) arc(15,6,35) arc(15,8,34) arc(15,9,34) arc(15,10,35) arc(15,11,35) arc(15,12,34) arc(15,13,34) arc(15,14,34) arc(1,2,30) arc(1,3,31) arc(1,4,30) arc(2,4,35) arc(3,4,34) arc(1,5,30) arc(3,5,30) arc(1,6,31) arc(2,6,31) arc(3,6,35) arc(5,6,35) arc(1,7,31) arc(1,8,31) arc(3,8,35) arc(5,8,35) arc(7,8,34) arc(1,9,31) arc(3,9,34) arc(5,9,35) arc(7,9,34) arc(8,9,30) arc(1,10,31) arc(3,10,35) arc(5,10,35) arc(7,10,35) arc(1,11,31) arc(3,11,31) arc(5,11,35) arc(7,11,34) arc(10,11,30) arc(1,12,30) arc(3,12,30) arc(5,12,31) arc(7,12,30) arc(10,12,30) arc(1,13,30) arc(3,13,30) arc(5,13,35) arc(7,13,34) arc(8,13,30) arc(10,13,30) arc(11,13,34) arc(12,13,35) arc(1,14,30) arc(2,14,31) arc(3,14,34) arc(4,14,30) arc(5,14,35) arc(6,14,34) arc(7,14,34) arc(8,14,34) arc(9,14,34) arc(10,14,34) arc(11,14,34) arc(12,14,35) arc(13,14,35) arc(1,15,31) arc(3,15,31) arc(5,15,31) arc(7,15,30) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 19.053s (Solving: 18.78s 1st Model: 0.01s Unsat: 18.76s)
+CPU Time     : 19.020s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,32) arc(3,2,34) arc(4,2,35) arc(5,1,32) arc(5,2,35) arc(5,4,35) arc(6,2,35) arc(6,4,32) arc(7,2,35) arc(8,1,32) arc(8,2,34) arc(8,4,32) arc(8,6,34) arc(8,7,32) arc(9,2,35) arc(9,4,33) arc(9,6,32) arc(9,7,32) arc(10,2,35) arc(10,4,32) arc(10,6,33) arc(10,7,31) arc(11,2,35) arc(11,4,33) arc(11,6,32) arc(11,7,31) arc(11,9,34) arc(11,10,33) arc(12,2,33) arc(12,4,31) arc(12,7,31) arc(13,2,35) arc(13,4,35) arc(13,6,34) arc(13,7,33) arc(13,9,33) arc(13,10,34) arc(13,12,35) arc(14,2,32) arc(14,7,31) arc(15,1,32) arc(15,2,35) arc(15,3,32) arc(15,4,33) arc(15,5,31) arc(15,6,32) arc(15,7,31) arc(15,8,32) arc(15,9,32) arc(15,10,32) arc(15,11,31) arc(15,12,33) arc(15,13,32) arc(15,14,35) arc(1,2,35) arc(1,4,35) arc(3,4,32) arc(3,5,32) arc(1,6,34) arc(3,6,34) arc(5,6,35) arc(1,7,34) arc(3,7,32) arc(4,7,33) arc(5,7,34) arc(6,7,31) arc(3,8,34) arc(5,8,34) arc(1,9,34) arc(3,9,34) arc(5,9,34) arc(8,9,34) arc(1,10,34) arc(3,10,34) arc(5,10,35) arc(8,10,32) arc(9,10,32) arc(1,11,34) arc(3,11,34) arc(5,11,35) arc(8,11,34) arc(1,12,35) arc(3,12,35) arc(5,12,35) arc(6,12,35) arc(8,12,35) arc(9,12,35) arc(10,12,35) arc(11,12,35) arc(1,13,35) arc(3,13,32) arc(5,13,33) arc(8,13,32) arc(11,13,32) arc(1,14,35) arc(3,14,34) arc(4,14,35) arc(5,14,35) arc(6,14,35) arc(8,14,34) arc(9,14,35) arc(10,14,34) arc(11,14,35) arc(12,14,33) arc(13,14,35) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 136.119s (Solving: 135.81s 1st Model: 0.01s Unsat: 135.79s)
+CPU Time     : 136.180s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(4,3,34) arc(5,3,35) arc(5,4,35) arc(7,3,20) arc(7,4,20) arc(7,5,19) arc(7,6,20) arc(8,3,19) arc(8,4,19) arc(8,5,19) arc(8,6,19) arc(8,7,19) arc(9,3,20) arc(9,4,20) arc(9,5,19) arc(9,6,20) arc(9,7,20) arc(9,8,35) arc(10,3,35) arc(10,4,20) arc(10,6,35) arc(11,3,34) arc(11,4,34) arc(11,5,19) arc(11,6,34) arc(11,7,34) arc(11,10,34) arc(12,3,35) arc(12,6,35) arc(13,1,35) arc(13,2,20) arc(13,3,20) arc(13,4,20) arc(13,5,19) arc(13,6,20) arc(13,7,20) arc(13,8,35) arc(13,9,20) arc(13,10,19) arc(13,11,20) arc(13,12,20) arc(14,1,34) arc(14,2,35) arc(14,3,34) arc(14,4,19) arc(14,5,19) arc(14,6,34) arc(14,7,34) arc(14,8,35) arc(14,9,34) arc(14,10,34) arc(14,11,20) arc(14,12,34) arc(14,13,34) arc(15,3,34) arc(15,6,34) arc(15,12,34) arc(1,3,19) arc(2,3,34) arc(1,4,20) arc(2,4,19) arc(1,5,19) arc(2,5,19) arc(1,6,20) arc(2,6,34) arc(3,6,20) arc(4,6,35) arc(5,6,35) arc(1,7,19) arc(2,7,34) arc(1,8,35) arc(2,8,35) arc(1,9,19) arc(2,9,34) arc(1,10,19) arc(2,10,19) arc(5,10,34) arc(7,10,19) arc(8,10,19) arc(9,10,19) arc(1,11,20) arc(2,11,19) arc(8,11,19) arc(9,11,20) arc(1,12,19) arc(2,12,19) arc(4,12,34) arc(5,12,35) arc(7,12,20) arc(8,12,19) arc(9,12,20) arc(10,12,35) arc(11,12,34) arc(1,15,20) arc(2,15,20) arc(4,15,35) arc(5,15,35) arc(7,15,20) arc(8,15,20) arc(9,15,20) arc(10,15,35) arc(11,15,35) arc(13,15,20) arc(14,15,35) winner(14)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 1.790s (Solving: 1.59s 1st Model: 0.01s Unsat: 1.57s)
+CPU Time     : 1.750s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,35) arc(4,2,34) arc(4,3,22) arc(5,2,22) arc(5,3,22) arc(5,4,23) arc(6,2,22) arc(6,3,22) arc(6,4,22) arc(6,5,22) arc(7,2,34) arc(7,3,22) arc(7,4,23) arc(7,5,35) arc(8,2,35) arc(8,3,35) arc(8,4,35) arc(8,5,35) arc(9,2,22) arc(9,3,22) arc(9,4,22) arc(9,5,34) arc(10,2,22) arc(10,3,22) arc(10,4,22) arc(10,5,34) arc(10,6,35) arc(10,7,22) arc(10,8,22) arc(10,9,22) arc(11,2,22) arc(12,2,22) arc(12,3,22) arc(12,4,23) arc(12,5,34) arc(12,6,35) arc(12,7,22) arc(12,8,22) arc(12,9,23) arc(12,10,35) arc(12,11,35) arc(14,13,35) arc(15,13,34) arc(1,2,34) arc(1,3,34) arc(1,4,34) arc(1,5,34) arc(1,6,35) arc(1,7,34) arc(6,7,22) arc(1,8,34) arc(6,8,22) arc(7,8,22) arc(1,9,35) arc(6,9,22) arc(7,9,35) arc(8,9,35) arc(1,10,35) arc(1,11,35) arc(3,11,35) arc(4,11,35) arc(5,11,23) arc(6,11,22) arc(7,11,35) arc(8,11,35) arc(9,11,34) arc(10,11,34) arc(1,12,34) arc(1,13,34) arc(2,13,34) arc(3,13,35) arc(4,13,34) arc(5,13,22) arc(6,13,22) arc(7,13,34) arc(8,13,35) arc(9,13,34) arc(10,13,34) arc(11,13,34) arc(12,13,34) arc(1,14,34) arc(2,14,34) arc(3,14,34) arc(4,14,34) arc(5,14,22) arc(6,14,22) arc(7,14,34) arc(8,14,34) arc(9,14,34) arc(10,14,34) arc(11,14,22) arc(12,14,34) arc(1,15,35) arc(2,15,35) arc(3,15,35) arc(4,15,35) arc(5,15,23) arc(6,15,22) arc(7,15,35) arc(8,15,35) arc(9,15,34) arc(10,15,34) arc(11,15,22) arc(12,15,35) arc(14,15,35) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 46.365s (Solving: 46.06s 1st Model: 0.01s Unsat: 46.05s)
+CPU Time     : 46.340s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,26) arc(3,1,26) arc(4,1,26) arc(4,2,31) arc(4,3,26) arc(6,5,28) arc(7,1,26) arc(7,2,27) arc(7,3,28) arc(7,4,30) arc(7,5,30) arc(7,6,32) arc(8,5,31) arc(8,6,32) arc(9,1,27) arc(9,2,31) arc(9,3,32) arc(9,4,32) arc(9,5,32) arc(9,6,33) arc(9,8,32) arc(10,5,32) arc(10,6,34) arc(10,8,32) arc(11,5,31) arc(12,1,25) arc(12,2,34) arc(12,3,27) arc(12,4,34) arc(12,5,31) arc(12,6,31) arc(12,8,33) arc(12,9,28) arc(12,10,28) arc(12,11,31) arc(13,5,34) arc(13,6,32) arc(13,8,31) arc(13,10,28) arc(13,11,32) arc(14,1,27) arc(14,2,32) arc(14,3,27) arc(14,4,32) arc(14,5,32) arc(14,6,33) arc(14,7,33) arc(14,8,30) arc(14,9,29) arc(14,10,29) arc(14,11,32) arc(14,12,27) arc(14,13,26) arc(15,5,34) arc(15,6,34) arc(15,8,35) arc(15,10,34) arc(15,11,35) arc(2,3,26) arc(1,5,34) arc(2,5,29) arc(3,5,32) arc(4,5,28) arc(1,6,32) arc(2,6,32) arc(3,6,32) arc(4,6,29) arc(1,8,34) arc(2,8,29) arc(3,8,34) arc(4,8,29) arc(7,8,30) arc(7,9,28) arc(1,10,31) arc(2,10,29) arc(3,10,29) arc(4,10,28) arc(7,10,28) arc(9,10,29) arc(1,11,33) arc(2,11,32) arc(3,11,32) arc(4,11,28) arc(6,11,28) arc(7,11,31) arc(8,11,28) arc(9,11,30) arc(10,11,32) arc(7,12,28) arc(1,13,34) arc(2,13,27) arc(3,13,29) arc(4,13,26) arc(7,13,25) arc(9,13,32) arc(12,13,29) arc(1,15,31) arc(2,15,26) arc(3,15,29) arc(4,15,28) arc(7,15,25) arc(9,15,27) arc(12,15,28) arc(13,15,29) arc(14,15,29) winner(14)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.803s (Solving: 0.55s 1st Model: 0.01s Unsat: 0.53s)
+CPU Time     : 0.750s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,35) arc(4,1,34) arc(4,3,34) arc(5,1,34) arc(5,3,32) arc(6,1,31) arc(6,3,31) arc(6,4,32) arc(6,5,31) arc(7,1,35) arc(7,3,32) arc(7,4,32) arc(7,5,35) arc(8,1,31) arc(8,3,31) arc(9,1,34) arc(9,3,34) arc(9,5,34) arc(9,8,35) arc(10,1,31) arc(10,2,31) arc(10,3,31) arc(10,4,32) arc(10,5,31) arc(10,6,31) arc(10,7,31) arc(10,8,32) arc(10,9,31) arc(11,1,31) arc(11,2,31) arc(11,3,31) arc(11,4,32) arc(11,5,31) arc(11,6,34) arc(11,7,31) arc(11,8,35) arc(11,9,31) arc(12,1,34) arc(12,2,34) arc(12,3,34) arc(12,4,32) arc(12,5,34) arc(12,6,34) arc(12,7,34) arc(12,8,35) arc(12,9,34) arc(12,11,35) arc(13,1,34) arc(13,2,34) arc(13,3,34) arc(13,4,31) arc(13,5,34) arc(13,6,34) arc(13,7,34) arc(13,8,34) arc(13,9,34) arc(14,1,31) arc(14,2,31) arc(14,3,31) arc(14,4,32) arc(14,5,31) arc(14,6,31) arc(14,7,31) arc(14,8,32) arc(14,9,31) arc(14,11,32) arc(14,12,32) arc(14,13,32) arc(15,1,34) arc(15,2,34) arc(15,3,34) arc(15,4,32) arc(15,5,34) arc(15,6,34) arc(15,7,34) arc(15,8,35) arc(15,9,34) arc(1,3,32) arc(2,3,35) arc(2,4,32) arc(2,5,35) arc(4,5,34) arc(2,6,35) arc(2,7,35) arc(6,7,31) arc(2,8,35) arc(4,8,34) arc(5,8,35) arc(6,8,32) arc(7,8,35) arc(2,9,35) arc(4,9,34) arc(6,9,32) arc(7,9,32) arc(10,11,32) arc(10,12,31) arc(10,13,32) arc(11,13,32) arc(12,13,32) arc(10,14,31) arc(10,15,31) arc(11,15,31) arc(12,15,32) arc(13,15,31) arc(14,15,32) winner(10)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 108.202s (Solving: 107.93s 1st Model: 0.01s Unsat: 107.92s)
+CPU Time     : 108.260s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,35) arc(3,1,23) arc(4,1,23) arc(5,1,23) arc(5,4,35) arc(8,1,34) arc(8,4,34) arc(8,6,34) arc(8,7,34) arc(10,9,23) arc(11,9,22) arc(11,10,34) arc(12,9,23) arc(12,10,35) arc(13,9,22) arc(14,1,23) arc(14,3,35) arc(14,4,35) arc(14,5,35) arc(14,6,35) arc(14,7,23) arc(14,8,23) arc(14,9,23) arc(14,10,35) arc(14,11,35) arc(14,12,34) arc(14,13,35) arc(15,1,35) arc(15,3,34) arc(15,4,35) arc(15,5,35) arc(15,6,35) arc(15,7,22) arc(15,8,23) arc(15,9,35) arc(15,10,34) arc(15,11,35) arc(15,12,34) arc(15,13,35) arc(2,3,34) arc(2,4,35) arc(3,4,35) arc(2,5,35) arc(3,5,35) arc(1,6,34) arc(2,6,35) arc(3,6,23) arc(4,6,22) arc(5,6,23) arc(1,7,22) arc(2,7,34) arc(3,7,23) arc(4,7,22) arc(5,7,22) arc(6,7,22) arc(2,8,35) arc(3,8,23) arc(5,8,23) arc(1,9,22) arc(2,9,35) arc(3,9,23) arc(4,9,22) arc(5,9,22) arc(6,9,22) arc(7,9,35) arc(8,9,34) arc(1,10,34) arc(2,10,34) arc(3,10,35) arc(4,10,22) arc(5,10,22) arc(6,10,34) arc(7,10,34) arc(8,10,34) arc(1,11,34) arc(2,11,35) arc(3,11,35) arc(4,11,22) arc(5,11,22) arc(6,11,34) arc(7,11,35) arc(8,11,34) arc(1,12,34) arc(2,12,34) arc(3,12,34) arc(4,12,22) arc(5,12,22) arc(6,12,34) arc(7,12,34) arc(8,12,34) arc(11,12,34) arc(1,13,35) arc(2,13,35) arc(3,13,35) arc(4,13,23) arc(5,13,23) arc(6,13,35) arc(7,13,35) arc(8,13,35) arc(10,13,23) arc(11,13,23) arc(12,13,23) arc(2,14,34) arc(2,15,34) arc(14,15,23) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 42.607s (Solving: 42.37s 1st Model: 0.01s Unsat: 42.35s)
+CPU Time     : 42.610s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(5,1,24) arc(5,2,34) arc(5,3,34) arc(5,4,34) arc(6,2,35) arc(6,3,24) arc(6,4,24) arc(7,2,35) arc(7,3,35) arc(7,4,35) arc(7,6,35) arc(8,2,34) arc(8,3,35) arc(8,4,35) arc(8,6,34) arc(9,2,34) arc(9,3,34) arc(9,4,34) arc(9,6,34) arc(9,8,23) arc(11,3,35) arc(11,4,35) arc(11,10,34) arc(12,2,34) arc(12,3,35) arc(12,4,35) arc(12,6,34) arc(12,8,24) arc(12,9,24) arc(12,10,23) arc(12,11,23) arc(13,2,35) arc(13,3,35) arc(13,4,35) arc(13,6,35) arc(13,10,23) arc(13,11,23) arc(14,2,34) arc(14,3,34) arc(14,4,35) arc(14,6,34) arc(14,8,34) arc(14,9,35) arc(14,10,34) arc(14,11,34) arc(14,12,34) arc(14,13,34) arc(15,2,24) arc(15,3,24) arc(15,4,24) arc(15,6,23) arc(15,10,23) arc(15,11,23) arc(1,2,34) arc(1,3,34) arc(2,3,24) arc(1,4,34) arc(2,4,24) arc(3,4,24) arc(1,6,34) arc(5,6,34) arc(1,7,34) arc(5,7,23) arc(1,8,34) arc(5,8,23) arc(7,8,24) arc(1,9,34) arc(5,9,23) arc(7,9,35) arc(1,10,34) arc(2,10,23) arc(3,10,23) arc(4,10,23) arc(5,10,23) arc(6,10,23) arc(7,10,34) arc(8,10,34) arc(9,10,34) arc(1,11,23) arc(2,11,23) arc(5,11,23) arc(6,11,23) arc(7,11,23) arc(8,11,23) arc(9,11,23) arc(1,12,34) arc(5,12,34) arc(7,12,35) arc(1,13,34) arc(5,13,23) arc(7,13,34) arc(8,13,34) arc(9,13,34) arc(12,13,23) arc(1,14,23) arc(5,14,23) arc(7,14,24) arc(1,15,34) arc(5,15,34) arc(7,15,35) arc(8,15,34) arc(9,15,34) arc(12,15,34) arc(13,15,35) arc(14,15,34) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 44.528s (Solving: 44.28s 1st Model: 0.01s Unsat: 44.26s)
+CPU Time     : 44.530s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(5,1,27) arc(5,2,28) arc(5,3,28) arc(5,4,28) arc(7,4,21) arc(7,6,27) arc(8,1,26) arc(8,2,26) arc(8,3,25) arc(8,4,26) arc(8,5,27) arc(8,6,27) arc(8,7,25) arc(9,6,26) arc(11,1,26) arc(11,2,28) arc(11,3,26) arc(11,4,21) arc(11,6,26) arc(11,7,20) arc(11,9,28) arc(11,10,21) arc(13,1,33) arc(13,2,33) arc(13,3,32) arc(13,4,33) arc(13,6,27) arc(13,7,32) arc(13,9,34) arc(13,10,21) arc(13,12,21) arc(14,1,33) arc(14,2,29) arc(14,3,32) arc(14,4,27) arc(14,6,34) arc(14,7,31) arc(14,9,34) arc(14,10,27) arc(14,11,33) arc(14,12,28) arc(14,13,28) arc(15,2,29) arc(15,3,33) arc(15,4,21) arc(15,6,27) arc(15,7,26) arc(15,9,34) arc(15,10,21) arc(15,12,21) arc(1,2,28) arc(1,3,26) arc(2,3,25) arc(1,4,21) arc(2,4,20) arc(3,4,22) arc(1,6,27) arc(2,6,26) arc(3,6,27) arc(4,6,27) arc(5,6,28) arc(1,7,20) arc(2,7,24) arc(3,7,21) arc(5,7,27) arc(1,9,29) arc(2,9,33) arc(3,9,29) arc(4,9,34) arc(5,9,27) arc(7,9,34) arc(8,9,28) arc(1,10,20) arc(2,10,19) arc(3,10,21) arc(4,10,21) arc(5,10,28) arc(6,10,28) arc(7,10,21) arc(8,10,21) arc(9,10,21) arc(5,11,28) arc(8,11,26) arc(1,12,21) arc(2,12,20) arc(3,12,21) arc(4,12,21) arc(5,12,27) arc(6,12,27) arc(7,12,21) arc(8,12,21) arc(9,12,20) arc(10,12,25) arc(11,12,20) arc(5,13,28) arc(8,13,21) arc(11,13,20) arc(5,14,28) arc(8,14,26) arc(1,15,21) arc(5,15,28) arc(8,15,25) arc(11,15,20) arc(13,15,32) arc(14,15,32) winner(8)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.604s (Solving: 0.39s 1st Model: 0.01s Unsat: 0.38s)
+CPU Time     : 0.560s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(5,1,34) arc(5,2,32) arc(5,3,35) arc(5,4,34) arc(6,3,34) arc(6,4,34) arc(7,3,31) arc(7,4,31) arc(7,6,21) arc(8,3,21) arc(8,4,34) arc(8,6,20) arc(8,7,24) arc(9,3,21) arc(9,4,24) arc(9,6,21) arc(9,7,24) arc(10,3,25) arc(10,4,24) arc(10,6,21) arc(11,1,35) arc(11,3,32) arc(11,4,31) arc(11,6,21) arc(11,7,34) arc(11,8,32) arc(11,9,32) arc(11,10,32) arc(12,1,21) arc(12,2,22) arc(12,3,22) arc(12,4,21) arc(12,6,21) arc(12,7,21) arc(12,8,21) arc(12,9,22) arc(12,10,31) arc(12,11,21) arc(13,1,35) arc(13,3,25) arc(13,4,35) arc(13,6,21) arc(13,7,24) arc(13,8,35) arc(13,9,35) arc(13,10,35) arc(14,1,23) arc(14,2,21) arc(14,3,24) arc(14,4,24) arc(14,5,21) arc(14,6,20) arc(14,7,24) arc(14,8,23) arc(14,9,24) arc(14,10,33) arc(14,11,23) arc(14,12,24) arc(14,13,23) arc(15,3,31) arc(15,4,34) arc(15,6,21) arc(15,7,34) arc(15,9,31) arc(15,10,30) arc(1,3,21) arc(2,3,34) arc(1,4,31) arc(2,4,34) arc(3,4,34) arc(1,6,21) arc(2,6,24) arc(5,6,21) arc(1,7,24) arc(2,7,34) arc(5,7,34) arc(1,8,21) arc(2,8,34) arc(5,8,34) arc(1,9,31) arc(2,9,33) arc(5,9,35) arc(8,9,31) arc(1,10,31) arc(2,10,33) arc(5,10,34) arc(7,10,31) arc(8,10,31) arc(9,10,30) arc(2,11,23) arc(5,11,23) arc(5,12,34) arc(2,13,33) arc(5,13,33) arc(11,13,30) arc(12,13,20) arc(1,15,21) arc(2,15,34) arc(5,15,35) arc(8,15,21) arc(11,15,32) arc(12,15,22) arc(13,15,25) arc(14,15,24) winner(14)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.689s (Solving: 0.38s 1st Model: 0.01s Unsat: 0.37s)
+CPU Time     : 0.620s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,24) arc(3,2,23) arc(4,1,18) arc(4,2,18) arc(5,1,18) arc(6,1,24) arc(6,2,23) arc(6,4,23) arc(7,1,24) arc(7,2,23) arc(7,3,22) arc(7,4,23) arc(7,5,24) arc(7,6,28) arc(8,2,18) arc(8,4,18) arc(8,5,18) arc(9,1,24) arc(9,2,23) arc(9,3,20) arc(9,4,23) arc(9,5,23) arc(9,6,18) arc(9,8,27) arc(10,1,24) arc(10,3,27) arc(10,8,33) arc(11,1,24) arc(11,2,24) arc(11,3,18) arc(11,5,24) arc(11,6,24) arc(11,8,23) arc(11,9,25) arc(11,10,25) arc(12,2,25) arc(12,3,25) arc(12,4,24) arc(12,5,25) arc(12,6,25) arc(12,7,25) arc(12,8,34) arc(12,9,25) arc(12,11,19) arc(13,11,19) arc(14,13,20) arc(15,13,26) arc(15,14,18) arc(1,3,21) arc(3,4,23) arc(2,5,25) arc(3,5,23) arc(4,5,25) arc(3,6,18) arc(5,6,22) arc(1,8,27) arc(3,8,23) arc(6,8,23) arc(7,8,27) arc(7,9,29) arc(2,10,19) arc(4,10,19) arc(5,10,19) arc(6,10,18) arc(7,10,19) arc(9,10,18) arc(4,11,21) arc(7,11,18) arc(1,12,21) arc(10,12,20) arc(1,13,20) arc(2,13,20) arc(3,13,20) arc(4,13,20) arc(5,13,20) arc(6,13,20) arc(7,13,20) arc(8,13,21) arc(9,13,20) arc(10,13,20) arc(12,13,21) arc(1,14,34) arc(2,14,25) arc(3,14,25) arc(4,14,25) arc(5,14,25) arc(6,14,25) arc(7,14,35) arc(8,14,18) arc(9,14,35) arc(10,14,35) arc(11,14,25) arc(12,14,25) arc(1,15,28) arc(2,15,18) arc(3,15,18) arc(4,15,18) arc(5,15,18) arc(6,15,18) arc(7,15,28) arc(8,15,19) arc(9,15,27) arc(10,15,28) arc(11,15,19) arc(12,15,19) winner(12)
+Optimization: 205
+OPTIMUM FOUND
+
+Models       : 18    
+  Optimum    : yes
+Optimization : 205
+Calls        : 1
+Time         : 0.843s (Solving: 0.67s 1st Model: 0.01s Unsat: 0.01s)
+CPU Time     : 0.810s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,32) arc(3,1,34) arc(3,2,34) arc(4,1,31) arc(4,2,31) arc(4,3,29) arc(5,1,34) arc(6,1,34) arc(6,5,33) arc(7,1,34) arc(7,5,32) arc(7,6,32) arc(9,1,35) arc(9,8,31) arc(11,1,33) arc(11,2,30) arc(11,3,28) arc(11,4,33) arc(11,5,30) arc(11,6,30) arc(11,7,30) arc(11,8,30) arc(11,9,29) arc(11,10,34) arc(12,1,35) arc(12,2,35) arc(12,3,33) arc(12,4,34) arc(12,5,35) arc(12,6,33) arc(12,7,35) arc(12,8,33) arc(12,9,32) arc(12,10,35) arc(13,1,28) arc(13,2,30) arc(13,3,28) arc(13,4,31) arc(13,5,27) arc(13,6,29) arc(13,7,28) arc(13,8,28) arc(13,9,28) arc(13,10,32) arc(13,11,28) arc(13,12,27) arc(14,1,27) arc(14,2,27) arc(14,3,28) arc(14,5,28) arc(14,6,28) arc(14,7,27) arc(14,8,27) arc(14,9,27) arc(14,10,31) arc(15,1,35) arc(15,2,31) arc(15,5,30) arc(15,6,31) arc(15,7,31) arc(15,8,31) arc(15,9,31) arc(15,10,35) arc(2,5,32) arc(3,5,33) arc(4,5,29) arc(2,6,28) arc(3,6,34) arc(4,6,29) arc(2,7,28) arc(3,7,34) arc(4,7,31) arc(1,8,28) arc(2,8,28) arc(3,8,30) arc(4,8,29) arc(5,8,28) arc(6,8,30) arc(7,8,29) arc(2,9,27) arc(3,9,30) arc(4,9,28) arc(5,9,28) arc(6,9,28) arc(7,9,28) arc(1,10,32) arc(2,10,32) arc(3,10,33) arc(4,10,29) arc(5,10,34) arc(6,10,33) arc(7,10,31) arc(8,10,33) arc(9,10,34) arc(11,12,29) arc(4,14,31) arc(11,14,35) arc(12,14,35) arc(13,14,30) arc(3,15,33) arc(4,15,28) arc(11,15,33) arc(12,15,32) arc(13,15,28) arc(14,15,27) winner(13)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.014s (Solving: 1.75s 1st Model: 0.01s Unsat: 1.74s)
+CPU Time     : 1.970s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,20) arc(3,1,35) arc(4,1,24) arc(5,1,23) arc(6,1,23) arc(7,1,24) arc(8,1,35) arc(8,5,34) arc(8,6,31) arc(8,7,33) arc(9,1,24) arc(9,5,20) arc(9,6,20) arc(9,7,30) arc(9,8,20) arc(10,1,22) arc(10,5,19) arc(10,6,19) arc(10,7,33) arc(10,8,19) arc(11,1,19) arc(11,5,20) arc(11,6,20) arc(11,7,30) arc(11,8,19) arc(11,9,19) arc(11,10,20) arc(12,1,24) arc(12,6,20) arc(12,7,34) arc(13,1,32) arc(13,5,32) arc(13,6,31) arc(13,7,31) arc(13,12,31) arc(14,1,24) arc(14,5,24) arc(14,6,23) arc(14,7,33) arc(14,8,24) arc(14,9,23) arc(14,10,35) arc(14,11,35) arc(14,12,23) arc(14,13,22) arc(15,1,24) arc(15,5,35) arc(15,6,23) arc(15,7,33) arc(15,12,23) arc(2,3,19) arc(2,4,19) arc(3,4,35) arc(2,5,20) arc(3,5,35) arc(4,5,23) arc(2,6,20) arc(3,6,34) arc(4,6,23) arc(5,6,20) arc(2,7,30) arc(3,7,33) arc(4,7,33) arc(5,7,33) arc(6,7,34) arc(2,8,20) arc(3,8,35) arc(4,8,24) arc(2,9,19) arc(3,9,34) arc(4,9,23) arc(2,10,20) arc(3,10,35) arc(4,10,35) arc(9,10,32) arc(2,11,20) arc(3,11,35) arc(4,11,35) arc(2,12,20) arc(3,12,34) arc(4,12,23) arc(5,12,19) arc(8,12,34) arc(9,12,20) arc(10,12,19) arc(11,12,19) arc(2,13,19) arc(3,13,33) arc(4,13,22) arc(8,13,22) arc(9,13,22) arc(10,13,22) arc(11,13,19) arc(2,14,20) arc(3,14,34) arc(4,14,23) arc(2,15,20) arc(3,15,31) arc(4,15,20) arc(8,15,30) arc(9,15,20) arc(10,15,19) arc(11,15,19) arc(13,15,32) arc(14,15,19) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.586s (Solving: 0.36s 1st Model: 0.01s Unsat: 0.35s)
+CPU Time     : 0.530s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,20) arc(3,2,20) arc(4,2,32) arc(5,1,18) arc(5,2,30) arc(5,4,32) arc(6,1,21) arc(6,2,32) arc(6,4,33) arc(6,5,21) arc(7,2,31) arc(7,4,31) arc(8,2,30) arc(8,4,31) arc(8,7,31) arc(9,1,30) arc(9,2,30) arc(9,4,30) arc(9,5,30) arc(10,1,33) arc(10,2,32) arc(10,3,29) arc(10,4,32) arc(10,5,33) arc(10,7,18) arc(10,8,19) arc(10,9,35) arc(11,1,19) arc(11,2,33) arc(11,3,33) arc(11,4,19) arc(11,5,18) arc(11,6,18) arc(11,7,18) arc(11,8,18) arc(11,9,19) arc(11,10,18) arc(12,1,19) arc(12,2,32) arc(12,3,18) arc(12,4,33) arc(12,5,18) arc(12,9,19) arc(12,10,18) arc(13,1,19) arc(13,4,18) arc(13,7,19) arc(13,8,20) arc(13,9,20) arc(13,12,18) arc(14,1,21) arc(14,2,21) arc(14,3,19) arc(14,4,20) arc(14,5,20) arc(14,7,19) arc(14,9,20) arc(14,10,20) arc(14,11,21) arc(14,13,20) arc(15,1,33) arc(15,2,33) arc(15,3,32) arc(15,4,33) arc(15,5,33) arc(15,6,33) arc(15,7,34) arc(15,8,35) arc(15,9,35) arc(15,10,19) arc(15,11,19) arc(15,12,35) arc(15,13,18) arc(15,14,32) arc(1,2,29) arc(1,4,32) arc(3,4,20) arc(3,5,20) arc(3,6,19) arc(1,7,18) arc(3,7,19) arc(5,7,18) arc(6,7,34) arc(1,8,18) arc(3,8,20) arc(5,8,19) arc(6,8,35) arc(3,9,20) arc(6,9,21) arc(7,9,19) arc(8,9,19) arc(6,10,21) arc(6,12,33) arc(7,12,18) arc(8,12,30) arc(11,12,19) arc(2,13,18) arc(3,13,18) arc(5,13,18) arc(6,13,18) arc(10,13,18) arc(11,13,18) arc(6,14,30) arc(8,14,30) arc(12,14,30) winner(15)
+Optimization: 210
+OPTIMUM FOUND
+
+Models       : 8     
+  Optimum    : yes
+Optimization : 210
+Calls        : 1
+Time         : 1.088s (Solving: 0.90s 1st Model: 0.01s Unsat: 0.16s)
+CPU Time     : 1.050s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(4,3,24) arc(5,3,23) arc(6,1,24) arc(6,2,23) arc(6,3,23) arc(6,4,33) arc(6,5,23) arc(7,3,34) arc(8,1,34) arc(8,3,34) arc(8,4,34) arc(8,5,34) arc(8,7,23) arc(9,3,23) arc(9,4,34) arc(9,5,23) arc(9,7,24) arc(10,3,23) arc(10,5,23) arc(10,7,23) arc(11,3,23) arc(11,5,23) arc(11,7,24) arc(12,3,34) arc(12,4,33) arc(12,5,34) arc(12,7,23) arc(12,10,34) arc(12,11,34) arc(13,3,24) arc(14,3,23) arc(14,13,34) arc(15,1,25) arc(15,2,24) arc(15,3,24) arc(15,4,23) arc(15,5,24) arc(15,6,24) arc(15,7,23) arc(15,8,24) arc(15,9,24) arc(15,10,34) arc(15,11,34) arc(15,12,25) arc(15,13,33) arc(15,14,24) arc(1,3,24) arc(2,3,33) arc(1,4,33) arc(2,4,34) arc(1,5,34) arc(2,5,33) arc(4,5,24) arc(1,7,23) arc(2,7,24) arc(4,7,24) arc(5,7,24) arc(6,7,23) arc(2,8,24) arc(6,8,23) arc(1,9,34) arc(2,9,35) arc(6,9,23) arc(8,9,34) arc(1,10,34) arc(2,10,35) arc(4,10,34) arc(6,10,34) arc(8,10,35) arc(9,10,35) arc(1,11,34) arc(2,11,34) arc(4,11,34) arc(6,11,33) arc(8,11,34) arc(9,11,33) arc(10,11,33) arc(1,12,25) arc(2,12,34) arc(6,12,24) arc(8,12,34) arc(9,12,24) arc(1,13,33) arc(2,13,34) arc(4,13,35) arc(5,13,34) arc(6,13,34) arc(7,13,35) arc(8,13,34) arc(9,13,34) arc(10,13,34) arc(11,13,24) arc(12,13,33) arc(1,14,34) arc(2,14,34) arc(4,14,24) arc(5,14,34) arc(6,14,23) arc(7,14,34) arc(8,14,34) arc(9,14,24) arc(10,14,23) arc(11,14,24) arc(12,14,34) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.233s (Solving: 1.98s 1st Model: 0.01s Unsat: 1.97s)
+CPU Time     : 2.190s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,27) arc(3,1,26) arc(4,1,28) arc(4,2,34) arc(4,3,34) arc(5,1,34) arc(5,2,34) arc(5,3,35) arc(6,1,28) arc(6,2,33) arc(6,3,34) arc(6,4,33) arc(6,5,27) arc(7,1,28) arc(7,2,33) arc(7,3,34) arc(7,4,34) arc(7,5,28) arc(8,1,27) arc(8,2,33) arc(8,3,34) arc(8,4,33) arc(8,5,27) arc(8,6,27) arc(8,7,27) arc(9,1,28) arc(10,1,27) arc(10,2,32) arc(10,3,34) arc(10,4,33) arc(10,5,26) arc(10,9,33) arc(11,1,27) arc(11,2,27) arc(11,3,28) arc(11,4,27) arc(11,5,27) arc(11,7,27) arc(11,9,27) arc(11,10,29) arc(12,1,27) arc(12,2,33) arc(12,3,34) arc(12,4,33) arc(12,5,26) arc(12,9,32) arc(12,10,27) arc(13,1,35) arc(13,2,34) arc(13,3,35) arc(13,4,34) arc(13,5,34) arc(13,7,34) arc(13,9,34) arc(13,10,35) arc(13,11,34) arc(13,12,35) arc(14,1,28) arc(14,2,35) arc(14,3,35) arc(14,4,34) arc(14,5,29) arc(14,9,33) arc(14,10,35) arc(14,12,35) arc(15,1,27) arc(15,2,33) arc(15,3,33) arc(15,4,33) arc(15,5,27) arc(15,6,27) arc(15,7,28) arc(15,8,33) arc(15,9,33) arc(15,10,27) arc(15,11,33) arc(15,12,27) arc(15,13,27) arc(15,14,26) arc(2,3,34) arc(4,5,28) arc(6,7,33) arc(2,9,33) arc(3,9,32) arc(4,9,34) arc(5,9,33) arc(6,9,34) arc(7,9,34) arc(8,9,33) arc(6,10,28) arc(7,10,28) arc(8,10,28) arc(6,11,33) arc(8,11,33) arc(6,12,28) arc(7,12,28) arc(8,12,29) arc(11,12,28) arc(6,13,28) arc(8,13,26) arc(6,14,27) arc(7,14,27) arc(8,14,27) arc(11,14,26) arc(13,14,34) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.867s (Solving: 0.61s 1st Model: 0.01s Unsat: 0.60s)
+CPU Time     : 0.820s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,22) arc(6,5,20) arc(7,1,32) arc(7,2,32) arc(7,3,28) arc(7,4,32) arc(7,5,22) arc(7,6,31) arc(8,4,29) arc(8,5,24) arc(8,6,33) arc(9,1,27) arc(9,2,30) arc(9,3,27) arc(9,4,29) arc(9,6,30) arc(10,1,27) arc(10,2,22) arc(10,3,19) arc(10,4,20) arc(10,5,20) arc(10,6,23) arc(11,2,30) arc(11,3,29) arc(11,4,30) arc(11,5,21) arc(11,6,30) arc(11,8,30) arc(13,1,27) arc(13,2,31) arc(13,3,31) arc(13,4,20) arc(13,5,24) arc(13,6,34) arc(13,8,20) arc(13,10,18) arc(13,11,21) arc(13,12,34) arc(14,1,26) arc(14,2,33) arc(14,3,28) arc(14,4,28) arc(14,5,22) arc(14,6,31) arc(14,8,26) arc(14,11,20) arc(14,12,31) arc(14,13,28) arc(15,5,27) arc(1,2,23) arc(1,3,20) arc(1,4,25) arc(2,4,21) arc(3,4,22) arc(1,5,24) arc(2,5,19) arc(3,5,23) arc(4,5,21) arc(1,6,23) arc(2,6,20) arc(3,6,23) arc(4,6,30) arc(1,8,24) arc(2,8,18) arc(3,8,21) arc(7,8,31) arc(5,9,19) arc(7,9,18) arc(8,9,18) arc(7,10,31) arc(8,10,18) arc(9,10,28) arc(1,11,22) arc(7,11,23) arc(9,11,21) arc(10,11,21) arc(1,12,24) arc(2,12,32) arc(3,12,32) arc(4,12,31) arc(5,12,18) arc(6,12,32) arc(7,12,31) arc(8,12,34) arc(9,12,32) arc(10,12,31) arc(11,12,30) arc(7,13,31) arc(9,13,25) arc(7,14,22) arc(9,14,18) arc(10,14,22) arc(1,15,24) arc(2,15,22) arc(3,15,23) arc(4,15,23) arc(6,15,25) arc(7,15,24) arc(8,15,23) arc(9,15,21) arc(10,15,24) arc(11,15,23) arc(12,15,23) arc(13,15,24) arc(14,15,24) winner(7)
+Optimization: 91
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+Optimization : 91
+Calls        : 1
+Time         : 0.728s (Solving: 0.53s 1st Model: 0.01s Unsat: 0.02s)
+CPU Time     : 0.690s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(4,1,34) arc(4,2,30) arc(4,3,31) arc(6,3,31) arc(6,5,34) arc(8,3,30) arc(8,5,34) arc(8,6,33) arc(8,7,34) arc(9,3,31) arc(9,5,33) arc(9,7,33) arc(10,5,29) arc(10,7,30) arc(11,3,30) arc(11,5,33) arc(11,7,29) arc(11,10,33) arc(12,3,30) arc(12,5,33) arc(12,6,33) arc(12,7,33) arc(12,8,29) arc(12,9,33) arc(12,10,33) arc(12,11,35) arc(13,3,30) arc(13,5,33) arc(13,6,33) arc(13,7,29) arc(13,8,30) arc(13,9,30) arc(13,10,33) arc(13,11,34) arc(13,12,30) arc(14,1,31) arc(14,2,29) arc(14,3,30) arc(14,4,29) arc(14,5,34) arc(14,6,32) arc(14,7,34) arc(14,8,34) arc(14,9,33) arc(14,10,33) arc(14,11,34) arc(14,12,33) arc(14,13,33) arc(15,3,31) arc(15,5,34) arc(15,7,34) arc(15,9,34) arc(15,10,34) arc(15,11,35) arc(1,3,30) arc(2,3,30) arc(1,5,32) arc(2,5,33) arc(3,5,33) arc(4,5,33) arc(1,6,32) arc(2,6,32) arc(4,6,32) arc(1,7,33) arc(2,7,34) arc(3,7,33) arc(4,7,33) arc(5,7,31) arc(6,7,30) arc(1,8,32) arc(2,8,33) arc(4,8,33) arc(1,9,33) arc(2,9,33) arc(4,9,33) arc(6,9,30) arc(8,9,34) arc(1,10,33) arc(2,10,32) arc(3,10,33) arc(4,10,33) arc(6,10,33) arc(8,10,33) arc(9,10,33) arc(1,11,34) arc(2,11,34) arc(4,11,35) arc(6,11,35) arc(8,11,34) arc(9,11,35) arc(1,12,33) arc(2,12,33) arc(4,12,34) arc(1,13,33) arc(2,13,34) arc(4,13,33) arc(1,15,28) arc(2,15,28) arc(4,15,28) arc(6,15,29) arc(8,15,29) arc(12,15,28) arc(13,15,29) arc(14,15,28) winner(14)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.109s (Solving: 1.82s 1st Model: 0.01s Unsat: 1.80s)
+CPU Time     : 2.070s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(3,1,28) arc(3,2,32) arc(4,1,33) arc(4,2,32) arc(5,1,33) arc(5,2,35) arc(5,3,35) arc(5,4,29) arc(7,6,31) arc(8,1,30) arc(8,2,30) arc(8,3,25) arc(8,4,26) arc(8,6,32) arc(8,7,22) arc(9,1,32) arc(9,2,30) arc(9,4,28) arc(9,6,33) arc(9,7,33) arc(10,6,31) arc(11,6,28) arc(12,1,32) arc(12,2,26) arc(12,3,26) arc(12,4,20) arc(12,5,26) arc(12,6,28) arc(12,7,28) arc(12,8,26) arc(12,9,22) arc(12,10,24) arc(12,11,27) arc(13,1,32) arc(13,2,32) arc(13,4,28) arc(13,6,32) arc(13,7,26) arc(13,9,28) arc(13,10,22) arc(13,11,32) arc(14,1,26) arc(14,2,24) arc(14,3,24) arc(14,4,22) arc(14,6,26) arc(14,7,26) arc(14,8,26) arc(14,9,20) arc(14,10,22) arc(14,11,21) arc(14,13,21) arc(15,1,34) arc(15,2,34) arc(15,3,34) arc(15,4,28) arc(15,6,34) arc(15,7,34) arc(15,9,30) arc(15,10,30) arc(15,11,29) arc(15,13,29) arc(3,4,28) arc(1,6,27) arc(2,6,23) arc(3,6,28) arc(4,6,29) arc(5,6,33) arc(1,7,25) arc(2,7,23) arc(3,7,22) arc(4,7,29) arc(5,7,29) arc(5,8,35) arc(3,9,24) arc(5,9,31) arc(8,9,22) arc(1,10,22) arc(2,10,23) arc(3,10,22) arc(4,10,24) arc(5,10,29) arc(7,10,28) arc(8,10,22) arc(9,10,28) arc(1,11,27) arc(2,11,29) arc(3,11,29) arc(4,11,31) arc(5,11,29) arc(7,11,27) arc(8,11,27) arc(9,11,31) arc(10,11,31) arc(3,13,29) arc(5,13,31) arc(8,13,29) arc(12,13,23) arc(5,14,31) arc(12,14,29) arc(5,15,23) arc(8,15,21) arc(12,15,27) arc(14,15,25) winner(12)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.648s (Solving: 0.42s 1st Model: 0.01s Unsat: 0.40s)
+CPU Time     : 0.600s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,2,32) arc(4,3,32) arc(5,3,33) arc(6,3,34) arc(6,5,34) arc(7,2,32) arc(7,3,32) arc(7,5,34) arc(7,6,32) arc(8,1,34) arc(8,2,32) arc(8,3,19) arc(8,4,21) arc(8,5,19) arc(8,6,19) arc(8,7,19) arc(9,2,32) arc(9,3,19) arc(9,4,21) arc(9,5,18) arc(9,6,18) arc(9,7,19) arc(10,3,19) arc(11,2,32) arc(11,3,18) arc(11,4,21) arc(11,5,20) arc(11,6,19) arc(11,7,21) arc(11,9,21) arc(11,10,21) arc(12,1,35) arc(12,2,34) arc(12,3,21) arc(12,4,21) arc(12,5,21) arc(12,6,21) arc(12,7,21) arc(12,8,21) arc(12,9,22) arc(12,10,33) arc(12,11,34) arc(13,1,35) arc(13,2,32) arc(13,3,32) arc(13,4,20) arc(13,5,33) arc(13,6,32) arc(13,7,21) arc(13,8,34) arc(13,9,34) arc(13,10,33) arc(13,11,34) arc(13,12,32) arc(14,1,33) arc(14,2,32) arc(14,3,31) arc(14,4,18) arc(14,5,31) arc(14,6,19) arc(14,7,19) arc(14,8,32) arc(14,9,32) arc(14,10,31) arc(14,11,31) arc(14,12,32) arc(15,1,34) arc(15,2,32) arc(15,3,18) arc(15,4,20) arc(15,5,20) arc(15,6,18) arc(15,7,21) arc(15,8,20) arc(15,9,21) arc(15,10,20) arc(15,11,31) arc(1,2,31) arc(1,3,18) arc(2,3,21) arc(1,4,18) arc(1,5,18) arc(2,5,21) arc(4,5,31) arc(1,6,18) arc(2,6,20) arc(4,6,32) arc(1,7,19) arc(4,7,19) arc(1,9,18) arc(8,9,21) arc(1,10,18) arc(2,10,20) arc(4,10,32) arc(5,10,32) arc(6,10,33) arc(7,10,32) arc(8,10,32) arc(9,10,31) arc(1,11,18) arc(8,11,32) arc(13,14,34) arc(12,15,35) arc(13,15,35) arc(14,15,33) winner(13)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.578s (Solving: 0.36s 1st Model: 0.01s Unsat: 0.34s)
+CPU Time     : 0.530s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,20) arc(4,2,20) arc(4,3,18) arc(5,3,18) arc(5,4,18) arc(6,3,18) arc(6,4,18) arc(6,5,18) arc(7,3,18) arc(9,1,31) arc(9,2,19) arc(9,3,32) arc(9,4,31) arc(9,5,31) arc(9,6,30) arc(9,7,18) arc(9,8,30) arc(10,2,20) arc(10,3,18) arc(10,5,31) arc(10,6,31) arc(10,7,33) arc(10,8,32) arc(10,9,19) arc(11,4,18) arc(11,7,18) arc(11,8,33) arc(12,3,18) arc(12,4,18) arc(12,7,20) arc(12,8,33) arc(12,9,18) arc(14,1,19) arc(14,2,19) arc(14,3,19) arc(14,4,33) arc(14,7,19) arc(14,8,33) arc(14,10,19) arc(14,12,20) arc(14,13,33) arc(15,7,19) arc(15,8,32) arc(15,11,18) arc(15,13,33) arc(1,2,20) arc(1,3,34) arc(1,4,18) arc(1,5,32) arc(2,5,32) arc(1,6,31) arc(2,6,32) arc(1,7,19) arc(2,7,31) arc(4,7,18) arc(5,7,19) arc(6,7,19) arc(1,8,33) arc(2,8,31) arc(3,8,32) arc(4,8,32) arc(5,8,34) arc(6,8,34) arc(7,8,31) arc(1,10,20) arc(4,10,18) arc(1,11,18) arc(2,11,31) arc(3,11,18) arc(5,11,20) arc(6,11,18) arc(9,11,30) arc(10,11,32) arc(1,12,18) arc(2,12,32) arc(5,12,20) arc(6,12,19) arc(10,12,31) arc(11,12,19) arc(1,13,34) arc(2,13,31) arc(3,13,32) arc(4,13,33) arc(5,13,34) arc(6,13,34) arc(7,13,18) arc(8,13,18) arc(9,13,32) arc(10,13,34) arc(11,13,33) arc(12,13,18) arc(5,14,18) arc(6,14,18) arc(9,14,32) arc(11,14,18) arc(1,15,34) arc(2,15,31) arc(3,15,32) arc(4,15,31) arc(5,15,34) arc(6,15,34) arc(9,15,31) arc(10,15,33) arc(12,15,18) arc(14,15,34) winner(9)
+Optimization: 203
+OPTIMUM FOUND
+
+Models       : 12    
+  Optimum    : yes
+Optimization : 203
+Calls        : 1
+Time         : 1.322s (Solving: 1.12s 1st Model: 0.01s Unsat: 0.06s)
+CPU Time     : 1.280s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,35) arc(3,2,35) arc(4,2,34) arc(5,2,34) arc(5,4,34) arc(6,2,34) arc(7,1,35) arc(7,2,35) arc(7,3,34) arc(7,4,35) arc(7,5,35) arc(7,6,35) arc(9,1,35) arc(9,2,35) arc(9,4,35) arc(9,5,35) arc(9,6,35) arc(9,8,35) arc(10,1,34) arc(10,2,34) arc(10,4,34) arc(10,5,34) arc(10,6,35) arc(10,8,35) arc(10,9,34) arc(11,8,35) arc(14,1,34) arc(14,2,34) arc(14,3,34) arc(14,4,34) arc(14,5,34) arc(14,6,34) arc(14,8,34) arc(14,9,34) arc(14,10,34) arc(14,11,34) arc(14,12,34) arc(14,13,34) arc(15,2,34) arc(15,4,34) arc(15,6,34) arc(15,8,34) arc(15,11,34) arc(15,12,34) arc(15,13,34) arc(1,2,35) arc(1,4,35) arc(3,4,35) arc(1,5,35) arc(3,5,35) arc(1,6,35) arc(3,6,35) arc(4,6,35) arc(5,6,35) arc(1,8,35) arc(2,8,35) arc(3,8,35) arc(4,8,35) arc(5,8,35) arc(6,8,35) arc(7,8,35) arc(3,9,35) arc(7,9,34) arc(3,10,35) arc(7,10,35) arc(1,11,35) arc(2,11,35) arc(3,11,35) arc(4,11,35) arc(5,11,35) arc(6,11,34) arc(7,11,35) arc(9,11,35) arc(10,11,35) arc(1,12,34) arc(2,12,34) arc(3,12,35) arc(4,12,34) arc(5,12,34) arc(6,12,34) arc(7,12,34) arc(8,12,34) arc(9,12,34) arc(10,12,34) arc(11,12,34) arc(1,13,35) arc(2,13,35) arc(3,13,35) arc(4,13,35) arc(5,13,35) arc(6,13,35) arc(7,13,35) arc(8,13,34) arc(9,13,35) arc(10,13,35) arc(11,13,35) arc(12,13,35) arc(7,14,35) arc(1,15,35) arc(3,15,35) arc(5,15,35) arc(7,15,35) arc(9,15,35) arc(10,15,35) arc(14,15,35) winner(7)
+Optimization: 0
+OPTIMUM FOUND
+
+INTERRUPTED  : 1
+Models       : 2+    
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 4529.407s (Solving: 4529.22s 1st Model: 0.01s Unsat: 0.00s)
+CPU Time     : 4533.730s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,30) arc(3,2,30) arc(4,2,28) arc(5,1,31) arc(5,2,31) arc(5,3,32) arc(5,4,30) arc(6,2,25) arc(6,4,25) arc(7,1,31) arc(7,2,32) arc(7,3,28) arc(7,4,31) arc(7,5,28) arc(7,6,33) arc(8,1,31) arc(8,2,34) arc(8,3,29) arc(8,4,31) arc(8,5,28) arc(8,6,34) arc(8,7,29) arc(9,1,27) arc(9,2,27) arc(9,3,29) arc(9,4,27) arc(9,5,28) arc(9,6,28) arc(9,7,27) arc(9,8,27) arc(10,2,31) arc(10,4,30) arc(11,2,31) arc(12,2,25) arc(12,4,25) arc(12,10,25) arc(12,11,26) arc(13,2,28) arc(13,4,24) arc(13,11,28) arc(14,1,26) arc(14,2,28) arc(14,3,29) arc(14,4,26) arc(14,6,28) arc(14,10,28) arc(14,11,28) arc(14,12,34) arc(14,13,32) arc(15,1,25) arc(15,2,26) arc(15,3,27) arc(15,4,25) arc(15,5,26) arc(15,6,34) arc(15,7,26) arc(15,8,26) arc(15,9,32) arc(15,10,25) arc(15,11,27) arc(15,12,33) arc(15,13,31) arc(15,14,32) arc(1,2,29) arc(1,4,26) arc(3,4,30) arc(1,6,34) arc(3,6,33) arc(5,6,33) arc(1,10,28) arc(3,10,25) arc(5,10,32) arc(6,10,25) arc(7,10,27) arc(8,10,27) arc(9,10,27) arc(1,11,28) arc(3,11,32) arc(4,11,28) arc(5,11,33) arc(6,11,25) arc(7,11,33) arc(8,11,28) arc(9,11,28) arc(10,11,34) arc(1,12,35) arc(3,12,31) arc(5,12,31) arc(6,12,32) arc(7,12,35) arc(8,12,35) arc(9,12,35) arc(1,13,34) arc(3,13,30) arc(5,13,31) arc(6,13,31) arc(7,13,31) arc(8,13,31) arc(9,13,33) arc(10,13,31) arc(12,13,25) arc(5,14,31) arc(7,14,32) arc(8,14,32) arc(9,14,25) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.988s (Solving: 0.67s 1st Model: 0.01s Unsat: 0.66s)
+CPU Time     : 0.900s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,21) arc(3,1,22) arc(4,1,20) arc(4,2,33) arc(4,3,33) arc(5,1,20) arc(5,2,22) arc(5,3,22) arc(6,1,24) arc(6,3,32) arc(7,1,21) arc(7,3,21) arc(7,6,21) arc(8,1,21) arc(8,2,21) arc(8,3,21) arc(8,6,21) arc(8,7,23) arc(9,1,21) arc(9,2,32) arc(9,3,22) arc(9,6,22) arc(9,7,24) arc(9,8,33) arc(10,1,24) arc(11,1,20) arc(11,10,20) arc(12,1,21) arc(12,2,23) arc(12,3,21) arc(12,4,23) arc(12,5,33) arc(12,6,21) arc(12,7,22) arc(12,8,33) arc(12,9,22) arc(12,10,19) arc(12,11,23) arc(13,1,32) arc(13,3,32) arc(13,6,29) arc(13,10,30) arc(13,11,32) arc(14,1,22) arc(14,3,32) arc(14,6,30) arc(14,10,30) arc(14,11,34) arc(14,13,22) arc(15,1,19) arc(15,3,21) arc(15,6,20) arc(15,10,19) arc(15,11,23) arc(15,13,22) arc(15,14,20) arc(2,3,22) arc(4,5,31) arc(2,6,22) arc(4,6,21) arc(5,6,20) arc(2,7,23) arc(4,7,33) arc(5,7,23) arc(4,8,33) arc(5,8,33) arc(4,9,32) arc(5,9,22) arc(2,10,19) arc(3,10,21) arc(4,10,21) arc(5,10,20) arc(6,10,22) arc(7,10,21) arc(8,10,21) arc(9,10,22) arc(2,11,23) arc(3,11,21) arc(4,11,24) arc(5,11,24) arc(6,11,34) arc(7,11,21) arc(8,11,23) arc(9,11,24) arc(2,13,22) arc(4,13,23) arc(5,13,23) arc(7,13,21) arc(8,13,21) arc(9,13,22) arc(12,13,22) arc(2,14,22) arc(4,14,22) arc(5,14,22) arc(7,14,22) arc(8,14,22) arc(9,14,22) arc(12,14,24) arc(2,15,35) arc(4,15,33) arc(5,15,33) arc(7,15,32) arc(8,15,23) arc(9,15,35) arc(12,15,34) winner(12)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.528s (Solving: 0.34s 1st Model: 0.01s Unsat: 0.32s)
+CPU Time     : 0.490s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,33) arc(3,1,33) arc(3,2,29) arc(4,1,33) arc(4,2,29) arc(5,1,33) arc(6,1,33) arc(7,1,32) arc(8,1,29) arc(8,5,28) arc(8,6,28) arc(8,7,29) arc(9,1,31) arc(9,5,28) arc(9,6,32) arc(9,7,33) arc(10,1,31) arc(11,1,31) arc(11,2,30) arc(11,5,30) arc(11,6,30) arc(11,7,31) arc(11,8,32) arc(11,9,33) arc(11,10,33) arc(12,1,33) arc(12,6,33) arc(12,7,33) arc(12,10,32) arc(13,1,31) arc(14,1,31) arc(14,2,29) arc(14,5,28) arc(14,6,30) arc(14,7,33) arc(14,8,32) arc(14,9,31) arc(14,10,28) arc(14,11,30) arc(14,12,27) arc(14,13,30) arc(15,1,31) arc(15,10,28) arc(15,13,32) arc(3,4,29) arc(2,5,30) arc(3,5,29) arc(4,5,28) arc(2,6,32) arc(3,6,31) arc(4,6,31) arc(5,6,31) arc(2,7,33) arc(3,7,30) arc(4,7,32) arc(5,7,32) arc(6,7,32) arc(2,8,34) arc(3,8,31) arc(4,8,31) arc(2,9,35) arc(3,9,31) arc(4,9,29) arc(8,9,30) arc(2,10,32) arc(3,10,31) arc(4,10,31) arc(5,10,32) arc(6,10,30) arc(7,10,29) arc(8,10,30) arc(9,10,29) arc(3,11,31) arc(4,11,31) arc(2,12,33) arc(3,12,31) arc(4,12,31) arc(5,12,33) arc(8,12,29) arc(9,12,29) arc(11,12,32) arc(2,13,34) arc(3,13,31) arc(4,13,31) arc(5,13,34) arc(6,13,30) arc(7,13,30) arc(8,13,30) arc(9,13,32) arc(10,13,34) arc(11,13,32) arc(12,13,33) arc(3,14,31) arc(4,14,33) arc(2,15,34) arc(3,15,31) arc(4,15,31) arc(5,15,34) arc(6,15,30) arc(7,15,29) arc(8,15,30) arc(9,15,32) arc(11,15,32) arc(12,15,33) arc(14,15,30) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 5.606s (Solving: 5.34s 1st Model: 0.01s Unsat: 5.33s)
+CPU Time     : 5.560s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,3,34) arc(5,1,33) arc(5,2,29) arc(5,3,29) arc(5,4,28) arc(6,1,28) arc(6,2,28) arc(6,3,29) arc(6,4,28) arc(7,3,34) arc(8,3,29) arc(8,4,29) arc(8,7,29) arc(9,3,34) arc(9,4,30) arc(9,7,29) arc(10,1,33) arc(10,2,34) arc(10,3,33) arc(10,4,29) arc(10,7,34) arc(10,8,33) arc(10,9,34) arc(12,3,29) arc(12,4,28) arc(12,7,28) arc(12,9,28) arc(12,11,33) arc(13,3,34) arc(13,11,34) arc(14,3,34) arc(14,4,28) arc(14,7,28) arc(14,9,28) arc(14,11,33) arc(14,12,34) arc(14,13,29) arc(15,11,33) arc(1,2,30) arc(1,3,29) arc(2,3,34) arc(1,4,29) arc(2,4,28) arc(5,6,35) arc(1,7,29) arc(2,7,33) arc(4,7,34) arc(5,7,29) arc(6,7,28) arc(1,8,34) arc(2,8,34) arc(5,8,33) arc(6,8,33) arc(1,9,29) arc(2,9,33) arc(5,9,28) arc(6,9,28) arc(8,9,29) arc(5,10,29) arc(6,10,29) arc(1,11,34) arc(2,11,33) arc(3,11,34) arc(4,11,33) arc(5,11,33) arc(6,11,28) arc(7,11,33) arc(8,11,29) arc(9,11,33) arc(10,11,33) arc(1,12,35) arc(2,12,35) arc(5,12,34) arc(6,12,29) arc(8,12,30) arc(10,12,34) arc(1,13,30) arc(2,13,34) arc(4,13,34) arc(5,13,28) arc(6,13,28) arc(7,13,29) arc(8,13,30) arc(9,13,29) arc(10,13,33) arc(12,13,28) arc(1,14,30) arc(2,14,35) arc(5,14,29) arc(6,14,29) arc(8,14,29) arc(10,14,34) arc(1,15,30) arc(2,15,34) arc(3,15,29) arc(4,15,34) arc(5,15,28) arc(6,15,28) arc(7,15,34) arc(8,15,30) arc(9,15,34) arc(10,15,33) arc(12,15,29) arc(13,15,35) arc(14,15,34) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.122s (Solving: 1.86s 1st Model: 0.01s Unsat: 1.84s)
+CPU Time     : 2.080s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(3,1,34) arc(3,2,33) arc(4,1,34) arc(5,1,34) arc(5,4,31) arc(6,1,31) arc(7,1,35) arc(7,6,35) arc(8,1,33) arc(8,4,34) arc(8,5,34) arc(8,6,34) arc(8,7,30) arc(9,1,34) arc(9,4,31) arc(9,5,31) arc(9,6,35) arc(9,7,31) arc(9,8,31) arc(10,1,34) arc(10,2,33) arc(10,3,31) arc(10,4,34) arc(10,5,34) arc(10,6,34) arc(10,7,31) arc(10,8,31) arc(10,9,34) arc(11,1,34) arc(11,4,34) arc(11,5,33) arc(11,6,33) arc(11,7,30) arc(11,8,31) arc(11,9,33) arc(12,1,34) arc(12,4,34) arc(12,6,33) arc(12,7,30) arc(13,1,34) arc(13,4,34) arc(13,5,34) arc(13,6,34) arc(13,7,30) arc(13,8,35) arc(13,12,34) arc(14,1,34) arc(15,1,35) arc(15,4,34) arc(15,5,34) arc(15,6,34) arc(15,7,30) arc(15,8,32) arc(15,9,34) arc(15,12,34) arc(15,13,32) arc(15,14,31) arc(2,4,35) arc(3,4,34) arc(2,5,35) arc(3,5,33) arc(2,6,35) arc(3,6,35) arc(4,6,34) arc(5,6,35) arc(2,7,31) arc(3,7,31) arc(4,7,31) arc(5,7,31) arc(2,8,31) arc(3,8,31) arc(2,9,34) arc(3,9,33) arc(2,11,32) arc(3,11,32) arc(10,11,31) arc(2,12,32) arc(3,12,35) arc(5,12,32) arc(8,12,34) arc(9,12,32) arc(10,12,34) arc(11,12,34) arc(2,13,31) arc(3,13,31) arc(9,13,31) arc(10,13,31) arc(11,13,31) arc(2,14,31) arc(3,14,31) arc(4,14,31) arc(5,14,31) arc(6,14,31) arc(7,14,35) arc(8,14,30) arc(9,14,31) arc(10,14,31) arc(11,14,31) arc(12,14,31) arc(13,14,34) arc(2,15,31) arc(3,15,34) arc(10,15,31) arc(11,15,33) winner(10)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 15.598s (Solving: 15.32s 1st Model: 0.01s Unsat: 15.30s)
+CPU Time     : 15.570s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(4,3,19) arc(5,2,19) arc(5,3,19) arc(5,4,20) arc(7,3,19) arc(7,4,20) arc(7,6,19) arc(8,3,34) arc(8,4,35) arc(8,6,34) arc(9,2,34) arc(9,3,19) arc(9,4,19) arc(9,5,34) arc(9,6,19) arc(9,7,34) arc(9,8,19) arc(10,2,34) arc(10,3,34) arc(10,4,35) arc(10,5,35) arc(10,6,34) arc(10,7,35) arc(10,8,20) arc(10,9,35) arc(11,2,19) arc(11,3,19) arc(11,4,19) arc(11,5,19) arc(11,6,19) arc(11,7,19) arc(11,8,19) arc(12,2,34) arc(12,3,19) arc(12,4,34) arc(12,5,34) arc(12,6,19) arc(12,7,34) arc(12,8,19) arc(12,9,35) arc(12,10,19) arc(12,11,34) arc(13,6,35) arc(14,3,19) arc(14,4,19) arc(14,6,19) arc(14,7,19) arc(14,8,19) arc(14,13,19) arc(15,6,20) arc(1,2,19) arc(1,3,19) arc(2,3,19) arc(1,4,19) arc(2,4,20) arc(1,5,19) arc(1,6,19) arc(2,6,20) arc(3,6,20) arc(4,6,19) arc(5,6,19) arc(1,7,19) arc(2,7,35) arc(5,7,20) arc(1,8,19) arc(2,8,20) arc(5,8,19) arc(7,8,19) arc(1,9,19) arc(1,10,19) arc(1,11,19) arc(9,11,34) arc(10,11,35) arc(1,12,19) arc(1,13,19) arc(2,13,19) arc(3,13,19) arc(4,13,19) arc(5,13,19) arc(7,13,19) arc(8,13,34) arc(9,13,19) arc(10,13,19) arc(11,13,19) arc(12,13,19) arc(1,14,19) arc(2,14,35) arc(5,14,35) arc(9,14,35) arc(10,14,35) arc(11,14,35) arc(12,14,35) arc(1,15,19) arc(2,15,34) arc(3,15,34) arc(4,15,34) arc(5,15,34) arc(7,15,34) arc(8,15,34) arc(9,15,34) arc(10,15,34) arc(11,15,19) arc(12,15,34) arc(13,15,34) arc(14,15,19) winner(1)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.426s (Solving: 2.24s 1st Model: 0.01s Unsat: 2.23s)
+CPU Time     : 2.390s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,25) arc(4,2,26) arc(4,3,18) arc(5,1,26) arc(5,2,25) arc(5,4,24) arc(6,1,19) arc(6,2,32) arc(6,3,18) arc(6,5,18) arc(7,1,19) arc(7,2,19) arc(7,4,18) arc(7,5,18) arc(8,2,33) arc(8,3,20) arc(8,4,19) arc(8,5,19) arc(8,6,27) arc(8,7,26) arc(9,2,25) arc(10,1,33) arc(10,2,32) arc(10,3,25) arc(10,4,24) arc(10,5,24) arc(10,6,25) arc(10,7,24) arc(10,8,23) arc(10,9,34) arc(11,2,27) arc(11,6,18) arc(11,9,26) arc(12,1,19) arc(12,2,33) arc(12,4,19) arc(12,5,19) arc(12,6,24) arc(12,7,24) arc(12,9,34) arc(12,10,19) arc(12,11,32) arc(13,2,25) arc(14,1,35) arc(14,2,34) arc(14,3,26) arc(14,4,34) arc(14,5,35) arc(14,6,18) arc(14,7,27) arc(14,8,25) arc(14,9,35) arc(14,10,26) arc(14,11,34) arc(14,12,26) arc(14,13,33) arc(15,2,25) arc(15,4,24) arc(15,5,18) arc(15,9,33) arc(15,11,32) arc(15,12,26) arc(15,13,32) arc(1,2,32) arc(1,3,24) arc(1,4,22) arc(3,5,18) arc(4,6,18) arc(3,7,23) arc(6,7,24) arc(1,8,23) arc(1,9,24) arc(3,9,34) arc(4,9,35) arc(5,9,34) arc(6,9,19) arc(7,9,20) arc(8,9,35) arc(1,11,22) arc(3,11,32) arc(4,11,34) arc(5,11,32) arc(7,11,18) arc(8,11,32) arc(10,11,32) arc(3,12,25) arc(8,12,26) arc(1,13,33) arc(3,13,18) arc(4,13,20) arc(5,13,32) arc(6,13,18) arc(7,13,18) arc(8,13,18) arc(9,13,18) arc(10,13,32) arc(11,13,19) arc(12,13,18) arc(1,15,25) arc(3,15,18) arc(6,15,19) arc(7,15,19) arc(8,15,20) arc(10,15,25) arc(14,15,35) winner(14)
+Optimization: 182
+OPTIMUM FOUND
+
+Models       : 9     
+  Optimum    : yes
+Optimization : 182
+Calls        : 1
+Time         : 0.940s (Solving: 0.74s 1st Model: 0.01s Unsat: 0.01s)
+CPU Time     : 0.900s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(3,1,34) arc(3,2,35) arc(5,1,29) arc(5,4,30) arc(6,1,35) arc(6,2,35) arc(6,4,35) arc(6,5,35) arc(7,1,29) arc(7,4,29) arc(7,5,29) arc(8,4,35) arc(9,1,34) arc(9,2,35) arc(9,3,22) arc(9,4,34) arc(9,5,34) arc(9,6,29) arc(9,7,35) arc(9,8,22) arc(10,4,30) arc(11,1,34) arc(11,4,27) arc(11,5,27) arc(11,8,27) arc(11,10,27) arc(12,1,29) arc(12,4,30) arc(12,5,34) arc(12,8,23) arc(12,10,29) arc(13,1,34) arc(13,2,35) arc(13,3,22) arc(13,4,35) arc(13,5,34) arc(13,6,22) arc(13,7,35) arc(13,8,23) arc(13,10,27) arc(13,11,30) arc(13,12,27) arc(14,1,29) arc(14,4,30) arc(14,5,34) arc(14,7,35) arc(14,8,23) arc(14,10,22) arc(14,11,30) arc(14,12,28) arc(15,1,34) arc(15,2,34) arc(15,3,22) arc(15,4,34) arc(15,5,34) arc(15,6,22) arc(15,7,34) arc(15,8,22) arc(15,10,27) arc(15,11,29) arc(15,12,27) arc(15,14,27) arc(1,4,23) arc(2,4,22) arc(3,4,35) arc(2,5,27) arc(3,5,34) arc(3,6,34) arc(2,7,27) arc(3,7,35) arc(6,7,35) arc(1,8,23) arc(2,8,22) arc(3,8,35) arc(5,8,23) arc(6,8,28) arc(7,8,22) arc(1,10,23) arc(2,10,22) arc(3,10,34) arc(5,10,22) arc(6,10,35) arc(7,10,22) arc(8,10,34) arc(9,10,34) arc(2,11,29) arc(3,11,35) arc(6,11,30) arc(7,11,30) arc(9,11,30) arc(2,12,22) arc(3,12,35) arc(6,12,35) arc(7,12,22) arc(9,12,34) arc(11,12,27) arc(9,13,29) arc(2,14,22) arc(3,14,34) arc(6,14,35) arc(9,14,34) arc(13,14,27) arc(9,15,35) arc(13,15,28) winner(9)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.629s (Solving: 0.38s 1st Model: 0.01s Unsat: 0.37s)
+CPU Time     : 0.590s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,25) arc(3,1,25) arc(4,1,27) arc(5,1,25) arc(5,2,33) arc(5,3,26) arc(5,4,33) arc(6,1,26) arc(7,1,26) arc(8,1,27) arc(8,4,35) arc(8,6,34) arc(8,7,35) arc(9,1,25) arc(9,6,33) arc(9,7,33) arc(10,1,26) arc(10,2,35) arc(10,3,35) arc(10,4,34) arc(10,6,34) arc(10,7,35) arc(10,8,33) arc(10,9,35) arc(11,1,25) arc(11,3,33) arc(11,4,33) arc(11,6,33) arc(11,7,33) arc(11,8,33) arc(11,9,35) arc(12,1,25) arc(12,2,34) arc(12,3,26) arc(12,4,33) arc(12,6,33) arc(12,7,34) arc(12,8,25) arc(12,9,34) arc(12,10,25) arc(12,11,26) arc(13,1,26) arc(13,7,26) arc(14,1,27) arc(14,3,27) arc(14,4,35) arc(14,6,34) arc(14,7,35) arc(14,8,25) arc(14,9,35) arc(14,13,34) arc(15,1,26) arc(15,4,25) arc(15,6,34) arc(15,7,34) arc(15,8,25) arc(15,9,27) arc(15,13,34) arc(2,3,26) arc(2,4,25) arc(3,4,33) arc(2,6,34) arc(3,6,34) arc(4,6,34) arc(5,6,34) arc(2,7,34) arc(3,7,34) arc(4,7,35) arc(5,7,33) arc(6,7,26) arc(2,8,25) arc(3,8,25) arc(5,8,25) arc(2,9,27) arc(3,9,35) arc(4,9,27) arc(5,9,35) arc(8,9,35) arc(5,10,25) arc(2,11,27) arc(5,11,27) arc(10,11,35) arc(5,12,34) arc(2,13,34) arc(3,13,34) arc(4,13,34) arc(5,13,34) arc(6,13,26) arc(8,13,35) arc(9,13,33) arc(10,13,34) arc(11,13,33) arc(12,13,33) arc(2,14,25) arc(5,14,33) arc(10,14,34) arc(11,14,33) arc(12,14,25) arc(2,15,26) arc(3,15,33) arc(5,15,34) arc(10,15,34) arc(11,15,33) arc(12,15,33) arc(14,15,35) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 1.711s (Solving: 1.45s 1st Model: 0.01s Unsat: 1.43s)
+CPU Time     : 1.670s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,34) arc(3,1,31) arc(3,2,20) arc(4,1,31) arc(5,1,34) arc(5,2,23) arc(5,3,35) arc(5,4,30) arc(6,1,30) arc(6,2,30) arc(6,3,30) arc(6,4,30) arc(6,5,23) arc(7,1,31) arc(7,4,22) arc(9,1,27) arc(9,4,23) arc(9,8,21) arc(10,1,31) arc(10,3,24) arc(10,4,32) arc(10,5,20) arc(10,6,21) arc(10,7,29) arc(10,8,25) arc(10,9,28) arc(11,1,27) arc(11,4,22) arc(11,8,27) arc(11,9,23) arc(12,1,27) arc(12,2,23) arc(12,3,31) arc(12,4,30) arc(12,5,27) arc(12,6,26) arc(12,7,31) arc(12,8,23) arc(12,9,26) arc(12,11,29) arc(13,1,28) arc(13,4,22) arc(13,8,25) arc(15,1,27) arc(15,4,28) arc(15,7,29) arc(15,8,21) arc(15,9,23) arc(15,11,28) arc(15,13,25) arc(15,14,29) arc(2,4,35) arc(3,4,30) arc(2,7,33) arc(3,7,29) arc(5,7,29) arc(6,7,30) arc(1,8,25) arc(2,8,25) arc(3,8,25) arc(4,8,25) arc(5,8,25) arc(6,8,22) arc(7,8,26) arc(2,9,30) arc(3,9,23) arc(5,9,24) arc(6,9,25) arc(7,9,26) arc(2,10,19) arc(2,11,33) arc(3,11,32) arc(5,11,33) arc(6,11,28) arc(7,11,24) arc(10,11,32) arc(10,12,24) arc(2,13,34) arc(3,13,28) arc(5,13,28) arc(6,13,30) arc(7,13,22) arc(9,13,23) arc(10,13,32) arc(11,13,22) arc(12,13,30) arc(1,14,30) arc(2,14,29) arc(3,14,29) arc(4,14,29) arc(5,14,29) arc(6,14,25) arc(7,14,26) arc(8,14,29) arc(9,14,25) arc(10,14,29) arc(11,14,26) arc(12,14,25) arc(13,14,30) arc(2,15,26) arc(3,15,29) arc(5,15,30) arc(6,15,30) arc(10,15,26) arc(12,15,31) winner(10)
+Optimization: 19
+OPTIMUM FOUND
+
+Models       : 4     
+  Optimum    : yes
+Optimization : 19
+Calls        : 1
+Time         : 0.532s (Solving: 0.31s 1st Model: 0.01s Unsat: 0.00s)
+CPU Time     : 0.490s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,28) arc(4,2,28) arc(4,3,30) arc(5,1,31) arc(5,2,25) arc(5,3,32) arc(5,4,26) arc(6,2,28) arc(7,1,34) arc(7,2,25) arc(7,3,31) arc(7,4,22) arc(7,5,30) arc(7,6,28) arc(8,2,24) arc(8,3,30) arc(8,6,28) arc(10,1,30) arc(10,2,29) arc(10,3,30) arc(10,4,22) arc(10,5,30) arc(10,6,31) arc(10,8,29) arc(10,9,30) arc(11,2,28) arc(11,3,31) arc(11,6,32) arc(11,8,30) arc(11,9,30) arc(12,1,33) arc(12,2,28) arc(12,3,30) arc(12,4,28) arc(12,5,24) arc(12,6,34) arc(12,7,28) arc(12,8,28) arc(12,9,34) arc(12,10,29) arc(12,11,33) arc(13,2,22) arc(13,3,27) arc(13,6,27) arc(13,8,26) arc(13,9,30) arc(13,11,27) arc(14,2,21) arc(14,3,26) arc(14,6,26) arc(14,8,26) arc(14,9,27) arc(14,11,26) arc(14,13,27) arc(15,9,27) arc(1,2,25) arc(1,3,30) arc(1,4,23) arc(1,6,28) arc(3,6,26) arc(4,6,31) arc(5,6,32) arc(1,8,25) arc(4,8,34) arc(5,8,27) arc(7,8,35) arc(1,9,31) arc(2,9,31) arc(3,9,30) arc(4,9,30) arc(5,9,35) arc(6,9,25) arc(7,9,31) arc(8,9,31) arc(7,10,30) arc(1,11,27) arc(4,11,30) arc(5,11,31) arc(7,11,27) arc(10,11,27) arc(1,13,25) arc(4,13,34) arc(5,13,29) arc(7,13,31) arc(10,13,34) arc(12,13,29) arc(1,14,30) arc(4,14,35) arc(5,14,30) arc(7,14,30) arc(10,14,29) arc(12,14,29) arc(1,15,30) arc(2,15,31) arc(3,15,30) arc(4,15,30) arc(5,15,35) arc(6,15,29) arc(7,15,31) arc(8,15,30) arc(10,15,30) arc(11,15,31) arc(12,15,29) arc(13,15,30) arc(14,15,26) winner(12)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.679s (Solving: 0.44s 1st Model: 0.01s Unsat: 0.42s)
+CPU Time     : 0.640s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,27) arc(4,1,21) arc(4,2,20) arc(5,1,27) arc(5,2,18) arc(5,4,26) arc(7,1,29) arc(7,4,25) arc(7,5,19) arc(7,6,31) arc(8,2,20) arc(9,2,18) arc(9,8,18) arc(10,2,21) arc(10,8,26) arc(11,1,21) arc(11,2,19) arc(11,4,28) arc(11,6,19) arc(11,8,29) arc(11,9,28) arc(11,10,33) arc(12,1,18) arc(12,4,26) arc(12,6,23) arc(12,8,29) arc(12,10,31) arc(13,2,20) arc(13,5,18) arc(13,6,21) arc(13,7,21) arc(13,8,29) arc(13,10,20) arc(13,11,18) arc(13,12,20) arc(14,4,18) arc(14,6,18) arc(14,8,29) arc(14,10,31) arc(15,3,19) arc(15,7,18) arc(15,12,18) arc(1,2,19) arc(2,3,20) arc(3,4,26) arc(3,5,28) arc(1,6,20) arc(2,6,19) arc(3,6,33) arc(4,6,24) arc(5,6,33) arc(2,7,19) arc(3,7,30) arc(1,8,29) arc(3,8,29) arc(4,8,32) arc(5,8,30) arc(6,8,29) arc(7,8,28) arc(1,9,30) arc(3,9,29) arc(4,9,20) arc(5,9,31) arc(6,9,28) arc(7,9,28) arc(1,10,33) arc(3,10,29) arc(4,10,34) arc(5,10,31) arc(6,10,30) arc(7,10,27) arc(9,10,18) arc(3,11,30) arc(5,11,30) arc(7,11,29) arc(2,12,18) arc(3,12,29) arc(5,12,29) arc(7,12,28) arc(9,12,18) arc(11,12,30) arc(1,13,19) arc(3,13,29) arc(4,13,20) arc(9,13,18) arc(1,14,19) arc(2,14,18) arc(3,14,29) arc(5,14,32) arc(7,14,27) arc(9,14,18) arc(11,14,33) arc(12,14,31) arc(13,14,20) arc(1,15,23) arc(2,15,30) arc(4,15,24) arc(5,15,18) arc(6,15,18) arc(8,15,20) arc(9,15,18) arc(10,15,21) arc(11,15,20) arc(13,15,20) arc(14,15,18) winner(3)
+Optimization: 260
+Answer: 2
+arc(3,1,27) arc(4,1,21) arc(4,2,20) arc(5,1,27) arc(5,2,18) arc(5,4,26) arc(7,1,29) arc(7,4,25) arc(7,5,19) arc(7,6,31) arc(8,2,20) arc(9,2,18) arc(9,8,18) arc(10,2,21) arc(10,8,26) arc(11,1,21) arc(11,2,19) arc(11,4,28) arc(11,6,19) arc(11,8,29) arc(11,9,28) arc(11,10,33) arc(12,1,18) arc(12,4,26) arc(12,6,23) arc(12,8,29) arc(12,10,31) arc(13,2,20) arc(13,5,18) arc(13,6,21) arc(13,7,21) arc(13,8,29) arc(13,10,20) arc(13,11,18) arc(13,12,20) arc(14,4,18) arc(14,6,18) arc(14,8,29) arc(14,10,31) arc(15,3,19) arc(15,7,18) arc(15,12,18) arc(1,2,19) arc(2,3,20) arc(3,4,26) arc(3,5,28) arc(1,6,20) arc(2,6,19) arc(3,6,33) arc(4,6,24) arc(5,6,33) arc(2,7,19) arc(3,7,30) arc(1,8,29) arc(3,8,29) arc(4,8,32) arc(5,8,30) arc(6,8,29) arc(7,8,28) arc(1,9,30) arc(3,9,29) arc(4,9,20) arc(5,9,31) arc(6,9,28) arc(7,9,28) arc(1,10,33) arc(3,10,29) arc(4,10,34) arc(5,10,31) arc(6,10,30) arc(7,10,27) arc(9,10,18) arc(3,11,30) arc(5,11,30) arc(7,11,29) arc(2,12,18) arc(3,12,29) arc(5,12,29) arc(7,12,28) arc(9,12,18) arc(11,12,30) arc(1,13,19) arc(3,13,29) arc(4,13,20) arc(9,13,18) arc(1,14,19) arc(2,14,18) arc(3,14,29) arc(5,14,32) arc(7,14,27) arc(9,14,18) arc(11,14,33) arc(12,14,31) arc(13,14,20) arc(1,15,23) arc(2,15,30) arc(4,15,24) arc(5,15,18) arc(6,15,18) arc(8,15,20) arc(9,15,18) arc(10,15,21) arc(11,15,20) arc(13,15,20) arc(14,15,18) winner(3)
+Optimization: 260
+OPTIMUM FOUND
+
+Models       : 16    
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 260
+Calls        : 1
+Time         : 2.590s (Solving: 2.40s 1st Model: 0.01s Unsat: 0.69s)
+CPU Time     : 2.550s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,30) arc(3,1,29) arc(5,1,29) arc(5,3,20) arc(5,4,34) arc(6,1,21) arc(6,3,21) arc(6,4,25) arc(7,1,29) arc(7,3,24) arc(7,4,34) arc(8,1,29) arc(8,3,20) arc(8,4,34) arc(9,1,29) arc(9,3,20) arc(9,4,30) arc(10,1,30) arc(10,3,21) arc(10,4,30) arc(10,5,30) arc(10,6,31) arc(10,7,31) arc(10,8,22) arc(10,9,21) arc(12,1,29) arc(12,3,20) arc(12,4,30) arc(12,5,29) arc(12,6,29) arc(12,7,29) arc(12,8,29) arc(12,9,20) arc(12,10,29) arc(12,11,30) arc(13,1,30) arc(13,4,30) arc(13,11,30) arc(14,1,29) arc(14,4,21) arc(14,11,30) arc(15,1,30) arc(15,3,21) arc(15,4,34) arc(15,8,22) arc(15,9,25) arc(15,11,34) arc(15,13,25) arc(15,14,34) arc(2,3,21) arc(1,4,25) arc(2,4,30) arc(3,4,34) arc(2,5,31) arc(2,6,30) arc(5,6,34) arc(2,7,31) arc(5,7,21) arc(6,7,21) arc(2,8,31) arc(5,8,21) arc(6,8,22) arc(7,8,26) arc(2,9,26) arc(5,9,24) arc(6,9,25) arc(7,9,25) arc(8,9,25) arc(2,10,34) arc(1,11,25) arc(2,11,34) arc(3,11,34) arc(4,11,34) arc(5,11,34) arc(6,11,25) arc(7,11,34) arc(8,11,34) arc(9,11,30) arc(10,11,30) arc(2,12,35) arc(2,13,35) arc(3,13,34) arc(5,13,24) arc(6,13,25) arc(7,13,24) arc(8,13,33) arc(9,13,34) arc(10,13,21) arc(12,13,29) arc(2,14,35) arc(3,14,35) arc(5,14,33) arc(6,14,25) arc(7,14,34) arc(8,14,34) arc(9,14,34) arc(10,14,34) arc(12,14,29) arc(13,14,34) arc(2,15,31) arc(5,15,20) arc(6,15,21) arc(7,15,24) arc(10,15,30) arc(12,15,29) winner(2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.662s (Solving: 0.44s 1st Model: 0.01s Unsat: 0.42s)
+CPU Time     : 0.620s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,32) arc(3,2,32) arc(4,1,31) arc(4,2,31) arc(5,1,29) arc(5,2,33) arc(5,4,29) arc(6,1,27) arc(6,2,27) arc(6,4,30) arc(6,5,28) arc(7,1,32) arc(7,2,31) arc(7,4,31) arc(8,1,26) arc(8,2,31) arc(8,4,28) arc(8,7,26) arc(9,1,26) arc(9,2,31) arc(9,4,30) arc(9,7,27) arc(10,1,34) arc(10,2,31) arc(10,4,34) arc(10,7,33) arc(12,1,29) arc(12,2,27) arc(12,4,30) arc(12,5,28) arc(12,6,34) arc(12,7,29) arc(12,8,31) arc(12,9,31) arc(12,10,30) arc(12,11,27) arc(13,1,33) arc(13,2,31) arc(13,11,32) arc(14,1,29) arc(14,2,27) arc(14,4,30) arc(14,5,29) arc(14,7,27) arc(14,8,29) arc(14,9,29) arc(14,10,28) arc(14,11,28) arc(14,13,28) arc(15,1,28) arc(15,2,28) arc(15,4,30) arc(15,5,28) arc(15,6,34) arc(15,7,30) arc(15,8,31) arc(15,9,31) arc(15,10,28) arc(15,11,27) arc(15,13,28) arc(15,14,29) arc(1,2,31) arc(3,4,29) arc(3,5,32) arc(3,6,34) arc(3,7,33) arc(5,7,28) arc(6,7,29) arc(3,8,35) arc(5,8,31) arc(6,8,30) arc(3,9,34) arc(5,9,30) arc(6,9,31) arc(8,9,27) arc(3,10,27) arc(5,10,28) arc(6,10,28) arc(8,10,26) arc(9,10,27) arc(1,11,27) arc(2,11,28) arc(3,11,28) arc(4,11,28) arc(5,11,30) arc(6,11,27) arc(7,11,28) arc(8,11,27) arc(9,11,27) arc(10,11,32) arc(3,12,32) arc(3,13,27) arc(4,13,26) arc(5,13,29) arc(6,13,28) arc(7,13,28) arc(8,13,26) arc(9,13,28) arc(10,13,31) arc(12,13,28) arc(3,14,34) arc(6,14,28) arc(12,14,29) arc(3,15,31) arc(12,15,32) winner(3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.846s (Solving: 0.60s 1st Model: 0.01s Unsat: 0.58s)
+CPU Time     : 0.800s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,2,27) arc(4,1,34) arc(4,2,34) arc(4,3,35) arc(5,1,34) arc(5,2,33) arc(5,3,35) arc(6,1,34) arc(6,2,33) arc(6,3,34) arc(6,4,28) arc(6,5,34) arc(7,2,34) arc(8,1,34) arc(8,2,33) arc(8,3,34) arc(8,5,33) arc(8,7,34) arc(9,2,33) arc(10,1,34) arc(10,2,33) arc(10,3,34) arc(10,4,27) arc(10,5,28) arc(10,6,28) arc(10,7,28) arc(10,8,29) arc(10,9,29) arc(11,1,34) arc(11,2,33) arc(11,3,34) arc(11,5,34) arc(11,7,33) arc(11,9,34) arc(12,2,34) arc(12,9,29) arc(13,2,33) arc(14,2,33) arc(14,9,34) arc(14,13,34) arc(15,2,33) arc(15,9,28) arc(15,13,27) arc(1,2,34) arc(1,3,34) arc(4,5,35) arc(1,7,27) arc(3,7,28) arc(4,7,34) arc(5,7,28) arc(6,7,33) arc(4,8,35) arc(6,8,34) arc(1,9,28) arc(3,9,28) arc(4,9,35) arc(5,9,29) arc(6,9,34) arc(7,9,28) arc(8,9,35) arc(4,11,35) arc(6,11,35) arc(8,11,34) arc(10,11,28) arc(1,12,28) arc(3,12,27) arc(4,12,34) arc(5,12,33) arc(6,12,33) arc(7,12,34) arc(8,12,33) arc(10,12,33) arc(11,12,33) arc(1,13,28) arc(3,13,28) arc(4,13,35) arc(5,13,34) arc(6,13,34) arc(7,13,34) arc(8,13,34) arc(9,13,34) arc(10,13,28) arc(11,13,33) arc(12,13,29) arc(1,14,28) arc(3,14,28) arc(4,14,28) arc(5,14,28) arc(6,14,27) arc(7,14,29) arc(8,14,28) arc(10,14,28) arc(11,14,27) arc(12,14,29) arc(1,15,34) arc(3,15,28) arc(4,15,35) arc(5,15,34) arc(6,15,35) arc(7,15,35) arc(8,15,34) arc(10,15,34) arc(11,15,33) arc(12,15,35) arc(14,15,35) winner(10)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.054s (Solving: 1.78s 1st Model: 0.01s Unsat: 1.76s)
+CPU Time     : 2.010s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,31) arc(6,1,24) arc(6,3,33) arc(6,4,24) arc(6,5,32) arc(7,3,24) arc(7,4,23) arc(7,5,32) arc(9,1,25) arc(9,2,26) arc(9,3,26) arc(9,4,24) arc(9,5,34) arc(9,6,26) arc(9,7,33) arc(9,8,34) arc(10,5,30) arc(10,8,32) arc(11,8,31) arc(12,3,31) arc(12,4,21) arc(12,5,30) arc(12,7,30) arc(12,8,30) arc(12,10,24) arc(12,11,22) arc(13,5,31) arc(13,8,30) arc(13,10,23) arc(13,11,22) arc(14,1,25) arc(14,2,25) arc(14,3,26) arc(14,4,26) arc(14,5,34) arc(14,6,26) arc(14,7,33) arc(14,8,25) arc(14,9,24) arc(14,10,26) arc(14,11,24) arc(14,12,27) arc(14,13,26) arc(15,1,25) arc(15,2,24) arc(15,3,26) arc(15,4,24) arc(15,5,32) arc(15,6,24) arc(15,7,32) arc(15,8,25) arc(15,10,26) arc(15,11,25) arc(15,12,25) arc(15,13,26) arc(1,3,31) arc(2,3,31) arc(1,4,29) arc(2,4,31) arc(3,4,22) arc(1,5,31) arc(2,5,31) arc(3,5,31) arc(4,5,32) arc(2,6,31) arc(1,7,30) arc(2,7,30) arc(6,7,31) arc(1,8,31) arc(2,8,31) arc(3,8,32) arc(4,8,31) arc(5,8,25) arc(6,8,31) arc(7,8,24) arc(1,10,24) arc(2,10,31) arc(3,10,25) arc(4,10,25) arc(6,10,24) arc(7,10,25) arc(9,10,25) arc(1,11,25) arc(2,11,31) arc(3,11,25) arc(4,11,25) arc(5,11,24) arc(6,11,25) arc(7,11,23) arc(9,11,25) arc(10,11,29) arc(1,12,32) arc(2,12,31) arc(6,12,24) arc(9,12,25) arc(1,13,33) arc(2,13,32) arc(3,13,33) arc(4,13,34) arc(6,13,33) arc(7,13,25) arc(9,13,26) arc(12,13,32) arc(9,15,32) arc(14,15,32) winner(14)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.630s (Solving: 0.40s 1st Model: 0.01s Unsat: 0.39s)
+CPU Time     : 0.590s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(4,1,28) arc(4,2,27) arc(4,3,33) arc(5,3,33) arc(7,1,35) arc(7,2,33) arc(7,3,33) arc(7,4,34) arc(7,5,35) arc(7,6,34) arc(8,6,35) arc(9,6,28) arc(10,3,33) arc(10,5,35) arc(10,6,34) arc(10,8,34) arc(10,9,34) arc(11,1,35) arc(11,2,33) arc(11,3,33) arc(11,4,34) arc(11,5,35) arc(11,6,35) arc(11,7,34) arc(11,8,34) arc(11,9,35) arc(11,10,34) arc(12,6,28) arc(12,9,27) arc(13,1,34) arc(13,2,33) arc(13,3,33) arc(13,4,33) arc(13,5,34) arc(13,6,34) arc(13,8,33) arc(13,9,34) arc(13,10,34) arc(13,12,34) arc(14,6,33) arc(15,1,29) arc(15,2,27) arc(15,3,33) arc(15,4,35) arc(15,5,35) arc(15,6,35) arc(15,7,29) arc(15,8,29) arc(15,9,35) arc(15,10,28) arc(15,11,29) arc(15,12,35) arc(15,13,29) arc(15,14,29) arc(1,3,33) arc(2,3,33) arc(1,5,35) arc(2,5,35) arc(4,5,28) arc(1,6,33) arc(2,6,35) arc(3,6,29) arc(4,6,28) arc(5,6,27) arc(1,8,27) arc(2,8,29) arc(3,8,29) arc(4,8,27) arc(5,8,27) arc(7,8,28) arc(1,9,34) arc(2,9,35) arc(3,9,29) arc(4,9,29) arc(5,9,28) arc(7,9,34) arc(8,9,35) arc(1,10,28) arc(2,10,28) arc(4,10,28) arc(7,10,28) arc(1,12,34) arc(2,12,35) arc(3,12,29) arc(4,12,29) arc(5,12,34) arc(7,12,34) arc(8,12,35) arc(10,12,34) arc(11,12,35) arc(7,13,28) arc(11,13,28) arc(1,14,28) arc(2,14,29) arc(3,14,29) arc(4,14,28) arc(5,14,27) arc(7,14,34) arc(8,14,35) arc(9,14,28) arc(10,14,34) arc(11,14,35) arc(12,14,28) arc(13,14,34) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.427s (Solving: 2.15s 1st Model: 0.01s Unsat: 2.14s)
+CPU Time     : 2.380s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,25) arc(3,1,34) arc(5,1,25) arc(5,3,19) arc(5,4,26) arc(6,1,19) arc(7,1,26) arc(7,4,18) arc(7,5,22) arc(7,6,25) arc(8,1,19) arc(8,2,19) arc(8,3,19) arc(8,4,19) arc(8,5,19) arc(8,6,27) arc(8,7,27) arc(9,1,18) arc(10,1,30) arc(10,2,24) arc(10,3,23) arc(10,4,23) arc(10,5,31) arc(10,6,30) arc(10,7,30) arc(10,9,31) arc(11,6,19) arc(11,9,19) arc(12,1,27) arc(12,2,24) arc(12,3,23) arc(12,4,23) arc(12,5,24) arc(12,6,34) arc(12,7,23) arc(12,9,27) arc(13,1,30) arc(13,4,23) arc(13,11,23) arc(14,1,27) arc(14,2,24) arc(14,3,28) arc(14,4,26) arc(14,5,27) arc(14,6,33) arc(14,7,27) arc(14,9,27) arc(14,10,19) arc(14,11,20) arc(14,12,34) arc(14,13,27) arc(15,1,23) arc(15,2,24) arc(15,3,24) arc(15,4,22) arc(15,5,23) arc(15,6,22) arc(15,7,23) arc(15,9,23) arc(15,10,19) arc(15,12,23) arc(15,13,23) arc(15,14,22) arc(2,3,26) arc(1,4,23) arc(2,4,33) arc(3,4,33) arc(2,5,20) arc(2,6,33) arc(3,6,19) arc(4,6,20) arc(5,6,33) arc(2,7,20) arc(3,7,19) arc(2,9,33) arc(3,9,34) arc(4,9,21) arc(5,9,34) arc(6,9,24) arc(7,9,34) arc(8,9,27) arc(8,10,19) arc(1,11,23) arc(2,11,27) arc(3,11,27) arc(4,11,23) arc(5,11,26) arc(7,11,27) arc(8,11,19) arc(10,11,23) arc(8,12,19) arc(10,12,30) arc(11,12,19) arc(2,13,25) arc(3,13,26) arc(5,13,18) arc(6,13,19) arc(7,13,26) arc(8,13,19) arc(9,13,19) arc(10,13,30) arc(12,13,20) arc(8,14,19) arc(8,15,19) arc(11,15,19) winner(8)
+Optimization: 132
+Answer: 2
+arc(2,1,25) arc(3,1,34) arc(5,1,25) arc(5,3,19) arc(5,4,26) arc(6,1,19) arc(7,1,26) arc(7,4,18) arc(7,5,22) arc(7,6,25) arc(8,1,19) arc(8,2,19) arc(8,3,19) arc(8,4,19) arc(8,5,19) arc(8,6,27) arc(8,7,27) arc(9,1,18) arc(10,1,30) arc(10,2,24) arc(10,3,23) arc(10,4,23) arc(10,5,31) arc(10,6,30) arc(10,7,30) arc(10,9,31) arc(11,6,19) arc(11,9,19) arc(12,1,27) arc(12,2,24) arc(12,3,23) arc(12,4,23) arc(12,5,24) arc(12,6,34) arc(12,7,23) arc(12,9,27) arc(13,1,30) arc(13,4,23) arc(13,11,23) arc(14,1,27) arc(14,2,24) arc(14,3,28) arc(14,4,26) arc(14,5,27) arc(14,6,33) arc(14,7,27) arc(14,9,27) arc(14,10,19) arc(14,11,20) arc(14,12,34) arc(14,13,27) arc(15,1,23) arc(15,2,24) arc(15,3,24) arc(15,4,22) arc(15,5,23) arc(15,6,22) arc(15,7,23) arc(15,9,23) arc(15,10,19) arc(15,12,23) arc(15,13,23) arc(15,14,22) arc(2,3,26) arc(1,4,23) arc(2,4,33) arc(3,4,33) arc(2,5,20) arc(2,6,33) arc(3,6,19) arc(4,6,20) arc(5,6,33) arc(2,7,20) arc(3,7,19) arc(2,9,33) arc(3,9,34) arc(4,9,21) arc(5,9,34) arc(6,9,24) arc(7,9,34) arc(8,9,27) arc(8,10,19) arc(1,11,23) arc(2,11,27) arc(3,11,27) arc(4,11,23) arc(5,11,26) arc(7,11,27) arc(8,11,19) arc(10,11,23) arc(8,12,19) arc(10,12,30) arc(11,12,19) arc(2,13,25) arc(3,13,26) arc(5,13,18) arc(6,13,19) arc(7,13,26) arc(8,13,19) arc(9,13,19) arc(10,13,30) arc(12,13,20) arc(8,14,19) arc(8,15,19) arc(11,15,19) winner(8)
+Optimization: 132
+OPTIMUM FOUND
+
+Models       : 8     
+  Optimum    : yes
+  Optimal    : 2
+Optimization : 132
+Calls        : 1
+Time         : 0.707s (Solving: 0.52s 1st Model: 0.01s Unsat: 0.03s)
+CPU Time     : 0.660s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,26) arc(3,1,32) arc(3,2,35) arc(5,1,32) arc(5,2,35) arc(5,4,23) arc(6,1,32) arc(6,4,23) arc(7,1,33) arc(7,2,29) arc(7,4,23) arc(7,6,29) arc(8,1,33) arc(8,2,27) arc(8,4,23) arc(8,5,21) arc(8,6,27) arc(8,7,26) arc(9,1,29) arc(9,2,29) arc(9,4,29) arc(9,6,29) arc(9,7,28) arc(10,1,32) arc(10,2,33) arc(10,4,29) arc(10,5,33) arc(10,6,26) arc(10,7,32) arc(10,9,32) arc(11,1,33) arc(11,2,35) arc(11,4,29) arc(11,6,35) arc(12,1,32) arc(12,2,32) arc(12,3,32) arc(12,4,26) arc(12,5,26) arc(12,6,32) arc(12,7,32) arc(12,8,32) arc(12,9,26) arc(12,10,26) arc(12,11,26) arc(13,1,34) arc(13,2,35) arc(13,3,29) arc(13,4,29) arc(13,5,29) arc(13,6,35) arc(13,7,28) arc(13,8,28) arc(13,9,28) arc(13,10,29) arc(13,11,22) arc(13,12,29) arc(14,1,32) arc(14,2,35) arc(14,4,23) arc(14,5,34) arc(14,6,28) arc(14,7,34) arc(14,9,26) arc(14,10,22) arc(14,11,28) arc(15,1,32) arc(15,2,33) arc(15,4,34) arc(15,6,32) arc(15,11,26) arc(1,4,23) arc(2,4,22) arc(3,4,22) arc(3,5,28) arc(2,6,20) arc(3,6,28) arc(5,6,26) arc(3,7,34) arc(5,7,32) arc(3,8,34) arc(3,9,26) arc(5,9,26) arc(8,9,26) arc(3,10,22) arc(8,10,21) arc(3,11,28) arc(5,11,26) arc(7,11,27) arc(8,11,26) arc(9,11,29) arc(10,11,26) arc(3,14,26) arc(8,14,21) arc(12,14,26) arc(13,14,29) arc(3,15,22) arc(5,15,23) arc(7,15,23) arc(8,15,21) arc(9,15,23) arc(10,15,27) arc(12,15,26) arc(13,15,29) arc(14,15,23) winner(13)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.646s (Solving: 0.41s 1st Model: 0.01s Unsat: 0.40s)
+CPU Time     : 0.600s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,24) arc(3,1,24) arc(3,2,26) arc(4,1,30) arc(4,2,30) arc(4,3,34) arc(5,1,26) arc(5,2,31) arc(6,1,27) arc(6,2,31) arc(6,3,30) arc(6,5,32) arc(8,1,27) arc(8,2,27) arc(8,3,30) arc(8,5,26) arc(8,6,25) arc(8,7,31) arc(9,1,28) arc(9,2,29) arc(9,5,30) arc(9,7,27) arc(10,1,30) arc(10,2,30) arc(10,3,34) arc(10,4,29) arc(10,5,31) arc(10,6,30) arc(10,7,31) arc(10,8,34) arc(10,9,32) arc(12,1,26) arc(12,2,30) arc(12,7,30) arc(12,11,26) arc(13,1,27) arc(13,2,33) arc(13,5,32) arc(13,7,31) arc(13,11,29) arc(13,12,33) arc(14,7,30) arc(14,11,26) arc(3,5,25) arc(4,5,30) arc(4,6,29) arc(1,7,31) arc(2,7,30) arc(3,7,27) arc(4,7,27) arc(5,7,31) arc(6,7,31) arc(4,8,29) arc(3,9,30) arc(4,9,31) arc(6,9,31) arc(8,9,29) arc(1,11,29) arc(2,11,24) arc(3,11,25) arc(4,11,28) arc(5,11,27) arc(6,11,32) arc(7,11,27) arc(8,11,28) arc(9,11,27) arc(10,11,28) arc(3,12,28) arc(4,12,31) arc(5,12,28) arc(6,12,30) arc(8,12,26) arc(9,12,28) arc(10,12,31) arc(3,13,25) arc(4,13,26) arc(6,13,31) arc(8,13,27) arc(9,13,27) arc(10,13,27) arc(1,14,29) arc(2,14,26) arc(3,14,25) arc(4,14,30) arc(5,14,31) arc(6,14,31) arc(8,14,27) arc(9,14,29) arc(10,14,27) arc(12,14,30) arc(13,14,31) arc(1,15,29) arc(2,15,28) arc(3,15,25) arc(4,15,27) arc(5,15,28) arc(6,15,32) arc(7,15,27) arc(8,15,30) arc(9,15,28) arc(10,15,32) arc(11,15,31) arc(12,15,29) arc(13,15,31) arc(14,15,28) winner(10)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.902s (Solving: 0.66s 1st Model: 0.01s Unsat: 0.65s)
+CPU Time     : 0.860s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(3,1,34) arc(4,1,34) arc(5,1,29) arc(5,2,28) arc(5,3,28) arc(5,4,29) arc(6,1,34) arc(6,2,34) arc(6,3,34) arc(6,4,34) arc(7,1,29) arc(8,1,29) arc(8,3,28) arc(8,4,29) arc(8,7,33) arc(9,1,28) arc(10,1,34) arc(10,2,33) arc(10,3,34) arc(10,4,28) arc(10,6,28) arc(10,7,33) arc(10,8,33) arc(10,9,34) arc(11,1,28) arc(11,3,28) arc(11,4,28) arc(11,7,33) arc(11,8,34) arc(11,9,33) arc(12,1,28) arc(12,3,27) arc(12,4,28) arc(12,7,33) arc(12,8,27) arc(12,9,33) arc(12,11,27) arc(13,1,29) arc(13,2,29) arc(13,3,28) arc(13,4,29) arc(13,6,28) arc(13,7,34) arc(13,8,29) arc(13,9,28) arc(13,10,29) arc(13,11,28) arc(13,12,29) arc(14,1,35) arc(14,7,33) arc(14,9,35) arc(15,1,35) arc(15,3,34) arc(15,4,29) arc(15,7,34) arc(15,9,34) arc(15,14,28) arc(2,3,28) arc(2,4,28) arc(3,4,28) arc(5,6,28) arc(2,7,33) arc(3,7,33) arc(4,7,33) arc(5,7,28) arc(6,7,33) arc(2,8,27) arc(5,8,28) arc(6,8,34) arc(2,9,34) arc(3,9,33) arc(4,9,34) arc(5,9,28) arc(6,9,34) arc(7,9,29) arc(8,9,34) arc(5,10,29) arc(2,11,28) arc(5,11,28) arc(6,11,35) arc(10,11,34) arc(2,12,35) arc(5,12,29) arc(6,12,35) arc(10,12,34) arc(5,13,27) arc(2,14,27) arc(3,14,27) arc(4,14,33) arc(5,14,28) arc(6,14,33) arc(8,14,28) arc(10,14,27) arc(11,14,27) arc(12,14,27) arc(13,14,28) arc(2,15,28) arc(5,15,28) arc(6,15,34) arc(8,15,28) arc(10,15,33) arc(11,15,28) arc(12,15,28) arc(13,15,28) winner(5)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.289s (Solving: 2.03s 1st Model: 0.01s Unsat: 2.02s)
+CPU Time     : 2.250s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,29) arc(3,1,27) arc(4,1,31) arc(4,2,31) arc(4,3,32) arc(5,1,24) arc(6,1,26) arc(6,5,29) arc(7,1,30) arc(7,5,32) arc(8,1,26) arc(8,5,24) arc(8,6,27) arc(8,7,23) arc(10,9,29) arc(11,1,24) arc(11,5,23) arc(11,7,22) arc(11,9,25) arc(11,10,24) arc(12,9,26) arc(13,1,25) arc(13,5,29) arc(13,6,25) arc(13,7,22) arc(13,8,30) arc(13,9,24) arc(13,10,25) arc(13,11,31) arc(13,12,28) arc(14,9,28) arc(15,1,25) arc(15,2,27) arc(15,3,24) arc(15,4,25) arc(15,5,27) arc(15,6,28) arc(15,7,22) arc(15,8,26) arc(15,9,27) arc(15,10,26) arc(15,11,28) arc(15,12,27) arc(15,13,29) arc(15,14,24) arc(2,3,32) arc(2,5,32) arc(3,5,26) arc(4,5,34) arc(2,6,28) arc(3,6,27) arc(4,6,30) arc(2,7,28) arc(3,7,25) arc(4,7,29) arc(6,7,23) arc(2,8,30) arc(3,8,29) arc(4,8,35) arc(1,9,27) arc(2,9,29) arc(3,9,29) arc(4,9,32) arc(5,9,29) arc(6,9,28) arc(7,9,32) arc(8,9,27) arc(1,10,28) arc(2,10,30) arc(3,10,29) arc(4,10,27) arc(5,10,27) arc(6,10,26) arc(7,10,30) arc(8,10,27) arc(2,11,34) arc(3,11,31) arc(4,11,35) arc(6,11,30) arc(8,11,32) arc(1,12,33) arc(2,12,31) arc(3,12,29) arc(4,12,34) arc(5,12,33) arc(6,12,30) arc(7,12,35) arc(8,12,26) arc(10,12,33) arc(11,12,28) arc(2,13,31) arc(3,13,28) arc(4,13,35) arc(1,14,30) arc(2,14,32) arc(3,14,31) arc(4,14,28) arc(5,14,29) arc(6,14,27) arc(7,14,32) arc(8,14,26) arc(10,14,27) arc(11,14,25) arc(12,14,28) arc(13,14,26) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.659s (Solving: 0.43s 1st Model: 0.01s Unsat: 0.41s)
+CPU Time     : 0.610s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,25) arc(4,1,27) arc(4,2,30) arc(4,3,31) arc(6,1,29) arc(6,2,31) arc(6,3,32) arc(6,5,35) arc(7,1,25) arc(7,2,34) arc(7,3,31) arc(7,4,28) arc(7,5,30) arc(7,6,28) arc(8,3,32) arc(8,5,28) arc(9,5,29) arc(10,3,29) arc(10,5,27) arc(10,9,31) arc(11,3,30) arc(11,5,27) arc(11,8,27) arc(11,9,31) arc(11,10,27) arc(13,1,25) arc(13,2,31) arc(13,3,29) arc(13,4,25) arc(13,5,26) arc(13,6,25) arc(13,7,29) arc(13,8,25) arc(13,9,28) arc(13,10,25) arc(13,11,28) arc(13,12,28) arc(14,1,31) arc(14,2,31) arc(14,3,29) arc(14,5,28) arc(14,8,31) arc(14,9,27) arc(14,10,31) arc(14,11,29) arc(14,12,28) arc(15,5,25) arc(15,9,26) arc(15,12,28) arc(1,3,31) arc(2,3,28) arc(1,5,30) arc(2,5,29) arc(3,5,28) arc(4,5,30) arc(4,6,30) arc(1,8,30) arc(2,8,28) arc(4,8,30) arc(6,8,31) arc(7,8,29) arc(1,9,31) arc(2,9,29) arc(3,9,31) arc(4,9,31) arc(6,9,35) arc(7,9,31) arc(8,9,29) arc(1,10,34) arc(2,10,28) arc(4,10,30) arc(6,10,34) arc(7,10,29) arc(8,10,32) arc(1,11,31) arc(2,11,28) arc(4,11,31) arc(6,11,32) arc(7,11,27) arc(1,12,30) arc(2,12,28) arc(3,12,28) arc(4,12,28) arc(5,12,32) arc(6,12,32) arc(7,12,27) arc(8,12,27) arc(9,12,31) arc(10,12,27) arc(11,12,28) arc(4,14,30) arc(6,14,32) arc(7,14,28) arc(13,14,28) arc(1,15,33) arc(2,15,32) arc(3,15,34) arc(4,15,33) arc(6,15,34) arc(7,15,33) arc(8,15,34) arc(10,15,33) arc(11,15,34) arc(13,15,34) arc(14,15,31) winner(13)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.861s (Solving: 0.61s 1st Model: 0.01s Unsat: 0.59s)
+CPU Time     : 0.820s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(3,1,31) arc(3,2,30) arc(4,1,29) arc(4,2,33) arc(5,1,32) arc(5,2,33) arc(5,3,30) arc(5,4,31) arc(6,1,27) arc(6,2,27) arc(7,1,27) arc(7,2,28) arc(7,3,28) arc(7,4,28) arc(7,5,27) arc(7,6,33) arc(8,1,30) arc(8,2,30) arc(9,1,33) arc(9,2,34) arc(9,8,29) arc(10,1,30) arc(10,2,30) arc(10,4,30) arc(10,6,32) arc(10,8,30) arc(10,9,30) arc(11,1,31) arc(11,2,33) arc(11,3,31) arc(11,4,32) arc(11,6,33) arc(11,8,34) arc(11,9,31) arc(11,10,33) arc(12,1,31) arc(12,2,31) arc(12,8,30) arc(13,1,31) arc(13,2,33) arc(13,6,32) arc(13,8,32) arc(13,9,30) arc(13,12,27) arc(14,2,31) arc(15,2,34) arc(15,14,33) arc(1,2,29) arc(3,4,27) arc(3,6,31) arc(4,6,30) arc(5,6,32) arc(3,8,29) arc(4,8,28) arc(5,8,31) arc(6,8,26) arc(7,8,28) arc(3,9,27) arc(4,9,26) arc(5,9,31) arc(6,9,26) arc(7,9,26) arc(3,10,28) arc(5,10,31) arc(7,10,26) arc(5,11,29) arc(7,11,26) arc(3,12,28) arc(4,12,27) arc(5,12,31) arc(6,12,27) arc(7,12,28) arc(9,12,28) arc(10,12,28) arc(11,12,32) arc(3,13,26) arc(4,13,23) arc(5,13,31) arc(7,13,26) arc(10,13,26) arc(11,13,31) arc(1,14,27) arc(3,14,28) arc(4,14,27) arc(5,14,31) arc(6,14,25) arc(7,14,26) arc(8,14,28) arc(9,14,29) arc(10,14,31) arc(11,14,31) arc(12,14,28) arc(13,14,31) arc(1,15,24) arc(3,15,25) arc(4,15,23) arc(5,15,30) arc(6,15,26) arc(7,15,24) arc(8,15,25) arc(9,15,24) arc(10,15,26) arc(11,15,26) arc(12,15,26) arc(13,15,24) winner(7)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.931s (Solving: 0.69s 1st Model: 0.01s Unsat: 0.67s)
+CPU Time     : 0.890s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,21) arc(3,1,24) arc(4,1,24) arc(4,2,34) arc(4,3,20) arc(6,1,20) arc(6,3,20) arc(6,5,31) arc(8,1,34) arc(8,5,34) arc(8,7,24) arc(9,5,35) arc(9,7,24) arc(10,1,24) arc(10,2,34) arc(10,3,20) arc(10,5,34) arc(10,6,35) arc(10,7,24) arc(10,8,21) arc(10,9,20) arc(11,5,34) arc(11,7,24) arc(12,5,23) arc(12,7,24) arc(12,9,23) arc(12,11,20) arc(13,1,31) arc(13,3,31) arc(13,5,31) arc(13,6,34) arc(13,7,21) arc(13,8,20) arc(13,9,31) arc(13,11,20) arc(13,12,31) arc(14,1,31) arc(14,3,31) arc(14,5,31) arc(14,6,32) arc(14,7,21) arc(14,8,21) arc(14,9,31) arc(14,11,31) arc(14,12,31) arc(15,1,23) arc(15,2,34) arc(15,3,20) arc(15,5,34) arc(15,6,35) arc(15,7,24) arc(15,8,24) arc(15,9,34) arc(15,10,34) arc(15,11,20) arc(15,12,31) arc(15,13,24) arc(15,14,24) arc(2,3,21) arc(1,5,34) arc(2,5,21) arc(3,5,35) arc(4,5,34) arc(2,6,24) arc(4,6,35) arc(1,7,24) arc(2,7,21) arc(3,7,24) arc(4,7,24) arc(5,7,24) arc(6,7,21) arc(2,8,21) arc(3,8,24) arc(4,8,21) arc(6,8,21) arc(1,9,31) arc(2,9,20) arc(3,9,34) arc(4,9,34) arc(6,9,20) arc(8,9,34) arc(4,10,34) arc(1,11,20) arc(2,11,21) arc(3,11,21) arc(4,11,20) arc(6,11,20) arc(8,11,31) arc(9,11,21) arc(10,11,21) arc(1,12,32) arc(2,12,21) arc(3,12,35) arc(4,12,32) arc(6,12,31) arc(8,12,31) arc(10,12,32) arc(2,13,24) arc(4,13,24) arc(10,13,24) arc(2,14,24) arc(4,14,24) arc(10,14,24) arc(13,14,23) arc(4,15,32) winner(4)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.511s (Solving: 0.29s 1st Model: 0.01s Unsat: 0.28s)
+CPU Time     : 0.460s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(2,1,33) arc(5,4,21) arc(6,1,22) arc(6,3,23) arc(6,4,24) arc(6,5,33) arc(9,1,22) arc(9,2,22) arc(9,3,23) arc(9,4,22) arc(9,5,33) arc(9,6,32) arc(9,7,20) arc(9,8,21) arc(11,1,25) arc(11,2,24) arc(11,3,34) arc(11,4,33) arc(11,5,35) arc(11,6,33) arc(11,7,24) arc(11,8,24) arc(11,10,35) arc(12,8,23) arc(12,10,32) arc(13,4,33) arc(13,5,33) arc(13,7,22) arc(13,8,22) arc(13,10,33) arc(13,12,25) arc(14,1,25) arc(14,3,32) arc(14,4,34) arc(14,5,34) arc(14,7,24) arc(14,8,24) arc(14,10,25) arc(14,12,25) arc(14,13,24) arc(15,1,24) arc(15,2,22) arc(15,3,31) arc(15,4,31) arc(15,5,33) arc(15,6,33) arc(15,7,21) arc(15,8,24) arc(15,9,33) arc(15,10,33) arc(15,11,22) arc(15,12,22) arc(15,13,31) arc(15,14,31) arc(1,3,31) arc(2,3,31) arc(1,4,31) arc(2,4,34) arc(3,4,24) arc(1,5,32) arc(2,5,34) arc(3,5,34) arc(2,6,33) arc(1,7,20) arc(2,7,29) arc(3,7,22) arc(4,7,20) arc(5,7,20) arc(6,7,20) arc(1,8,22) arc(2,8,24) arc(3,8,23) arc(4,8,22) arc(5,8,22) arc(6,8,21) arc(7,8,25) arc(1,10,32) arc(2,10,34) arc(3,10,25) arc(4,10,25) arc(5,10,25) arc(6,10,24) arc(7,10,35) arc(8,10,33) arc(9,10,24) arc(9,11,21) arc(1,12,23) arc(2,12,34) arc(3,12,25) arc(4,12,25) arc(5,12,23) arc(6,12,23) arc(7,12,25) arc(9,12,23) arc(11,12,25) arc(1,13,31) arc(2,13,33) arc(3,13,23) arc(6,13,24) arc(9,13,23) arc(11,13,33) arc(2,14,30) arc(6,14,21) arc(9,14,22) arc(11,14,33) winner(15)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.633s (Solving: 0.41s 1st Model: 0.01s Unsat: 0.40s)
+CPU Time     : 0.590s
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+arc(5,1,34) arc(5,2,34) arc(5,3,34) arc(5,4,34) arc(6,1,32) arc(6,2,32) arc(6,3,32) arc(6,4,31) arc(6,5,32) arc(7,1,31) arc(7,2,31) arc(7,3,34) arc(7,4,31) arc(7,5,31) arc(7,6,34) arc(8,1,31) arc(8,2,31) arc(8,3,32) arc(8,4,31) arc(8,5,32) arc(8,6,34) arc(8,7,32) arc(10,1,34) arc(10,2,34) arc(10,3,35) arc(10,4,34) arc(10,5,35) arc(10,6,34) arc(10,9,35) arc(11,3,32) arc(11,4,31) arc(11,9,32) arc(12,1,35) arc(12,2,35) arc(12,3,35) arc(12,4,34) arc(12,5,35) arc(12,9,35) arc(12,11,35) arc(13,3,32) arc(13,4,31) arc(13,9,32) arc(13,11,35) arc(14,3,32) arc(14,4,31) arc(14,9,32) arc(14,11,32) arc(15,3,35) arc(15,4,31) arc(15,9,35) arc(1,2,34) arc(1,3,35) arc(2,3,35) arc(1,4,31) arc(2,4,31) arc(3,4,31) arc(1,9,35) arc(2,9,35) arc(3,9,35) arc(4,9,35) arc(5,9,35) arc(6,9,32) arc(7,9,34) arc(8,9,32) arc(7,10,31) arc(8,10,31) arc(1,11,35) arc(2,11,35) arc(5,11,34) arc(6,11,35) arc(7,11,34) arc(8,11,34) arc(10,11,35) arc(6,12,31) arc(7,12,31) arc(8,12,31) arc(10,12,34) arc(1,13,34) arc(2,13,34) arc(5,13,34) arc(6,13,32) arc(7,13,34) arc(8,13,34) arc(10,13,34) arc(12,13,35) arc(1,14,34) arc(2,14,34) arc(5,14,34) arc(6,14,35) arc(7,14,34) arc(8,14,34) arc(10,14,34) arc(12,14,35) arc(13,14,35) arc(1,15,34) arc(2,15,31) arc(5,15,34) arc(6,15,32) arc(7,15,31) arc(8,15,31) arc(10,15,34) arc(11,15,31) arc(12,15,35) arc(13,15,32) arc(14,15,32) winner(8)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 133.238s (Solving: 132.96s 1st Model: 0.01s Unsat: 132.94s)
+CPU Time     : 133.320s
